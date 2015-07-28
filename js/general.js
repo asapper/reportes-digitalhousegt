@@ -5,7 +5,7 @@
  */
 
 // cambiar fondo y verso del dia acorde a fecha
-var dia = ( new Date().getDate() ) % 19,
+var dia = ( new Date().getDate() ) % 18,
     versos = [
         { 
             "body": "\"Confía en el Señor de todo corazón, y no en tu propia inteligencia.\"",
