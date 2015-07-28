@@ -1,0 +1,139 @@
+<!--
+    Archivo: index.html
+    Autor:   Andy Sapper
+    Creado:  06/30/2015
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/general.css" />
+    </head>
+    
+    <body>
+        
+        <!-- Main header strip -->
+        <div class="header-strip" id="main-strip">
+            <!-- Nav bar -->
+            <nav class="navbar navbar-default">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="">Digital House GT</a>
+                </div>
+
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <!-- Boton: Archivo -->
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Archivo <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="reportes/reporte-hojas.html">Nuevo Reporte - Hojas Impresas</a></li>
+                                <li><a href="reportes/reporte-vendedor.html">Nuevo Reporte - Vendedor</a></li>
+                                <li><a>Nuevo Reporte - OPs</a></li>
+                            </ul>
+                        </li>
+
+                        <!-- Boton: Ayuda -->
+                        <li>
+                            <a href="" id="btn-ayuda" data-toggle="modal" data-target="#modal-ayuda">Ayuda</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            
+            <!-- Header text -->
+            <div class="header-box">
+                <h1>Verso del Día</h1><br>
+                <p id="verse-body">"Alabad a Jehová, invocad su nombre, Dad a conocer en los pueblos sus obras."</p>
+                <p id="verse">1 Crónicas 16:8</p>
+            </div>
+        </div>
+
+        <!-- Body contents -->
+        <div class="row">
+            <h1>Crea un nuevo reporte...</h1>
+        </div><br>
+        
+        <div class="row">
+            <div class="col-md-4 col-sm-4 col-xs-4">
+                <a type="button" class="btn btn-default body-btn" href="reportes/reporte-hojas.html">
+                    <i class="fa fa-newspaper-o fa-5x pull-left"></i> 
+                    <h3>Hojas Impresas</h3>
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-sm-4 col-xs-4">
+                <a type="button" class="btn btn-default body-btn" href="reportes/reporte-vendedor.html">
+                    <i class="fa fa-user fa-5x pull-left"></i> 
+                    <h3>Vendedor</h3>
+                </a>
+            </div>
+            
+            <div class="col-md-4 col-sm-4 col-xs-4">
+                <a type="button" class="btn btn-default body-btn">
+                    <i class="fa fa-tasks fa-5x pull-left"></i> 
+                    <h3>OPs</h3>
+                </a>
+            </div>
+        </div>
+        
+    <!-- ************************** MODALS ************************** -->
+        
+        <!-- Modal: Ayuda -->
+        <div class="modal fade" id="modal-ayuda" tabindex="-1" role="dialog">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <!-- Modal header -->
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">Ayuda</h4>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <ul>
+                            <li>
+                                <h5>Reporte - Hojas Impresas</h5>
+                                <p>Este reporte requiere que los archivos vengan en formato *.txt (maquinas: separado por tabs, sunhive: separado por comas).</p>
+                                <p>Cómo obtener archivos
+                                <ul>
+                                    <li>CP1000, Versa: desde máquina de impresión.
+                                        <ul>
+                                            <li>Log / [escoger rango de fechas] / Export / Current View / [Guardar como separado por tab *.txt]
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>Sunhive: Producción / Reportes / Pliegos Prensa por Orden.</li>
+                                </ul>
+                                </p>
+                            </li>
+                            <li>
+                                <h5>Reporte - Vendedor</h5>
+                                <p>Este reporte requiere que el archivo venga en formato *.csv (comma-separated values).</p>
+                                <p>Cómo obtener archivo
+                                <ul>
+                                    <li>Sunhive: Ventas / Control de Ventas / Reporte por Cliente.</li>
+                                </ul>
+                                </p>
+                            </li>
+                            <li>
+                                <h5>Reporte - OPs</h5>
+                                <p>Este reporte aún no está habilitado.</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/general.js"></script>
+    </body>
+</html>

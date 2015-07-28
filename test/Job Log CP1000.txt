@@ -1,0 +1,678 @@
+Job Log
+Date/Time	Job Title	Print Status	User	Number Of Pages Printed	Total Number Of Black And White Pages Printed	Total Number Of Color Pages Printed	Number Of Copies Of Job Printed	Pages	Page Size	Media Type
+30-Jun-15 5:15:15 PM	19197 Tarjetas Kortek barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+30-Jun-15 5:15:15 PM	19197 Tarjetas Kortek barniz.pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+30-Jun-15 5:15:15 PM	19197 Tarjetas Kortek barniz.pdf.dbp	Canceled	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+30-Jun-15 3:57:22 PM	19106 porter novelli 100% negro .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+30-Jun-15 3:57:22 PM	19106 porter novelli 100% negro .pdf.dbp	OK	Admin	38	0	38	19	2	12.00in x 19.00in	Plain
+30-Jun-15 3:47:37 PM	19106 porter novelli 100% negro .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+30-Jun-15 1:18:29 PM	19161 codigos 2.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+30-Jun-15 1:18:29 PM	19161 codigos 2.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+30-Jun-15 11:19:28 AM	19781 klatina barniz .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+30-Jun-15 11:19:28 AM	19781 klatina barniz .pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+26-Jun-15 2:03:25 PM	completo barniz.pdf.dbp	Canceled	Admin	123	0	123	123	1	13x19 SEF	Plain
+26-Jun-15 2:01:45 PM	completo barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+25-Jun-15 5:38:20 PM	19147 remate barniz.pdf.dbp	Canceled	Admin	83	0	83	83	1	12.00in x 19.00in	Plain
+25-Jun-15 5:38:20 PM	19147 remate barniz.pdf.dbp	Canceled	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+25-Jun-15 5:38:20 PM	19147 remate barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+25-Jun-15 1:00:22 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+25-Jun-15 1:00:22 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	5	0	5	5	1	13x19 SEF	Plain
+25-Jun-15 1:00:22 PM	19118 esquite y sole BARNIZ.pdf.dbp	Canceled	Admin	6	0	6	6	1	13x19 SEF	Plain
+25-Jun-15 1:00:22 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+25-Jun-15 12:59:31 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+25-Jun-15 12:56:34 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+25-Jun-15 12:53:35 PM	19118 esquite y sole BARNIZ.pdf.dbp	OK	Admin	2	1	1	1	2	13x19 SEF	Plain
+25-Jun-15 12:05:32 PM	19134 puntos print barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+25-Jun-15 12:05:32 PM	19134 puntos print barniz  .pdf.dbp	OK	Admin	8	0	8	8	1	12.00in x 19.00in	Plain
+25-Jun-15 10:18:52 AM	19152 Tarj Jysp Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+25-Jun-15 10:18:52 AM	19152 Tarj Jysp Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+25-Jun-15 10:18:52 AM	19152 Tarj Jysp Barniz.pdf.dbp	OK	Admin	16	8	8	8	2	12.00in x 19.00in	Plain
+25-Jun-15 8:31:03 AM	completo barniz.pdf.dbp	Canceled	Admin	16	0	16	8	2	12.00in x 19.00in	Plain
+25-Jun-15 8:28:08 AM	completo barniz.pdf.dbp	OK	Admin	50	0	50	25	2	12.00in x 19.00in	Plain
+25-Jun-15 8:23:26 AM	completo barniz.pdf.dbp	OK	Admin	40	0	40	20	2	12.00in x 19.00in	Plain
+25-Jun-15 8:23:26 AM	completo barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+25-Jun-15 8:23:26 AM	completo barniz.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+24-Jun-15 5:28:44 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 5:28:44 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	4	0	4	2	2	12 x 18	Plain
+24-Jun-15 5:28:44 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+24-Jun-15 5:27:57 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 5:26:56 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 5:21:58 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 5:21:58 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 5:09:31 PM	19133 plus tecno barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+24-Jun-15 5:09:31 PM	19133 plus tecno barniz.pdf.dbp	OK	Admin	13	0	13	13	1	12.00in x 19.00in	Plain
+24-Jun-15 4:48:42 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+24-Jun-15 4:01:57 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+24-Jun-15 4:01:57 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+24-Jun-15 3:48:34 PM	HOJAS NICOLE.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+24-Jun-15 3:48:34 PM	HOJAS NICOLE.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+23-Jun-15 2:04:55 PM	19053 sticker cambio codigo 3944.pdf.dbp	OK	Admin	27	27	0	1	27	13x19 SEF	Plain
+23-Jun-15 2:00:46 PM	19053 Stickers IBW-3 grupo 1.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+23-Jun-15 1:31:01 PM	19053 Stickers IBW-3 grupo 1.pdf.dbp	OK	Admin	1	1	0	1	1	12.00in x 17.00in	Plain
+23-Jun-15 10:48:10 AM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+23-Jun-15 10:30:59 AM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+23-Jun-15 10:30:59 AM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+23-Jun-15 9:37:20 AM	18959 Edifici cambios.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+22-Jun-15 5:48:08 PM	19053 sticker BASICO Preferencial grupo 11.pdf.dbp	OK	Admin	5	5	0	1	5	13x19 SEF	Plain
+22-Jun-15 5:47:05 PM	19053 sticker BBI igual-1 grupo 10.pdf.dbp	OK	Admin	2	2	0	1	2	13x19 SEF	Plain
+22-Jun-15 5:46:29 PM	19053 sticker mayor  a Q grupo 9.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+22-Jun-15 5:45:49 PM	19053 sticker mayor  a Q grupo 9.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+22-Jun-15 5:44:59 PM	19053 sticker Digital 2 paquetes grupo 8.pdf.dbp	OK	Admin	3	3	0	1	3	13x19 SEF	Plain
+22-Jun-15 5:43:31 PM	19053 sticker Digital 1 paquete-1 grupo 7.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+22-Jun-15 5:41:58 PM	19053 sticker Aumento digital -1 grupo 6.pdf.dbp	OK	Admin	23	23	0	1	23	13x19 SEF	Plain
+22-Jun-15 5:40:48 PM	19053 sticker Aumento cable basico -1 grupo 5.pdf.dbp	OK	Admin	11	11	0	1	11	13x19 SEF	Plain
+22-Jun-15 5:39:59 PM	19053 sticker menor  grupo 4.pdf.dbp	OK	Admin	11	11	0	1	11	13x19 SEF	Plain
+22-Jun-15 5:38:13 PM	19053 sticker BBI upgrade 2 paquetes grupo 3.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+22-Jun-15 5:36:54 PM	19053 sticker BBI Upgrade 1 paquete-1 grupo2.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+22-Jun-15 5:35:54 PM	19053 sticker BBI Upgrade 1 paquete-1 grupo2.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+22-Jun-15 5:33:11 PM	19053 Stickers IBW-3 grupo 1.pdf.dbp	OK	Admin	29	29	0	1	29	13x19 SEF	Plain
+22-Jun-15 5:31:21 PM	19053 Stickers IBW-2 grupo 1.pdf.dbp	OK	Admin	29	29	0	1	29	13x19 SEF	Plain
+22-Jun-15 5:25:36 PM	19053 Stickers IBW-1 grupo1.pdf.dbp	OK	Admin	29	29	0	1	29	13x19 SEF	Plain
+22-Jun-15 3:07:42 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+22-Jun-15 2:35:51 PM	18959 Edifici cambios.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+22-Jun-15 2:29:25 PM	18706 interiores.pdf.dbp	Canceled	Admin	6	0	6	0	22	12.00in x 19.00in	Plain
+22-Jun-15 2:27:11 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+22-Jun-15 1:51:41 PM	19113 grupo diamante.pdf.dbp	OK	Admin	4	0	4	1	4	13x19 SEF	Plain
+22-Jun-15 1:39:10 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+22-Jun-15 8:44:39 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12 x 18	Plain
+22-Jun-15 8:42:43 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+22-Jun-15 8:39:04 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12 x 18	Plain
+22-Jun-15 8:36:35 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+22-Jun-15 8:32:57 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+22-Jun-15 8:25:39 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+22-Jun-15 8:20:12 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+20-Jun-15 12:05:17 PM	19067 Agencia Independiente barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+20-Jun-15 12:03:48 PM	19067 Agencia Independiente barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+20-Jun-15 11:46:55 AM	19067 Agencia Independiente barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+20-Jun-15 11:46:55 AM	19067 Agencia Independiente barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+19-Jun-15 5:47:06 PM	19001 casa instrumental .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 5:47:06 PM	19001 casa instrumental .pdf.dbp	Canceled	Admin	156	0	156	156	1	12.00in x 19.00in	Plain
+19-Jun-15 5:22:24 PM	19001 casa instrumental .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+19-Jun-15 4:34:45 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 4:31:08 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 4:18:01 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 4:15:08 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 9:14:08 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+19-Jun-15 9:10:17 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+19-Jun-15 9:06:43 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 8:59:30 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+19-Jun-15 8:56:38 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+19-Jun-15 8:48:11 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+18-Jun-15 5:51:09 PM	19038 Servicio de ti2 barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 5:51:09 PM	19038 Servicio de ti2 barniz.pdf.dbp	OK	Admin	13	0	13	13	1	12.00in x 19.00in	Plain
+18-Jun-15 5:31:37 PM	19054 SEIMA barniz.pdf.dbp	OK	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+18-Jun-15 5:31:37 PM	19054 SEIMA barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 5:25:36 PM	19054 SEIMA barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 5:20:40 PM	19083 corp lito portada .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 5:20:40 PM	19083 corp lito portada .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 5:05:59 PM	19083 corp lito .pdf.dbp	OK	Admin	30	0	30	1	30	13x19 SEF	Plain
+18-Jun-15 5:05:59 PM	19083 corp lito .pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+18-Jun-15 5:05:59 PM	19083 corp lito .pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+18-Jun-15 12:03:23 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+18-Jun-15 12:03:23 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+18-Jun-15 12:03:23 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	20	0	20	10	2	12.00in x 19.00in	Plain
+18-Jun-15 12:00:06 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+18-Jun-15 11:39:02 AM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+18-Jun-15 11:39:02 AM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+18-Jun-15 11:04:16 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 11:00:15 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+18-Jun-15 10:57:29 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+18-Jun-15 10:54:56 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 10:50:39 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 10:39:17 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+18-Jun-15 10:39:17 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+18-Jun-15 10:35:23 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 10:27:19 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 10:26:15 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:25:08 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:24:19 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:22:29 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:21:39 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:20:41 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:19:53 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:18:12 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:17:16 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:15:43 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 10:13:37 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 10:13:15 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 10:03:57 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 9:49:07 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 9:48:08 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:46:39 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:45:48 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:44:00 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:43:10 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:40:24 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:35:41 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:34:01 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:32:25 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:30:23 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:28:06 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:23:12 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:20:32 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:14:56 AM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+18-Jun-15 9:10:12 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:07:01 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 9:03:26 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 8:56:01 AM	18995 infomovil Barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+18-Jun-15 8:50:43 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	11 x 17	Plain
+18-Jun-15 8:47:48 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 8:44:27 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+18-Jun-15 8:42:09 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+18-Jun-15 8:38:01 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+18-Jun-15 8:35:11 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+18-Jun-15 8:31:38 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+17-Jun-15 3:06:01 PM	18995 infomovil Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 3:06:01 PM	18995 infomovil Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 3:06:01 PM	18995 infomovil Barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+17-Jun-15 11:44:41 AM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 11:15:45 AM	18995 infomovil BARNIZ .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 9:25:14 AM	21 Sorted Patches EFI ES-1000	OK	osman	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 9:21:18 AM	21 Sorted Patches EFI ES-1000	OK	osman	1	0	1	1	1	12 x 18	Plain
+17-Jun-15 9:14:55 AM	21 Sorted Patches EFI ES-1000	OK	osman	1	0	1	1	1	12 x 18	Plain
+17-Jun-15 9:00:25 AM	21 Sorted Patches EFI ES-1000	OK	osman	1	0	1	1	1	12.00in x 19.00in	Plain
+17-Jun-15 8:48:15 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+16-Jun-15 3:54:04 PM	19020 port. novatis BARNIZ 2.pdf.dbp	OK	Admin	6	0	6	6	1	13x19 SEF	Plain
+16-Jun-15 3:54:04 PM	19020 port. novatis BARNIZ 2.pdf.dbp	OK	Admin	6	0	6	6	1	13x19 SEF	Plain
+16-Jun-15 3:54:04 PM	19020 port. novatis BARNIZ 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 3:54:04 PM	19020 port. novatis BARNIZ 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 3:52:25 PM	19041 barniz.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+16-Jun-15 3:52:25 PM	19041 barniz.pdf.dbp	OK	Admin	102	0	102	51	2	13x19 SEF	Plain
+16-Jun-15 3:40:38 PM	19020 port. novatis BARNIZ .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	180	0	180	90	2	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	220	0	220	110	2	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	70	0	70	35	2	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	OK	Admin	70	0	70	35	2	13x19 SEF	Mixed
+16-Jun-15 2:01:40 PM	18706 portada.pdf.dbp	Canceled	Admin	16	0	16	8	2	13x19 SEF	Plain
+16-Jun-15 1:41:56 PM	18706 portada.pdf.dbp	Canceled	Admin	14	0	14	7	2	13x19 SEF	Plain
+16-Jun-15 1:41:56 PM	18706 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+16-Jun-15 1:01:00 PM	19046 Santillana invitaciones barniz.pdf.dbp	OK	Admin	17	0	17	17	1	13x19 SEF	Plain
+16-Jun-15 12:58:39 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:55:15 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:53:20 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:48:50 PM	18968  victor hugo barniz excso   .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+16-Jun-15 12:45:21 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:44:12 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:43:36 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:42:36 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 12:16:38 PM	19020 port. novatis barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 11:57:17 AM	19020 port. novatis barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 11:45:28 AM	19037 Santillana invitaciones barniz.pdf.dbp	OK	Admin	35	0	35	35	1	13x19 SEF	Plain
+16-Jun-15 11:45:28 AM	19037 Santillana invitaciones barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 11:42:17 AM	19020  port. novatis barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+16-Jun-15 10:34:11 AM	barniz.pdf.dbp	OK	Admin	4	0	4	4	1	13x19 SEF	Plain
+16-Jun-15 8:34:23 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 8:31:35 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+16-Jun-15 8:28:03 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+16-Jun-15 8:25:18 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+16-Jun-15 8:21:53 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+16-Jun-15 8:18:56 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:53:56 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:52:44 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:48:23 PM	18968  victor hugo barniz excso   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 5:32:05 PM	18968  victor hugo barniz2   .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 5:32:05 PM	18968  victor hugo barniz2   .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:29:55 PM	18995 infomovil barniz  .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 4:29:55 PM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:29:55 PM	18995 infomovil barniz  .pdf.dbp	Canceled	Admin	12	0	12	12	1	12.00in x 19.00in	Plain
+15-Jun-15 4:29:55 PM	18995 infomovil barniz  .pdf.dbp	Canceled	Admin	11	0	11	11	1	12.00in x 19.00in	Plain
+15-Jun-15 4:28:45 PM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:27:38 PM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:26:33 PM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:20:29 PM	18995 infomovil barniz  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	Canceled	Admin	16	0	16	16	1	12 x 18	Plain
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 4:00:08 PM	19018 portada y contra 2 barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	OK	Admin	10	0	10	10	1	12.00in x 19.00in	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	Canceled	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	Canceled	Admin	3	0	3	3	1	12.00in x 19.00in	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	OK	Admin	3	0	3	3	1	12.00in x 19.00in	Plain
+15-Jun-15 3:18:45 PM	18995 infomovil foil 2 .pdf.dbp	Canceled	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 1:53:08 PM	18995 infomovil foil  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 1:51:00 PM	18995 infomovil foil  .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+15-Jun-15 10:11:18 AM	18635 coralsa español1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+15-Jun-15 10:07:33 AM	18635 coralsa español2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+15-Jun-15 10:02:44 AM	18635 coralsa español2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+15-Jun-15 9:54:01 AM	18635 coralsa PRUEBA 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+15-Jun-15 9:36:50 AM	18682 Edifici carpeta.pdf.dbp	OK	Admin	48	0	48	24	2	13x19 SEF	Plain
+15-Jun-15 9:36:50 AM	18682 Edifici carpeta.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+15-Jun-15 9:06:01 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+15-Jun-15 9:06:01 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 9:06:01 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 9:06:01 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 9:06:01 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 9:04:16 AM	19009 Leonor Moran barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 8:46:01 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 8:43:32 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+15-Jun-15 8:40:28 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 8:39:55 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+15-Jun-15 8:39:50 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+15-Jun-15 8:37:22 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12 x 18	Plain
+15-Jun-15 8:30:58 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+13-Jun-15 11:18:42 AM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+13-Jun-15 11:16:40 AM	19006 Otros Gafetesbarniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+13-Jun-15 11:12:53 AM	19006 Otros Gafetesbarniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+13-Jun-15 9:22:53 AM	18985 Planificador GASTRO blanco barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+13-Jun-15 9:22:53 AM	18985 Planificador GASTRO blanco barniz .pdf.dbp	OK	Admin	54	0	54	9	6	13x19 SEF	Plain
+13-Jun-15 9:18:37 AM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	2	0	2	2	1	13x19 SEF	Plain
+13-Jun-15 9:18:37 AM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+13-Jun-15 9:18:37 AM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+13-Jun-15 9:18:37 AM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+13-Jun-15 9:13:23 AM	18927 coel barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+13-Jun-15 9:13:23 AM	18927 coel barniz.pdf.dbp	Canceled	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+13-Jun-15 9:12:40 AM	18927 coel barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+13-Jun-15 9:09:51 AM	18927 coel barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+13-Jun-15 9:02:07 AM	18981 grupo diamanrte barniz .pdf.dbp	OK	Admin	11	0	11	11	1	12.00in x 19.00in	Plain
+13-Jun-15 9:02:07 AM	18981 grupo diamanrte barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+13-Jun-15 9:02:07 AM	18981 grupo diamanrte barniz .pdf.dbp	Canceled	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+13-Jun-15 8:41:15 AM	18981 grupo diamanrte barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+13-Jun-15 8:28:11 AM	18835 Planificador GASTRO blanco  .pdf.dbp	OK	Admin	54	0	54	9	6	13x19 SEF	Plain
+12-Jun-15 4:00:58 PM	 18835pedi plantilla-10.pdf.dbp	OK	Admin	84	0	84	1	84	13x19 SEF	Plain
+11-Jun-15 8:36:03 PM	18835 gastro plantilla -4.pdf.dbp	OK	Admin	96	0	96	1	96	13x19 SEF	Mixed
+11-Jun-15 8:36:03 PM	18835 gastro plantilla -4.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 8:36:03 PM	18835 gastro plantilla -4.pdf.dbp	OK	Admin	96	0	96	1	96	13x19 SEF	Plain
+11-Jun-15 8:34:26 PM	18835 gastro plantilla -3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 8:34:26 PM	18835 gastro plantilla -3.pdf.dbp	OK	Admin	120	0	120	1	120	13x19 SEF	Mixed
+11-Jun-15 8:34:13 PM	18835 gastro plantilla -2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 8:34:13 PM	18835 gastro plantilla -2.pdf.dbp	OK	Admin	180	0	180	1	180	13x19 SEF	Plain
+11-Jun-15 8:33:55 PM	18835 gastro plantilla -1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 8:33:55 PM	18835 gastro plantilla -1.pdf.dbp	Canceled	Admin	0	0	0	0	0		
+11-Jun-15 8:33:55 PM	18835 gastro plantilla -1.pdf.dbp	Canceled	Admin	66	0	66	0	129	13x19 SEF	Plain
+11-Jun-15 8:33:55 PM	18835 gastro plantilla -1.pdf.dbp	OK	Admin	300	0	300	1	300	13x19 SEF	Plain
+11-Jun-15 8:32:03 PM	18835 RESPI Blanco .pdf.dbp	OK	Admin	264	0	264	44	6	13x19 SEF	Plain
+11-Jun-15 8:32:03 PM	18835 RESPI Blanco .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 8:29:27 PM	18835 RESPI Blanco .pdf.dbp	OK	Admin	5	0	5	1	5	13x19 SEF	Plain
+11-Jun-15 7:54:20 PM	18835 respi plantilla-3.pdf.dbp	Canceled	Admin	4	0	4	0	57	13x19 SEF	Plain
+11-Jun-15 7:54:20 PM	18835 respi plantilla-3.pdf.dbp	OK	Admin	151	0	151	1	151	13x19 SEF	Plain
+11-Jun-15 7:51:40 PM	18835 RESPI Blanco .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:49:29 PM	18835 respi plantilla-2.pdf.dbp	OK	Admin	179	0	179	1	179	13x19 SEF	Plain
+11-Jun-15 7:39:35 PM	18835 respi plantilla-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:39:19 PM	18835 respi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:36:45 PM	18835 respi plantilla-1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:36:45 PM	18835 respi plantilla-1.pdf.dbp	OK	Admin	149	0	149	1	149	13x19 SEF	Plain
+11-Jun-15 7:36:45 PM	18835 respi plantilla-1.pdf.dbp	OK	Admin	150	0	150	1	150	13x19 SEF	Plain
+11-Jun-15 6:53:39 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 6:10:36 PM	18992 gafete ricardo murga barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 6:00:05 PM	18992 gafete ricardo murga barniz .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 6:00:05 PM	18992 gafete ricardo murga barniz .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:48:46 PM	18988 ficohsa tarj abrillantador .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+11-Jun-15 5:18:17 PM	18919 invitacion ploter barniz.pdf.dbp	Canceled	Admin	17	0	17	17	1	13x19 SEF	Plain
+11-Jun-15 5:16:40 PM	18919 invitacion ploter barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 5:15:05 PM	18919 invitacion ploter barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 5:13:33 PM	18919 invitacion ploter barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 5:10:29 PM	18919 invitacion ploter barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 4:58:04 PM	DH sobre prueba 2 barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 4:45:17 PM	plasta negra.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 4:45:17 PM	plasta negra.pdf.dbp	OK	Admin	9	0	9	9	1	13x19 SEF	Plain
+11-Jun-15 4:45:17 PM	plasta negra.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 4:45:17 PM	plasta negra.pdf.dbp	OK	Admin	9	0	9	9	1	13x19 SEF	Plain
+11-Jun-15 4:42:00 PM	18852 Tarj Alianza. barniz .pdf.dbp	Canceled	Admin	3	0	3	3	1	12 x 18	Plain
+11-Jun-15 4:40:54 PM	18852 Tarj Alianza. barniz .pdf.dbp	OK	Admin	5	0	5	5	1	12 x 18	Plain
+11-Jun-15 4:40:10 PM	18852 Tarj Alianza. barniz .pdf.dbp	OK	Admin	5	0	5	5	1	12 x 18	Plain
+11-Jun-15 4:36:16 PM	18852 Tarj Alianza. barniz .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+11-Jun-15 4:29:12 PM	18988 ficohsa tarj.pdf.dbp	Canceled	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+11-Jun-15 4:24:38 PM	18988 ficohsa tarj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+11-Jun-15 10:44:02 AM	18947 publigrafik barniz.pdf.dbp	Canceled	Admin	65	0	65	65	1	12.00in x 19.00in	Plain
+11-Jun-15 10:44:02 AM	18947 publigrafik barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+11-Jun-15 10:44:02 AM	18947 publigrafik barniz.pdf.dbp	Canceled	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+11-Jun-15 10:44:02 AM	18947 publigrafik barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+11-Jun-15 8:12:14 AM	18835 respi plantilla-1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:50:26 AM	18835 PEDIA BLANCO .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:50:26 AM	18835 PEDIA BLANCO .pdf.dbp	OK	Admin	276	0	276	46	6	13x19 SEF	Mixed
+11-Jun-15 7:46:49 AM	18835 pedi plantilla-9.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:46:49 AM	18835 pedi plantilla-9.pdf.dbp	OK	Admin	179	0	179	1	179	13x19 SEF	Plain
+11-Jun-15 7:41:02 AM	18835 pedi plantilla-8.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+11-Jun-15 7:41:02 AM	18835 pedi plantilla-8.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:28:34 AM	18835 pedi plantilla-7.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:28:34 AM	18835 pedi plantilla-7.pdf.dbp	OK	Admin	239	0	239	1	239	13x19 SEF	Plain
+11-Jun-15 7:20:39 AM	18835 pedi plantilla-6.pdf.dbp	OK	Admin	0	0	0	0	1		
+11-Jun-15 7:19:30 AM	18835 pedi plantilla-6.pdf.dbp	OK	Admin	299	0	299	1	299	13x19 SEF	Plain
+11-Jun-15 7:19:30 AM	18835 pedi plantilla-6.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 7:16:10 AM	18835 pedi plantilla-5.pdf.dbp	OK	Admin	59	0	59	1	59	13x19 SEF	Plain
+11-Jun-15 7:16:10 AM	18835 pedi plantilla-5.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+11-Jun-15 6:36:23 AM	18835 pedi plantilla-4.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+11-Jun-15 6:36:23 AM	18835 pedi plantilla-4.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	79	0	79	79	1	13x19 SEF	Plain
+10-Jun-15 10:22:24 AM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	28	0	28	28	1	13x19 SEF	Plain
+10-Jun-15 10:21:32 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 10:20:38 AM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 10:05:16 AM	18835 Planificador GASTRO blanco barniz .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 9:37:18 AM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 9:37:18 AM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 9:37:18 AM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+10-Jun-15 8:43:57 AM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 8:43:57 AM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+10-Jun-15 8:43:57 AM	18835 pedi plantilla-2.pdf.dbp	Canceled	Admin	27	0	27	0	119	13x19 SEF	Plain
+10-Jun-15 8:41:55 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+10-Jun-15 8:41:24 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+10-Jun-15 8:39:38 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+10-Jun-15 8:36:35 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12 x 18	Plain
+10-Jun-15 8:34:22 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+10-Jun-15 8:28:52 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+10-Jun-15 8:24:51 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+10-Jun-15 8:22:51 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+10-Jun-15 8:20:00 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+10-Jun-15 8:13:42 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+09-Jun-15 5:52:00 PM	18835 pedi plantilla-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:52:00 PM	18835 pedi plantilla-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:52:00 PM	18835 pedi plantilla-3.pdf.dbp	OK	Admin	120	0	120	1	120	13x19 SEF	Plain
+09-Jun-15 5:50:12 PM	18835 pedi plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:47:11 PM	18835 pedi data 1.pdf.dbp	OK	Admin	179	0	179	1	179	13x19 SEF	Plain
+09-Jun-15 5:47:11 PM	18835 pedi data 1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:38:07 PM	18835 MI Blanco  .pdf.dbp	OK	Admin	144	0	144	24	6	13x19 SEF	Plain
+09-Jun-15 5:38:07 PM	18835 MI Blanco  .pdf.dbp	OK	Admin	5	0	5	1	5	13x19 SEF	Plain
+09-Jun-15 5:38:07 PM	18835 MI Blanco  .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:35:12 PM	18835 GINE blanco .pdf.dbp	OK	Admin	54	0	54	9	6	13x19 SEF	Mixed
+09-Jun-15 5:35:12 PM	18835 GINE blanco .pdf.dbp	OK	Admin	5	0	5	1	5	13x19 SEF	Plain
+09-Jun-15 5:28:57 PM	18835 Gine plantilla-8.pdf.dbp	OK	Admin	155	0	155	1	155	13x19 SEF	Plain
+09-Jun-15 5:27:18 PM	18835 GINE blanco .pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:23:46 PM	18835 Gine plantilla-6.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 5:20:47 PM	18835 Gine plantilla-8.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:19:26 PM	18835 Gine plantilla-5.pdf.dbp	OK	Admin	120	0	120	1	120	13x19 SEF	Plain
+09-Jun-15 5:17:06 PM	18835 Gine plantilla-6.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:14:21 PM	18835 Gine plantilla-5.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 5:09:25 PM	18835 Gine plantilla-5.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:08:20 PM	18835 Gine plantilla-4.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 5:01:52 PM	18835 Gine plantilla-4.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 5:00:25 PM	18835 Gine plantilla-3.pdf.dbp	OK	Admin	179	0	179	1	179	13x19 SEF	Plain
+09-Jun-15 4:57:27 PM	18835 Gine plantilla-2.pdf.dbp	OK	Admin	40	0	40	1	40	13x19 SEF	Plain
+09-Jun-15 4:42:42 PM	18835 Gine plantilla-1.pdf.dbp	OK	Admin	100	0	100	1	100	13x19 SEF	Plain
+09-Jun-15 4:15:13 PM	18835 Gine plantilla-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 4:11:01 PM	18835 Gine plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 4:11:01 PM	18835 Gine plantilla-2.pdf.dbp	OK	Admin	199	0	199	1	199	13x19 SEF	Plain
+09-Jun-15 4:10:08 PM	18835 Gine plantilla-1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 4:10:08 PM	18835 Gine plantilla-1.pdf.dbp	Canceled	Admin	83	0	83	0	162	13x19 SEF	Plain
+09-Jun-15 4:10:08 PM	18835 Gine plantilla-1.pdf.dbp	OK	Admin	118	0	118	1	118	13x19 SEF	Plain
+09-Jun-15 3:58:51 PM	18835 MI plantilla-5.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 3:58:51 PM	18835 MI plantilla-5.pdf.dbp	OK	Admin	59	0	59	1	59	13x19 SEF	Plain
+09-Jun-15 3:57:28 PM	18835 MI plantilla-4.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 3:57:28 PM	18835 MI plantilla-4.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 3:49:35 PM	18835 MI plantilla-3.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 3:49:35 PM	18835 MI plantilla-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 3:43:31 PM	18835 MI plantilla-2.pdf.dbp	OK	Admin	119	0	119	1	119	13x19 SEF	Plain
+09-Jun-15 3:43:31 PM	18835 MI plantilla-2.pdf.dbp	Canceled	Admin	0	0	0	0	0		
+09-Jun-15 3:43:31 PM	18835 MI plantilla-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 3:26:38 PM	18835 MI plantilla-1.pdf.dbp	OK	Admin	179	0	179	1	179	13x19 SEF	Plain
+09-Jun-15 3:26:38 PM	18835 MI plantilla-1.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+09-Jun-15 3:26:38 PM	18835 MI plantilla-1.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+09-Jun-15 2:38:46 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	22	0	22	11	2	12.00in x 19.00in	Plain
+09-Jun-15 2:38:46 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+09-Jun-15 2:37:06 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+09-Jun-15 2:31:03 PM	18934 Tarj Mayora.pdf.dbp	Canceled	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+09-Jun-15 2:31:03 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+09-Jun-15 8:33:28 AM	21 Sorted Patches EFI ES-1000	OK	osman	1	0	1	1	1	12.00in x 19.00in	Plain
+09-Jun-15 8:20:11 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	11 x 17	Plain
+09-Jun-15 8:16:16 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+09-Jun-15 8:11:56 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+08-Jun-15 4:00:21 PM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	74	0	74	74	1	13x19 SEF	Plain
+08-Jun-15 3:51:31 PM	18942 D'print.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+08-Jun-15 3:51:31 PM	18942 D'print.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+08-Jun-15 3:51:31 PM	18942 D'print.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+08-Jun-15 3:51:12 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+08-Jun-15 3:40:38 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+08-Jun-15 3:33:39 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+08-Jun-15 3:24:51 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+08-Jun-15 3:18:56 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	100	0	100	100	1	13x19 SEF	Plain
+08-Jun-15 3:04:52 PM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:54:53 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	96	0	96	96	1	13x19 SEF	Plain
+08-Jun-15 2:45:38 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	96	0	96	96	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	4	0	4	4	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:40:48 PM	18919 sobre XL 23 pixi.pdf.dbp	Canceled	Admin	6	0	6	6	1	13x19 SEF	Plain
+08-Jun-15 2:37:03 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:37:03 PM	18919 sobre XL 23 pixi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+08-Jun-15 2:13:40 PM	18918 walter tarjetas barniz.pdf.dbp	OK	Admin	8	4	4	4	2	12.00in x 19.00in	Plain
+08-Jun-15 2:13:40 PM	18918 walter tarjetas barniz.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+08-Jun-15 12:19:56 PM	barniz.pdf.dbp	OK	Admin	48	0	48	24	2	13x19 SEF	Plain
+08-Jun-15 8:36:59 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+08-Jun-15 8:29:49 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+08-Jun-15 8:25:33 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 17.00in	Plain
+08-Jun-15 8:21:52 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+08-Jun-15 8:18:55 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+08-Jun-15 8:15:17 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+06-Jun-15 11:40:26 AM	Adhesivo	OK	Admin	3	0	3	3	1	12.00in x 17.00in	Plain
+06-Jun-15 11:35:11 AM	CalibrationWarmup	OK	Admin	2	0	2	2	1	12.00in x 17.00in	Plain
+06-Jun-15 11:35:11 AM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+06-Jun-15 11:34:45 AM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+06-Jun-15 11:26:13 AM	21 Sorted Patches EFI ES-2000 [ES-1000 compatible]	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+06-Jun-15 11:08:43 AM	Couche Matte	OK	Admin	3	0	3	3	1	12.00in x 19.00in	Plain
+06-Jun-15 11:03:58 AM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+06-Jun-15 11:03:58 AM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+06-Jun-15 11:03:27 AM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+06-Jun-15 10:48:23 AM	Couche Gloss	OK	Admin	3	0	3	3	1	0.00in x 0.00in	Plain
+06-Jun-15 10:41:41 AM	Calibration	OK	Admin	1	0	1	1	1	0.00in x 0.00in	Plain
+06-Jun-15 10:41:41 AM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12 x 18	Plain
+06-Jun-15 10:40:32 AM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+06-Jun-15 10:35:13 AM	Calibration	Canceled	Admin	0	0	0	0	1		
+06-Jun-15 10:35:13 AM	CalibrationWarmup	Canceled	Admin	0	0	0	0	1		
+06-Jun-15 10:34:39 AM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+06-Jun-15 8:10:33 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+05-Jun-15 5:13:27 PM	18911 Leonor barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+05-Jun-15 5:13:27 PM	18911 Leonor barniz.pdf.dbp	OK	Admin	40	0	40	40	1	12.00in x 19.00in	Plain
+05-Jun-15 5:13:27 PM	18911 Leonor barniz.pdf.dbp	Canceled	Admin	24	0	24	24	1	12.00in x 19.00in	Plain
+05-Jun-15 4:56:26 PM	18920 g&c daniel perez barniz.pdf.dbp	Canceled	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+05-Jun-15 4:56:26 PM	18920 g&c daniel perez barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+05-Jun-15 4:31:52 PM	18727  OMD Prueba color 4 .pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+05-Jun-15 4:31:52 PM	18727  OMD Prueba color 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+05-Jun-15 4:31:52 PM	18727  OMD Prueba color 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+05-Jun-15 4:29:54 PM	18727  OMD Prueba color 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+05-Jun-15 4:24:26 PM	18727  OMD Prueba color 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+05-Jun-15 12:35:28 PM	Caja Priscy barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+05-Jun-15 12:33:37 PM	Caja Priscy2 barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+05-Jun-15 10:50:25 AM	barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+05-Jun-15 9:47:17 AM	18749 Portada Ralik mov1Final foil.pdf.dbp	Canceled	Admin	8	0	8	8	1	13x19 SEF	Plain
+05-Jun-15 9:27:41 AM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	90	0	90	90	1	13x19 SEF	Plain
+05-Jun-15 8:53:46 AM	barniz.pdf.dbp	Canceled	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+05-Jun-15 8:53:46 AM	barniz.pdf.dbp	OK	Admin	87	0	87	87	1	12.00in x 19.00in	Plain
+05-Jun-15 8:46:58 AM	barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 5:53:00 PM	18885 comunicaciones Barniz.pdf.dbp	OK	Admin	25	0	25	25	1	12.00in x 19.00in	Plain
+04-Jun-15 5:53:00 PM	18885 comunicaciones Barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 5:17:49 PM	18860 CATALOGO CORREGIDO2.pdf.dbp	OK	Admin	0	0	0	0	2		
+04-Jun-15 1:02:48 PM	18880 Super Bocinas barniz.pdf.dbp	Canceled	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+04-Jun-15 1:02:48 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	28	0	28	28	1	12.00in x 19.00in	Plain
+04-Jun-15 1:02:48 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 12:54:18 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 12:53:22 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 12:52:23 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 12:49:11 PM	18880 Super Bocinas barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 10:13:45 AM	DH sobre prueba 2 barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 8:56:26 AM	18527 CEDAG plantilla falta  .pdf.dbp	OK	Admin	28	0	28	1	28	13x19 SEF	Plain
+04-Jun-15 8:41:10 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	11 x 17	Plain
+04-Jun-15 8:40:58 AM	21 Sorted Patches EFI ES-1000	Canceled	giovanni	0	0	0	0	1		
+04-Jun-15 8:32:59 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+04-Jun-15 8:29:12 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+03-Jun-15 4:55:39 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:55:39 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:55:39 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	38	0	38	19	2	12.00in x 19.00in	Plain
+03-Jun-15 4:55:39 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:48:01 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:48:01 PM	18876 Buzz barniz.pdf.dbp	Canceled	Admin	32	0	32	16	2	12.00in x 19.00in	Plain
+03-Jun-15 4:48:01 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:46:41 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:39:59 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 4:39:59 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 2:40:55 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	20	0	20	10	2	12.00in x 19.00in	Plain
+03-Jun-15 2:40:55 PM	18876 Buzz barniz.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+03-Jun-15 2:40:55 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 2:40:55 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+03-Jun-15 2:36:10 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 2:36:10 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	19	0	19	19	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	Canceled	Admin	30	0	30	30	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	5	0	5	5	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	4	0	4	4	1	13x19 SEF	Plain
+03-Jun-15 2:11:02 PM	18749 Portada Ralik mov1Final foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 2:09:29 PM	barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 1:59:06 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 1:57:40 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 1:55:23 PM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 1:07:57 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 1:00:30 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:57:55 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:49:06 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:49:06 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:34:49 PM	18871 publimetro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 12:31:50 PM	18848 oficina sanitaria.pdf.dbp	OK	Admin	7	0	7	1	7	12 x 18	Plain
+03-Jun-15 12:30:09 PM	18848 oficina sanitaria.pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+03-Jun-15 12:23:22 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:23:22 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:23:22 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:19:10 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	24	0	24	4	6	12.00in x 19.00in	Plain
+03-Jun-15 12:16:20 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	32	0	32	8	4	12.00in x 19.00in	Plain
+03-Jun-15 12:09:37 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+03-Jun-15 12:09:37 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 12:00:52 PM	barniz.pdf.dbp	Canceled	Admin	99	0	99	99	1	12.00in x 19.00in	Plain
+03-Jun-15 11:56:47 AM	barniz.pdf.dbp	OK	Admin	101	0	101	101	1	12.00in x 19.00in	Plain
+03-Jun-15 11:52:44 AM	barniz.pdf.dbp	OK	Admin	101	0	101	101	1	12.00in x 19.00in	Plain
+03-Jun-15 11:43:19 AM	barniz.pdf.dbp	OK	Admin	35	0	35	35	1	12.00in x 19.00in	Plain
+03-Jun-15 11:38:58 AM	barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 11:38:58 AM	barniz.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 11:37:11 AM	18839 HOLA.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 11:37:11 AM	18839 HOLA.pdf.dbp	OK	Admin	34	0	34	34	1	12.00in x 19.00in	Plain
+03-Jun-15 11:26:39 AM	18814 Salta DATA 1 .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+03-Jun-15 11:19:56 AM	18764 reclamo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+03-Jun-15 11:19:56 AM	18764 reclamo.pdf.dbp	OK	Admin	12	0	12	6	2	13x19 SEF	Plain
+03-Jun-15 11:10:31 AM	18814 Jovenes.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+03-Jun-15 11:07:55 AM	18814 Salta DATA 1 .pdf.dbp	OK	Admin	1	0	1	1	1	12 x 18	Plain
+03-Jun-15 11:07:55 AM	18814 Salta DATA 1 .pdf.dbp	OK	Admin	91	0	91	1	91	12 x 18	Plain
+03-Jun-15 10:47:09 AM	18876 Buzz.pdf.dbp	OK	Admin	114	0	114	19	6	12.00in x 19.00in	Plain
+03-Jun-15 10:47:09 AM	18876 Buzz.pdf.dbp	OK	Admin	2	0	2	1	6	12.00in x 19.00in	Plain
+03-Jun-15 10:45:20 AM	18876 Buzz.pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+03-Jun-15 10:43:12 AM	18876 Buzz barniz.pdf.dbp	OK	Admin	0	0	0	0	2		
+03-Jun-15 10:43:12 AM	18876 Buzz barniz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 10:40:35 AM	18876 Buzz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 10:23:19 AM	18796 Nico & Mia TarjCol.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+03-Jun-15 10:23:19 AM	18796 Nico & Mia TarjCol.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 10:23:19 AM	18796 Nico & Mia TarjCol.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 10:23:19 AM	18796 Nico & Mia TarjCol.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+03-Jun-15 10:08:04 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 10:08:04 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	0	0	0	0	1		
+03-Jun-15 10:08:04 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 10:05:14 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 10:00:44 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 9:51:50 AM	18872 LOVE_Bridal-8.5x11-2.pdf.dbp	OK	Admin	125	0	125	125	1	13x19 SEF	Plain
+03-Jun-15 9:51:50 AM	18872 LOVE_Bridal-8.5x11-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+03-Jun-15 9:45:31 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	130	5	125	1	130	13.00in x 17.00in	Plain
+03-Jun-15 9:37:43 AM	18877 Big Fashion Book_Fernando.pdf.dbp	Canceled	Admin	12	0	12	0	142	13.00in x 17.00in	Plain
+03-Jun-15 9:36:20 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	2	0	2	1	2	13.00in x 17.00in	Plain
+03-Jun-15 9:34:40 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	2	1	1	1	2	13.00in x 17.00in	Plain
+03-Jun-15 9:32:38 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	2	1	1	1	2	13.00in x 17.00in	Plain
+03-Jun-15 9:29:17 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	2	1	1	1	2	13.00in x 17.00in	Plain
+03-Jun-15 9:13:49 AM	18878 The Fashion Marketing Magazine book.pdf.dbp	OK	Admin	84	0	84	1	84	12.00in x 19.00in	Plain
+03-Jun-15 8:59:42 AM	18878 The Fashion Marketing Magazine book.pdf.dbp	Canceled	Admin	24	0	24	0	108	12.00in x 19.00in	Plain
+03-Jun-15 8:59:42 AM	18878 The Fashion Marketing Magazine book.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 8:54:11 AM	18878 The Fashion Marketing Magazine book.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+03-Jun-15 8:37:32 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12.00in x 19.00in	Plain
+03-Jun-15 8:33:32 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+02-Jun-15 3:15:49 PM	18797 sobre barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+02-Jun-15 9:08:20 AM	21 Sorted Patches EFI ES-2000 [ES-1000 compatible]	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 5:58:08 PM	18765 Alkemy HON .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+01-Jun-15 5:56:26 PM	18765 Alkemy HON .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+01-Jun-15 5:18:43 PM	18838 Licorera invitaciones.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+01-Jun-15 5:18:43 PM	18838 Licorera invitaciones.pdf.dbp	OK	Admin	22	0	22	11	2	12.00in x 19.00in	Plain
+01-Jun-15 5:18:43 PM	18838 Licorera invitaciones.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+01-Jun-15 5:18:43 PM	18838 Licorera invitaciones.pdf.dbp	OK	Admin	250	0	250	125	2	12.00in x 19.00in	Plain
+01-Jun-15 4:52:04 PM	18742 RECLAMO laboratorios tarjetas 2 barniz.pdf.dbp	OK	Admin	9	0	9	9	1	12 x 18	Plain
+01-Jun-15 4:44:21 PM	Testpage_fogra	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 4:30:36 PM	Husky 	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 4:23:18 PM	Husky 	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 3:55:28 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 3:55:28 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 3:55:03 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 3:49:07 PM	18822 novex  barniz3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 3:49:07 PM	18822 novex  barniz3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 3:49:07 PM	18822 novex  barniz3.pdf.dbp	OK	Admin	40	0	40	40	1	13x19 SEF	Plain
+01-Jun-15 3:49:07 PM	18822 novex  barniz3.pdf.dbp	Canceled	Admin	11	0	11	11	1	13x19 SEF	Plain
+01-Jun-15 3:49:07 PM	18822 novex  barniz3.pdf.dbp	OK	Admin	2	0	2	2	1	13x19 SEF	Plain
+01-Jun-15 3:40:35 PM	18822 novex  barniz2.pdf.dbp	Canceled	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 3:40:35 PM	18822 novex  barniz2.pdf.dbp	OK	Admin	20	0	20	20	1	13x19 SEF	Plain
+01-Jun-15 2:49:52 PM	Husky 12	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 2:41:28 PM	Husky 12	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 2:33:04 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 2:33:04 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 2:32:46 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 2:28:24 PM	18822 novex  barniz2.pdf.dbp	Canceled	Admin	13	0	13	13	1	13x19 SEF	Plain
+01-Jun-15 2:11:07 PM	18749 Portada Ralik mov1 foil.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+01-Jun-15 2:11:07 PM	18749 Portada Ralik mov1 foil.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+01-Jun-15 2:11:07 PM	18749 Portada Ralik mov1 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 2:11:07 PM	18749 Portada Ralik mov1 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 1:48:15 PM	18714 Block corregido dh.pdf.dbp	Canceled	Admin	931	931	0	931	1	13x19 SEF	Plain
+01-Jun-15 1:48:15 PM	18714 Block corregido dh.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+01-Jun-15 1:48:15 PM	18714 Block corregido dh.pdf.dbp	OK	Admin	67	67	0	67	1	13x19 SEF	Plain
+01-Jun-15 1:48:15 PM	18714 Block corregido dh.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+01-Jun-15 1:45:36 PM	18714 Block corregido dh.pdf.dbp	OK	Admin	1	1	0	1	1	13x19 SEF	Plain
+01-Jun-15 1:41:20 PM	18834 Tarj Los Volcanes .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 1:41:20 PM	18834 Tarj Los Volcanes .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 1:39:34 PM	18834 Tarj Los Volcanes .pdf.dbp	OK	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+01-Jun-15 1:38:37 PM	18834 Tarj Los Volcanes .pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+01-Jun-15 1:35:04 PM	18834 Tarj Los Volcanes .pdf.dbp	OK	Admin	8	0	8	8	1	12.00in x 19.00in	Plain
+01-Jun-15 1:35:04 PM	18834 Tarj Los Volcanes .pdf.dbp	Canceled	Admin	2	0	2	0	3	12.00in x 19.00in	Plain
+01-Jun-15 1:13:16 PM	COUCHE 100 MATTE	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 1:05:19 PM	COUCHE 100 MATTE	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+01-Jun-15 1:01:21 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 1:01:20 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 1:00:53 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 12:58:42 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:58:41 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:58:12 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 12:48:15 PM	COUCHE  MATTE 	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+01-Jun-15 12:43:16 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:43:16 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:41:19 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 12:22:03 PM	Couche brillante	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+01-Jun-15 12:16:37 PM	CalibrationWarmup	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:16:37 PM	Calibration	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+01-Jun-15 12:15:52 PM	CalibrationWarmup	OK	Admin	0	0	0	0	1		
+01-Jun-15 11:44:11 AM	18742 RECLAMO laboratorios tarjetas 2.pdf.dbp	OK	Admin	0	0	0	0	2		
+01-Jun-15 11:44:11 AM	18742 RECLAMO laboratorios tarjetas 2.pdf.dbp	OK	Admin	2	0	2	1	2	12 x 18	Plain
+01-Jun-15 11:44:11 AM	18742 RECLAMO laboratorios tarjetas 2.pdf.dbp	OK	Admin	16	0	16	8	2	12 x 18	Plain
+01-Jun-15 11:37:55 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	11 x 17	Plain
+01-Jun-15 11:34:13 AM	18822 novex  barniz2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 11:30:29 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+01-Jun-15 11:26:31 AM	21 Sorted Patches EFI ES-1000	OK	giovanni	1	0	1	1	1	12 x 18	Plain
+01-Jun-15 11:17:50 AM	18825FINAL- Diplomado de Panaderia (3).pdf.dbp	OK	Admin	2	0	2	1	2	11 x 17	Plain
+01-Jun-15 11:15:25 AM	18825FINAL- Diplomado de Panaderia (3).pdf.dbp	Canceled	Admin	0	0	0	0	2		
+01-Jun-15 11:14:58 AM	18635 coralsa PRUEBA 4 .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+01-Jun-15 11:14:58 AM	18635 coralsa PRUEBA 4 .pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+01-Jun-15 10:29:26 AM	18822 novex  barniz.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+01-Jun-15 10:29:26 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:27:45 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:25:15 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:22:58 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:20:17 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:18:03 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:09:22 AM	18635 coralsa PRUEBA 4 .pdf.dbp	OK	Admin	2	0	2	1	2	13x19 SEF	Plain
+01-Jun-15 10:06:27 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:06:27 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain
+01-Jun-15 10:06:27 AM	18822 novex  barniz.pdf.dbp	OK	Admin	1	0	1	1	1	13x19 SEF	Plain

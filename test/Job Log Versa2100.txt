@@ -1,0 +1,1987 @@
+Job Log
+Date/Time	Job Title	Print Status	User	Number Of Pages Printed	Total Number Of Black And White Pages Printed	Total Number Of Color Pages Printed	Number Of Copies Of Job Printed	Pages	Page Size	Media Type
+6/30/2015 5:46:57 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/30/2015 5:39:59 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/30/2015 5:39:59 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	40	0	40	4	10	12x18"	Plain
+6/30/2015 5:39:59 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	6	0	6	3	2	12x18"	Plain
+6/30/2015 5:18:22 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/30/2015 5:15:56 PM	15957 Tarj Exeltis 24 JUNIO  .pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/30/2015 4:38:47 PM	19197 Tarjetas Kortek.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/30/2015 4:34:10 PM	19158 farmen 44 2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 4:19:03 PM	19158 farmen 44 1.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/30/2015 4:18:06 PM	19158 farmen 44 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 4:15:36 PM	19158 farmen 44 2.pdf.dbp	Canceled	Admin	3	0	3	0	4	13x19"	Plain
+6/30/2015 4:15:36 PM	19158 farmen 44 2.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/30/2015 4:12:06 PM	19158 farmen 44 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 4:10:35 PM	19158 farmen 44 1.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/30/2015 4:06:51 PM	19158 farmen 34 2.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/30/2015 4:04:33 PM	19158 farmen 34 1.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/30/2015 4:02:55 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/30/2015 4:02:55 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/30/2015 4:00:13 PM	19158 farmen 24 2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 3:55:02 PM	19158 farmen 24 1.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/30/2015 3:50:46 PM	19158 farmen1-4.dbp.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/30/2015 3:50:46 PM	19158 farmen1-4.dbp.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/30/2015 2:32:48 PM	19196 klatina brouchure .pdf.dbp	OK	Admin	124	0	124	62	2	13x19"	Plain
+6/30/2015 2:32:48 PM	19196 klatina brouchure .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/30/2015 2:32:48 PM	19196 klatina brouchure .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 2:30:57 PM	19196 klatina brouchure .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 2:24:48 PM	19196 klatina brouchure .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 1:06:42 PM	19184 fs comuni.pdf.dbp	OK	Admin	36	0	36	18	2	13x19"	Plain
+6/30/2015 1:06:42 PM	19184 fs comuni.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 12:23:39 PM	pliego Cuaderno .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/30/2015 11:48:12 AM	19143 HOJA CON NOMBRES .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/30/2015 11:29:53 AM	18923 mariano MONTAJE  .pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/30/2015 11:29:53 AM	18923 mariano MONTAJE  .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 11:29:53 AM	18923 mariano MONTAJE  .pdf.dbp	OK	Admin	14	0	14	7	2	13x19"	Plain
+6/30/2015 10:16:15 AM	19177 brander catalogo.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/30/2015 10:16:15 AM	19177 brander catalogo.pdf.dbp	OK	Admin	16	0	16	4	4	12.00in x 19.00in	Plain
+6/30/2015 10:13:45 AM	19177 brander catalogo.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/30/2015 10:07:27 AM	19164 evenecer montaje.pdf.dbp	OK	Admin	46	0	46	23	2	13x19"	Plain
+6/30/2015 10:07:27 AM	19164 evenecer montaje.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 10:04:30 AM	19164 evenecer montaje.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/30/2015 9:58:24 AM	19781 klatina .pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+6/30/2015 9:58:24 AM	19781 klatina .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/30/2015 9:25:03 AM	19182 data corp lito .pdf.dbp	OK	Admin	54	54	0	1	54	13x19"	Plain
+6/30/2015 8:29:42 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/30/2015 8:14:29 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/30/2015 8:13:09 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/30/2015 8:12:42 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/30/2015 8:09:41 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/30/2015 8:08:04 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/30/2015 8:05:48 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/30/2015 8:02:52 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/30/2015 8:02:50 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/27/2015 10:46:01 AM	19185 agefinsa.pdf.dbp	OK	Admin	128	0	128	64	2	12.00in x 19.00in	Plain
+6/27/2015 10:46:01 AM	19185 agefinsa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/27/2015 10:40:33 AM	19187 multiventas invitacion PRUEBA 2 blanco .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 10:39:12 AM	19185 agefinsa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/27/2015 10:34:33 AM	19185 agefinsa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/27/2015 10:34:33 AM	19185 agefinsa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/27/2015 10:22:01 AM	19187 multiventas invitacion PRUEBA 2 blanco .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 10:22:01 AM	19187 multiventas invitacion PRUEBA 2 blanco .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 10:21:00 AM	19187 multiventas invitacion PRUEBA 1 beige .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 10:19:09 AM	19187 multiventas invitacion PRUEBA 1 beige .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 10:17:02 AM	19187 multiventas invitacion PRUEBA 1 beige .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/27/2015 9:48:00 AM	19186 Participa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/27/2015 9:48:00 AM	19186 Participa.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/27/2015 9:15:10 AM	19043 PORTADA 3.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/27/2015 9:15:10 AM	19043 PORTADA 3.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/27/2015 8:23:51 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/27/2015 8:22:24 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/27/2015 8:20:17 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/27/2015 8:18:23 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/27/2015 8:17:42 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/27/2015 8:15:07 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/27/2015 8:14:09 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/27/2015 7:59:51 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/27/2015 7:59:49 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/26/2015 5:57:34 PM	19140 BookletEngrapado2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 5:57:34 PM	19140 BookletEngrapado2.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/26/2015 5:00:47 PM	19152 Tarj Jysp.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:47:49 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:47:49 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/26/2015 4:40:36 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:40:36 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:38:35 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:32:11 PM	19180 diplomas.pdf.dbp	OK	Admin	13	0	13	1	13	12x18"	Plain
+6/26/2015 4:32:11 PM	19180 diplomas.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/26/2015 4:25:45 PM	19171 Mont Tarj JPCanellas 2.pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/26/2015 4:19:58 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 4:19:58 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	96	0	96	6	16	13x19"	Plain
+6/26/2015 4:08:35 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 4:08:35 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 4:07:15 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/26/2015 4:07:15 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/26/2015 4:01:27 PM	19178 Rot 11x7 2Cara.pdf.dbp	OK	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+6/26/2015 4:01:27 PM	19178 Rot 11x7 2Cara.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 4:01:27 PM	19178 Rot 11x7 2Cara.pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+6/26/2015 3:54:01 PM	MENU ESCALADO COMPAGINADO-5.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:54:01 PM	MENU ESCALADO COMPAGINADO-5.pdf.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/26/2015 3:54:01 PM	MENU ESCALADO COMPAGINADO-5.pdf.dbp	OK	Admin	6	0	6	1	6	13x19"	Plain
+6/26/2015 3:50:09 PM	MENU ESCALADO COMPAGINADO-5.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:48:10 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:48:10 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	Rip Error	Admin	0	0	0	0	0		
+6/26/2015 3:18:59 PM	19171 Montaje Tarj  JPCanellas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 3:06:53 PM	19169 cafes populares.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/26/2015 3:06:53 PM	19169 cafes populares.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:06:53 PM	19169 cafes populares.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:06:53 PM	19169 cafes populares.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:04:52 PM	19118 esquite y sole  RECLAMO.pdf.dbp	OK	Admin	14	0	14	7	2	13x19"	Plain
+6/26/2015 3:04:52 PM	19118 esquite y sole  RECLAMO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:04:52 PM	19118 esquite y sole  RECLAMO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 3:04:52 PM	19118 esquite y sole  RECLAMO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 2:52:18 PM	19113 grupo diamante.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/26/2015 2:50:38 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 2:49:09 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 2:42:09 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 2:38:45 PM	19113 grupo diamante.pdf.dbp	Canceled	Admin	0	0	0	0	12		
+6/26/2015 1:59:47 PM	18923 mariano MONTAJE  .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 1:59:47 PM	18923 mariano MONTAJE  .pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/26/2015 1:27:12 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/26/2015 1:27:12 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	3	3	0	3	1	13x19"	Plain
+6/26/2015 1:18:42 PM	19163 jose zuñiga.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 1:18:42 PM	19163 jose zuñiga.pdf.dbp	OK	Admin	125	0	125	125	1	13x19"	Mixed
+6/26/2015 1:13:46 PM	19156 Tarjetas de presentacion ACME.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 12:58:39 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 12:58:39 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 12:58:39 PM	19160 interiores Novartis espiral en cabesa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 12:44:08 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	2	2	0	2	1	13x19"	Plain
+6/26/2015 12:44:08 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/26/2015 12:44:08 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/26/2015 12:44:08 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/26/2015 12:44:08 PM	19116 portada INGRID FOIL.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/26/2015 12:42:03 PM	19098 lorena castillo port2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:42:03 PM	19098 lorena castillo port2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:42:03 PM	19098 lorena castillo port2.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/26/2015 12:42:03 PM	19098 lorena castillo port2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:26:22 PM	19160 portada y contra Novartis.pdf.dbp	OK	Admin	26	0	26	26	1	13x19"	Plain
+6/26/2015 12:26:22 PM	19160 portada y contra Novartis.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:24:14 PM	19160 portada y contra Novartis.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:21:02 PM	19160 guardas Novartis.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:21:02 PM	19160 guardas Novartis.pdf.dbp	OK	Admin	14	0	14	14	1	13x19"	Plain
+6/26/2015 12:19:28 PM	19160 portada y contra Novartis.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:14:02 PM	19116 portada INGRID.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/26/2015 12:14:02 PM	19116 portada INGRID.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 12:14:02 PM	19116 portada INGRID.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/26/2015 12:01:50 PM	19098 lorena castillo port.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 11:53:07 AM	19162 interad cupones.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/26/2015 11:53:07 AM	19162 interad cupones.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 11:45:41 AM	19156 Tarjetas de presentacion ACME.pdf.dbp	OK	Admin	8	0	8	2	4	12.00in x 19.00in	Plain
+6/26/2015 11:34:13 AM	19113 grupo diamante.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/26/2015 11:34:13 AM	19113 grupo diamante.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/26/2015 11:34:13 AM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 11:31:28 AM	19157 TARJETAS GABY PRUEBA .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 11:29:22 AM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 11:12:49 AM	19166 The Shops Rot 11x7 2Cara.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/26/2015 11:12:49 AM	19166 The Shops Rot 11x7 2Cara.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 11:02:15 AM	19166 The Shops Rot 11x7 2Cara.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/26/2015 11:01:37 AM	19166 Rot Roja 2x1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 11:01:37 AM	19166 Rot Roja 2x1.pdf.dbp	OK	Admin	52	0	52	26	2	12.00in x 19.00in	Plain
+6/26/2015 10:55:54 AM	19178 Rot Roja 2x1 11x7 2Cara.pdf.dbp	OK	Admin	30	0	30	15	2	12.00in x 19.00in	Plain
+6/26/2015 10:55:54 AM	19178 Rot Roja 2x1 11x7 2Cara.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/26/2015 10:53:19 AM	19173-tarjetas de presentacion farmaco.pdf.dbp	OK	Admin	24	0	24	24	1	13x19"	Plain
+6/26/2015 10:53:19 AM	19173-tarjetas de presentacion farmaco.pdf.dbp	OK	Admin	360	0	360	360	1	13x19"	Plain
+6/26/2015 10:41:51 AM	19173-tarjetas de presentacion farmaco.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 10:31:19 AM	19116 Interiores.pdf.dbp	OK	Admin	22	0	22	1	22	13x19"	Plain
+6/26/2015 10:31:19 AM	19116 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 10:29:53 AM	19116 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 10:10:29 AM	19116 portada Fashion.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/26/2015 10:08:30 AM	19116 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 10:04:45 AM	19116 Separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 10:04:45 AM	19116 Separadores.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/26/2015 10:03:29 AM	19116 Separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 9:54:13 AM	19116 Separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/26/2015 8:55:29 AM	19128 lorena castillo 1-2 calco.pdf.dbp	OK	Admin	1	1	0	1	1	12.00in x 17.50in	Film
+6/26/2015 8:55:29 AM	19128 lorena castillo 1-2 calco.pdf.dbp	OK	Admin	14	14	0	1	14	12.00in x 17.50in	Film
+6/26/2015 8:55:29 AM	19128 lorena castillo 1-2 calco.pdf.dbp	OK	Admin	30	30	0	2	15	12.00in x 17.50in	Film
+6/26/2015 8:38:04 AM	19165 etiquetas invinos.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/26/2015 8:38:04 AM	19165 etiquetas invinos.pdf.dbp	OK	Admin	88	0	88	88	1	13x19"	Plain
+6/26/2015 8:27:57 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/26/2015 8:25:54 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/26/2015 8:24:32 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/26/2015 8:22:53 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/26/2015 8:20:14 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/26/2015 8:18:18 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/26/2015 8:07:12 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/26/2015 8:07:10 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/25/2015 5:54:26 PM	19124 multiventas invitacion .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 5:48:46 PM	19159 The Lux Rotulación 7x5.5in.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 5:48:46 PM	19159 The Lux Rotulación 7x5.5in.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 5:47:39 PM	19159 The Lux Rotulación 11x7.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/25/2015 5:47:39 PM	19159 The Lux Rotulación 11x7.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 5:45:52 PM	19159 PINK Rot 11x7 2Cara BUENA.pdf.dbp	OK	Admin	40	0	40	1	40	12.00in x 19.00in	Plain
+6/25/2015 5:45:52 PM	19159 PINK Rot 11x7 2Cara BUENA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 5:16:11 PM	19130 cibecall .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 5:16:11 PM	19130 cibecall .pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/25/2015 5:16:11 PM	19130 cibecall .pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/25/2015 4:51:49 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	10	0	10	1	10	13x19"	Plain
+6/25/2015 4:49:01 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 4:49:01 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	Canceled	Admin	0	0	0	0	12		
+6/25/2015 4:49:01 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	Canceled	Admin	0	0	0	0	12		
+6/25/2015 4:45:54 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 4:44:17 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 4:42:30 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 4:39:37 PM	DH0 AGORA PORTADA PERSONALIZADA.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 4:14:08 PM	19116 portada Fashion.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/25/2015 4:12:27 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/25/2015 4:12:26 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/25/2015 4:10:43 PM	19157 arte y vinyl.pdf.dbp	OK	Admin	4	1	3	1	4	13x19"	Plain
+6/25/2015 3:59:18 PM	19043 PORTADA 3.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	2	2	0	1	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	8	8	0	4	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	28	28	0	14	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	16	16	0	8	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	2	2	0	1	2	13x19"	Plain
+6/25/2015 3:55:35 PM	19153 lorena castillo final.pdf.dbp	OK	Admin	2	2	0	1	2	13x19"	Plain
+6/25/2015 3:53:11 PM	19043 GUARDAS 2.pdf.dbp	OK	Admin	0	0	0	0	1		
+6/25/2015 3:53:11 PM	19043 GUARDAS 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 3:48:00 PM	19043 photobook 2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 3:48:00 PM	19043 photobook 2.pdf.dbp	OK	Admin	0	0	0	0	12		
+6/25/2015 3:48:00 PM	19043 photobook 2.pdf.dbp	OK	Admin	12	0	12	1	12	13x19"	Plain
+6/25/2015 3:48:00 PM	19043 photobook 2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 3:46:32 PM	19116 ingrid separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 3:41:14 PM	19043 GUARDAS 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 3:39:29 PM	19043 photobook 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 3:30:08 PM	19106 porter novelli.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 3:23:03 PM	19106 porter novelli.pdf.dbp	OK	Admin	36	0	36	2	18	12.00in x 19.00in	Plain
+6/25/2015 3:23:03 PM	19106 porter novelli.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 3:17:09 PM	19135 sadalmelik.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/25/2015 3:17:09 PM	19135 sadalmelik.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/25/2015 3:13:34 PM	19147 remate.pdf.dbp	OK	Admin	8	0	8	1	8	12.00in x 19.00in	Plain
+6/25/2015 3:06:12 PM	19147 remate.pdf.dbp	OK	Admin	88	0	88	4	22	12.00in x 19.00in	Plain
+6/25/2015 3:03:11 PM	19153 lorena castillo.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/25/2015 2:56:21 PM	19147 remate.pdf.dbp	OK	Admin	88	0	88	4	22	12.00in x 19.00in	Plain
+6/25/2015 2:56:21 PM	19147 remate.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 2:37:25 PM	19130 cibecall .pdf.dbp	OK	Admin	60	0	60	30	2	12.00in x 19.00in	Plain
+6/25/2015 2:37:25 PM	19130 cibecall .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 2:37:25 PM	19130 cibecall .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	32	0	32	16	2	13x19"	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	54	0	54	27	2	13x19"	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 2:29:34 PM	19051 CHN montado.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 2:28:03 PM	19051 CHN montado.pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/25/2015 2:19:45 PM	19142 etiquetas 3m.pdf.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/25/2015 2:18:04 PM	19142 etiquetas 3m.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 1:55:18 PM	19108 Lc constructora.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 1:55:18 PM	19108 Lc constructora.pdf.dbp	OK	Admin	8	0	8	2	4	13x19"	Plain
+6/25/2015 1:55:18 PM	19108 Lc constructora.pdf.dbp	OK	Admin	36	0	36	3	12	13x19"	Plain
+6/25/2015 1:55:18 PM	19108 Lc constructora.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/25/2015 1:53:07 PM	19115 cintillos xf.pdf.dbp	OK	Admin	3	0	3	1	3	12.00in x 19.00in	Plain
+6/25/2015 1:51:03 PM	19115 cintillos xf.pdf.dbp	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+6/25/2015 1:49:26 PM	19115 cintillos xf.pdf.dbp	OK	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+6/25/2015 1:46:32 PM	19115 cintillos xf.pdf.dbp	OK	Admin	21	0	21	7	3	12.00in x 19.00in	Plain
+6/25/2015 1:46:32 PM	19115 cintillos xf.pdf.dbp	Rip Error	Admin	0	0	0	0	0		
+6/25/2015 1:46:32 PM	19115 cintillos xf.pdf.dbp	OK	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+6/25/2015 1:40:43 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	16	0	16	8	2	12.00in x 19.00in	Plain
+6/25/2015 1:40:43 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 12:59:13 PM	19123 percom final.pdf.dbp	OK	Admin	1	0	1	1	2	12.00in x 19.00in	Plain
+6/25/2015 12:59:13 PM	19123 percom final.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 12:59:13 PM	19123 percom final.pdf.dbp	OK	Admin	48	0	48	24	2	12.00in x 19.00in	Plain
+6/25/2015 12:59:13 PM	19123 percom final.pdf.dbp	OK	Admin	1	0	1	1	2	12.00in x 19.00in	Plain
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	OK	Admin	10	0	10	5	2	11.50in x 17.50in	Embossed paper
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	OK	Admin	6	0	6	3	2	11.50in x 17.50in	Embossed paper
+6/25/2015 12:53:13 PM	19103 agexport .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/25/2015 12:50:26 PM	19116 portada sense.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 12:50:26 PM	19116 portada sense.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 12:45:37 PM	19116 portada sense FOIL .pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/25/2015 12:45:37 PM	19116 portada sense FOIL .pdf.dbp	OK	Admin	4	2	2	2	2	13x19"	Plain
+6/25/2015 12:39:10 PM	19116 ingrid separadores.pdf.dbp	OK	Admin	16	0	16	1	16	13x19"	Plain
+6/25/2015 12:39:10 PM	19116 ingrid separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 12:10:51 PM	19156 Tarjetas de presentacion ACME.pdf.dbp	OK	Admin	2	0	2	1	4	12.00in x 19.00in	Plain
+6/25/2015 12:10:51 PM	19156 Tarjetas de presentacion ACME.pdf.dbp	OK	Admin	8	0	8	2	4	12.00in x 19.00in	Plain
+6/25/2015 11:55:41 AM	19100 lorena castillo couche80.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:55:41 AM	19100 lorena castillo couche80.pdf.dbp	OK	Admin	288	0	288	3	96	13x19"	Plain
+6/25/2015 11:54:55 AM	19129 heifer tarj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 11:46:48 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	90	0	90	1	90	13x19"	Plain
+6/25/2015 11:45:34 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:30:24 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:30:24 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:30:24 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:30:24 AM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 11:20:57 AM	19083 corp lito interiores .pdf.dbp	OK	Admin	30	0	30	1	30	12.00in x 19.00in	Plain
+6/25/2015 11:14:53 AM	19128 lorena castillo 2-2 bond80.pdf.dbp	OK	Admin	2	1	1	1	2	13.00in x 17.00in	Plain
+6/25/2015 11:14:53 AM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	2	2	0	1	2	13.00in x 17.00in	Plain
+6/25/2015 11:14:53 AM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	48	42	6	3	16	13.00in x 17.00in	Plain
+6/25/2015 11:13:57 AM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	2	2	0	1	2	13.00in x 17.00in	Plain
+6/25/2015 11:11:18 AM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	2	2	0	1	2	13.00in x 17.00in	Plain
+6/25/2015 11:11:18 AM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	2	2	0	1	2	13.00in x 17.00in	Plain
+6/25/2015 10:59:46 AM	19102 sieca.pdf.dbp	OK	Admin	9	0	9	9	1	11.50in x 17.50in	Plain
+6/25/2015 10:59:46 AM	19102 sieca.pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Plain
+6/25/2015 10:58:37 AM	19102 sieca.pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Plain
+6/25/2015 10:56:47 AM	19102 sieca.pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Plain
+6/25/2015 10:54:36 AM	19143 cuaderno VIP portada2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 10:48:33 AM	19140 BookletEngrapado.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/25/2015 10:48:33 AM	19140 BookletEngrapado.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/25/2015 10:46:24 AM	19140 BookletEngrapado.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/25/2015 10:44:13 AM	19140 BookletEngrapado.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/25/2015 10:41:05 AM	19140 BookletEngrapado.pdf.dbp	Canceled	Admin	0	0	0	0	8		
+6/25/2015 10:30:32 AM	19140 BookletPoster.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/25/2015 10:30:32 AM	19140 BookletPoster.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 10:24:31 AM	19098 lorena castillo 33.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 10:24:31 AM	19098 lorena castillo 33.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/25/2015 10:03:16 AM	19098 lorena castillo 23 foil.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/25/2015 10:03:16 AM	19098 lorena castillo 23 foil.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/25/2015 10:03:16 AM	19098 lorena castillo 23 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/25/2015 10:03:16 AM	19098 lorena castillo 23 foil.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/25/2015 10:02:51 AM	19098 lorena castillo 23 .pdf.dbp	OK	Admin	4	2	2	2	2	13x19"	Plain
+6/25/2015 10:02:51 AM	19098 lorena castillo 23 .pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/25/2015 10:02:51 AM	19098 lorena castillo 23 .pdf.dbp	OK	Admin	4	2	2	2	2	13x19"	Plain
+6/25/2015 10:02:51 AM	19098 lorena castillo 23 .pdf.dbp	OK	Admin	8	4	4	4	2	13x19"	Plain
+6/25/2015 9:54:06 AM	19152 Tarj Jysp.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 9:48:38 AM	19152 Tarj Jysp.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 9:48:38 AM	19152 Tarj Jysp.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/25/2015 9:48:38 AM	19152 Tarj Jysp.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/25/2015 9:48:38 AM	19152 Tarj Jysp.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/25/2015 9:30:03 AM	18706 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 9:30:03 AM	18706 portada.pdf.dbp	OK	Admin	18	0	18	9	2	13x19"	Plain
+6/25/2015 9:09:29 AM	18706 portada.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/25/2015 8:51:10 AM	18749 guardas Ralik.pdf.dbp	OK	Admin	44	0	44	22	2	13x19"	Plain
+6/25/2015 8:51:10 AM	18749 guardas Ralik.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 8:51:10 AM	18749 guardas Ralik.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/25/2015 8:51:10 AM	18749 guardas Ralik.pdf.dbp	OK	Admin	44	0	44	22	2	13x19"	Plain
+6/25/2015 8:51:10 AM	18749 guardas Ralik.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/25/2015 8:34:26 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/25/2015 8:32:35 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/25/2015 8:26:19 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/25/2015 8:23:07 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/25/2015 8:20:45 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/25/2015 8:12:24 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/25/2015 8:12:22 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/24/2015 8:20:59 PM	19154 STICKERS.pdf.dbp	OK	Admin	72	0	72	72	1	12.00in x 17.00in	Plain
+6/24/2015 8:20:59 PM	19154 STICKERS.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/24/2015 8:20:59 PM	19154 STICKERS.pdf.dbp	OK	Admin	3	0	3	3	1	12.00in x 17.00in	Plain
+6/24/2015 8:03:22 PM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 7:51:36 PM	19120 card.pdf.dbp	OK	Admin	50	0	50	50	1	12.00in x 19.00in	Plain
+6/24/2015 7:51:36 PM	19120 card.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 7:45:56 PM	19120 card.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/24/2015 7:44:06 PM	19120 hojas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 7:44:06 PM	19120 hojas.pdf.dbp	OK	Admin	100	0	100	50	2	12.00in x 19.00in	Plain
+6/24/2015 7:30:13 PM	19120 fichas corp .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 7:30:13 PM	19120 fichas corp .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 7:30:13 PM	19120 fichas corp .pdf.dbp	OK	Admin	198	0	198	99	2	12.00in x 19.00in	Plain
+6/24/2015 6:45:56 PM	19129 heifer tarj.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/24/2015 6:45:56 PM	19129 heifer tarj.pdf.dbp	OK	Admin	60	0	60	3	20	12.00in x 19.00in	Plain
+6/24/2015 6:43:41 PM	19129 heifer tarj.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/24/2015 6:38:16 PM	19129 heifer tarj.pdf.dbp	OK	Admin	18	0	18	1	18	12.00in x 19.00in	Plain
+6/24/2015 6:26:53 PM	19118 esquite y sole  2.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/24/2015 6:26:53 PM	19118 esquite y sole  2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 6:15:39 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 6:08:05 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	32	0	32	4	8	12.00in x 19.00in	Plain
+6/24/2015 6:03:51 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 6:02:11 PM	19090 grupo creative 2.pdf.dbp	Canceled	Admin	0	0	0	0	8		
+6/24/2015 5:57:59 PM	19090 grupo creative 2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 5:52:05 PM	19103 agexport .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/24/2015 5:52:05 PM	19103 agexport .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/24/2015 5:51:36 PM	19090 grupo creative 2.pdf.dbp	Canceled	Admin	0	0	0	0	8		
+6/24/2015 5:38:09 PM	19103 agexport .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/24/2015 5:38:09 PM	19103 agexport .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/24/2015 5:33:53 PM	19131 diplomas servicios .pdf.dbp	OK	Admin	125	0	125	125	1	11.50in x 17.50in	Embossed paper
+6/24/2015 5:33:53 PM	19131 diplomas servicios .pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Embossed paper
+6/24/2015 5:32:17 PM	19131 diplomas servicios .pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Embossed paper
+6/24/2015 5:23:10 PM	19131 diplomas servicios .pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Embossed paper
+6/24/2015 5:08:44 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/24/2015 5:08:43 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 5:05:06 PM	19083 corp lito portada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:53:45 PM	19083 corp lito interiores .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:53:45 PM	19083 corp lito interiores .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:53:45 PM	19083 corp lito interiores .pdf.dbp	OK	Admin	30	0	30	1	30	12.00in x 19.00in	Plain
+6/24/2015 4:45:34 PM	19132 servicios trans.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:45:34 PM	19132 servicios trans.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:45:34 PM	19132 servicios trans.pdf.dbp	OK	Admin	156	0	156	78	2	12.00in x 19.00in	Mixed
+6/24/2015 4:22:41 PM	19118 esquite y sole  2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 4:22:41 PM	19118 esquite y sole  2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 4:22:41 PM	19118 esquite y sole  2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 4:22:41 PM	19118 esquite y sole  2.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 4:18:50 PM	19090 grupo creative.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:09:49 PM	19090 grupo creative.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 4:09:49 PM	19090 grupo creative.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 3:55:31 PM	18749 interiores Ralik.pdf.dbp	OK	Admin	58	0	58	29	2	13x19"	Plain
+6/24/2015 3:53:06 PM	18749 guardas Ralik.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/24/2015 3:53:06 PM	18749 guardas Ralik.pdf.dbp	OK	Admin	136	0	136	34	4	13x19"	Plain
+6/24/2015 3:47:03 PM	18749 interiores Ralik.pdf.dbp	OK	Admin	58	0	58	29	2	13x19"	Plain
+6/24/2015 3:47:03 PM	18749 interiores Ralik.pdf.dbp	Canceled	Admin	2	0	2	1	4	13x19"	Plain
+6/24/2015 3:40:49 PM	18749 interiores Ralik.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 3:31:41 PM	19126 carmen .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 3:31:41 PM	19126 carmen .pdf.dbp	OK	Admin	138	0	138	69	2	12.00in x 19.00in	Mixed
+6/24/2015 3:31:41 PM	19126 carmen .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 3:31:41 PM	19126 carmen .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 3:15:42 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	28	0	28	14	2	12.00in x 19.00in	Plain
+6/24/2015 3:15:42 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 3:13:49 PM	18959 Edifici cambios.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 3:04:47 PM	19146 Media Carta 3M.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 3:04:47 PM	19146 Media Carta 3M.pdf.dbp	OK	Admin	100	0	100	50	2	13x19"	Plain
+6/24/2015 2:43:52 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/24/2015 2:42:22 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/24/2015 2:40:18 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 2:39:25 PM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/24/2015 2:37:30 PM	19101 lorena castillo couche100.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/24/2015 2:37:30 PM	19101 lorena castillo couche100.pdf.dbp	OK	Admin	60	21	39	3	20	13x19"	Plain
+6/24/2015 2:37:30 PM	19101 lorena castillo couche100.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/24/2015 2:37:30 PM	19101 lorena castillo couche100.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/24/2015 2:28:56 PM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 2:28:56 PM	18964 Interiores.pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/24/2015 2:25:35 PM	18964 Interiores.pdf.dbp	Canceled	Admin	0	0	0	0	16		
+6/24/2015 2:22:12 PM	18999 sadalmelik.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 2:07:25 PM	19146 Media Carta 3M.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 2:07:25 PM	19146 Media Carta 3M.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 1:57:48 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 1:57:27 PM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/24/2015 1:55:27 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 1:51:06 PM	19141 TarjetasKINGO.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 1:51:06 PM	19141 TarjetasKINGO.pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/24/2015 1:49:30 PM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 1:41:21 PM	19136 portada.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 1:41:21 PM	19136 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 1:40:28 PM	19134 puntos print .pdf.dbp	OK	Admin	16	0	16	8	2	12.00in x 19.00in	Plain
+6/24/2015 1:40:28 PM	19134 puntos print .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 1:40:01 PM	19136 separadores.pdf.dbp	Canceled	Admin	0	0	0	0	5		
+6/24/2015 1:40:01 PM	19136 separadores.pdf.dbp	OK	Admin	5	0	5	1	5	12.00in x 19.00in	Plain
+6/24/2015 1:35:14 PM	19129 heifer tarj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 1:18:35 PM	19114 Grupo Diamante.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 1:18:35 PM	19114 Grupo Diamante.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 1:18:35 PM	19114 Grupo Diamante.pdf.dbp	OK	Admin	462	0	462	1	462	12.00in x 19.00in	Plain
+6/24/2015 12:21:22 PM	19128 lorena castillo 22 bond80.pdf.dbp	OK	Admin	2	2	0	1	2	13.00in x 17.00in	Plain
+6/24/2015 12:14:11 PM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 12:14:11 PM	19117 ingrid interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 12:10:43 PM	19108 Lc constructora.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 12:10:43 PM	19108 Lc constructora.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/24/2015 12:01:38 PM	19120 card.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/24/2015 12:01:38 PM	19120 card.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/24/2015 12:00:34 PM	19120 hojas.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 12:00:34 PM	19120 hojas.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/24/2015 11:55:06 AM	19127 mc pharma .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 11:55:06 AM	19127 mc pharma .pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/24/2015 11:55:06 AM	19127 mc pharma .pdf.dbp	OK	Admin	64	0	64	32	2	12.00in x 19.00in	Plain
+6/24/2015 11:55:06 AM	19127 mc pharma .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 11:43:38 AM	19133 plus tecno.pdf.dbp	OK	Admin	26	0	26	13	2	12.00in x 19.00in	Plain
+6/24/2015 11:43:38 AM	19133 plus tecno.pdf.dbp	Canceled	Admin	0	0	0	0	3		
+6/24/2015 11:43:38 AM	19133 plus tecno.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 11:38:20 AM	19122 valery CV .pdf.dbp	OK	Admin	12	0	12	12	1	12.00in x 19.00in	Plain
+6/24/2015 11:38:20 AM	19122 valery CV .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:36:54 AM	19122 carta de presentacion .pdf.dbp	OK	Admin	11	0	11	11	1	12.00in x 19.00in	Plain
+6/24/2015 11:36:54 AM	19122 carta de presentacion .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:36:54 AM	19122 carta de presentacion .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:36:54 AM	19122 carta de presentacion .pdf.dbp	Canceled	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:36:54 AM	19122 carta de presentacion .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:35:43 AM	19122 ivo klaric traj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 11:35:43 AM	19122 ivo klaric traj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 11:12:47 AM	18999 sadalmelik.pdf.dbp	Canceled	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/24/2015 11:12:47 AM	18999 sadalmelik.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 11:12:47 AM	18999 sadalmelik.pdf.dbp	OK	Admin	18	0	18	3	6	12.00in x 19.00in	Plain
+6/24/2015 9:39:39 AM	19141 TarjetasKINGO.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 9:36:19 AM	19141 TarjetasKINGO.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/24/2015 9:34:14 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/24/2015 9:31:18 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/24/2015 9:08:40 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/24/2015 9:08:38 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/23/2015 8:36:21 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/23/2015 8:36:20 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/22/2015 5:30:17 PM	18964 portada.pdf.dbp	Canceled	Admin	6	0	6	3	2	13x19"	Plain
+6/22/2015 5:30:17 PM	18964 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 4:27:45 PM	19043 photobook .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 4:21:33 PM	19100 lorena castillo couche80.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 4:21:33 PM	19100 lorena castillo couche80.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 4:18:58 PM	19100 lorena castillo couche80.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 4:14:36 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/22/2015 4:14:35 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/22/2015 4:01:10 PM	19101 lorena castillo couche100.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/22/2015 1:59:13 PM	19118 esquite y sole.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/22/2015 1:59:13 PM	19118 esquite y sole.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 1:55:24 PM	18968 Victor hugo 2 .pdf.dbp	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+6/22/2015 1:55:24 PM	18968 Victor hugo 2 .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/22/2015 1:48:54 PM	19119 comfort.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/22/2015 1:48:54 PM	19119 comfort.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 1:44:41 PM	18968 Victor hugo Foil 3.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/22/2015 1:32:47 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 1:32:47 PM	19113 grupo diamante.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/22/2015 11:40:23 AM	19112 tigo stiker 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/22/2015 11:40:23 AM	19112 tigo stiker 2.pdf.dbp	OK	Admin	67	0	67	1	67	13x19"	Plain
+6/22/2015 9:34:30 AM	18968 Victor hugo Foil 3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/22/2015 9:34:30 AM	18968 Victor hugo Foil 3.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/22/2015 9:34:30 AM	18968 Victor hugo Foil 3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/22/2015 9:15:05 AM	19112 tigo stiker.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/22/2015 8:25:23 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/22/2015 8:23:06 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/22/2015 8:20:33 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/22/2015 8:18:41 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/22/2015 8:18:15 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/22/2015 8:15:18 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/22/2015 8:13:59 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/22/2015 8:13:57 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/20/2015 11:53:50 AM	digital OG.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/20/2015 11:24:30 AM	19094 carmen .pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/20/2015 11:15:43 AM	19067 Agencia Independiente.pdf.dbp	OK	Admin	8	0	8	2	4	12.00in x 19.00in	Plain
+6/20/2015 10:41:59 AM	19109 CAMARA DE COOPERACION Y COMERCIO.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/20/2015 10:41:59 AM	19109 CAMARA DE COOPERACION Y COMERCIO.pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/20/2015 9:52:41 AM	19067 Agencia Independiente.pdf.dbp	OK	Admin	8	0	8	2	4	12.00in x 19.00in	Plain
+6/20/2015 9:52:41 AM	19067 Agencia Independiente.pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/20/2015 9:42:30 AM	19091 brander.pdf.dbp	OK	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+6/20/2015 9:23:12 AM	19107 fundacion vision.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/20/2015 9:23:12 AM	19107 fundacion vision.pdf.dbp	OK	Admin	20	0	20	10	2	12.00in x 19.00in	Plain
+6/20/2015 9:10:37 AM	19111PORTADA ATOS.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/20/2015 9:10:37 AM	19111PORTADA ATOS.pdf.dbp	OK	Admin	50	25	25	25	2	13x19"	Plain
+6/20/2015 9:07:17 AM	19111respaldo ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/20/2015 9:07:17 AM	19111respaldo ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/20/2015 9:07:17 AM	19111respaldo ATOS.pdf.dbp	OK	Admin	24	0	24	24	1	13x19"	Plain
+6/20/2015 9:06:28 AM	19111PORTADA ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/20/2015 9:03:48 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/20/2015 8:47:15 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/20/2015 8:47:13 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/19/2015 6:09:43 PM	19093 db&gb atms.pdf.dbp	OK	Admin	9	0	9	9	1	11.50in x 17.50in	Embossed paper
+6/19/2015 6:05:30 PM	19093 db&gb atms.pdf.dbp	OK	Admin	1	0	1	1	1	11.50in x 17.50in	Embossed paper
+6/19/2015 6:00:37 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/19/2015 6:00:37 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 6:00:37 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/19/2015 6:00:37 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/19/2015 5:44:34 PM	19110 Vertice - Inserto Montes Alpha REFERENCIA.pdf.dbp	OK	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+6/19/2015 5:44:34 PM	19110 Vertice - Inserto Montes Alpha REFERENCIA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 5:44:34 PM	19110 Vertice - Inserto Montes Alpha REFERENCIA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	3	0	3	3	1	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	68	0	68	4	17	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	64	0	64	4	16	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+6/19/2015 5:18:02 PM	19001 casa instrumental .pdf.dbp	OK	Admin	17	0	17	1	17	12.00in x 19.00in	Plain
+6/19/2015 5:10:47 PM	19097 one ticket group.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 5:10:47 PM	19097 one ticket group.pdf.dbp	OK	Admin	26	0	26	13	2	12.00in x 19.00in	Plain
+6/19/2015 5:03:19 PM	19090 grupo creative.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 4:53:22 PM	19079 gafetes.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 4:53:22 PM	19079 gafetes.pdf.dbp	OK	Admin	100	0	100	50	2	12.00in x 19.00in	Plain
+6/19/2015 4:06:31 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/19/2015 4:06:30 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/19/2015 3:53:38 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/19/2015 3:53:38 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	34	0	34	34	1	12.00in x 19.00in	Plain
+6/19/2015 3:53:38 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 3:53:38 PM	19095 carmen rest inserto.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 3:40:57 PM	19094 carmen .pdf.dbp	OK	Admin	420	0	420	70	6	12.00in x 19.00in	Plain
+6/19/2015 3:38:34 PM	19094 carmen .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 3:18:46 PM	19084 PORTADA INFORME 2015.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 3:18:46 PM	19084 PORTADA INFORME 2015.pdf.dbp	OK	Admin	40	0	40	20	2	13x19"	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	132	6	126	6	22	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	108	6	102	6	18	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	Canceled	Admin	0	0	0	0	22		
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	26	13	13	13	2	12.00in x 19.00in	Plain
+6/19/2015 3:01:47 PM	18706 interiores.pdf.dbp	OK	Admin	84	21	63	21	4	12.00in x 19.00in	Plain
+6/19/2015 2:58:11 PM	18706 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 1:11:25 PM	19055 ETIKETAS.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 1:11:25 PM	19055 ETIKETAS.pdf.dbp	OK	Admin	88	0	88	44	2	13x19"	Plain
+6/19/2015 1:06:48 PM	19042 suprema.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/19/2015 1:06:48 PM	19042 suprema.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/19/2015 1:06:48 PM	19042 suprema.pdf.dbp	OK	Admin	128	0	128	64	2	13x19"	Plain
+6/19/2015 1:06:48 PM	19042 suprema.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 1:06:48 PM	19042 suprema.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 12:31:11 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 12:31:11 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 12:31:11 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 12:31:11 PM	18750 Klatina 12.pdf.dbp	OK	Admin	32	0	32	16	2	12.00in x 19.00in	Plain
+6/19/2015 12:18:15 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 12:18:15 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 12:02:22 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 12:02:22 PM	18750 Klatina 12.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/19/2015 12:02:22 PM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:48:48 AM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:48:48 AM	18750 Klatina 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:46:21 AM	18750 Klatina 22.pdf.dbp	OK	Admin	14	0	14	7	2	13x19"	Plain
+6/19/2015 11:46:21 AM	18750 Klatina 22.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:46:21 AM	18750 Klatina 22.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:46:21 AM	18750 Klatina 22.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 11:33:05 AM	19042 suprema.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/19/2015 10:18:29 AM	19078 Universidad san pablo .pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/19/2015 10:18:29 AM	19078 Universidad san pablo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 10:18:29 AM	19078 Universidad san pablo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 10:03:32 AM	18964 Interiores.pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/19/2015 10:03:32 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/19/2015 9:53:13 AM	19087 etiquetas 3m.pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/19/2015 9:46:16 AM	19086 la popular.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/19/2015 9:46:16 AM	19086 la popular.pdf.dbp	OK	Admin	54	0	54	54	1	13x19"	Plain
+6/19/2015 9:16:57 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 9:14:36 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/19/2015 9:12:17 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/19/2015 9:07:54 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 9:07:24 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/19/2015 8:56:46 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/19/2015 8:34:14 AM	19092 Licorera2.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/19/2015 8:34:14 AM	19092 Licorera2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/19/2015 8:29:43 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/19/2015 8:29:16 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/19/2015 8:06:27 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/19/2015 8:06:25 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/18/2015 4:51:50 PM	19083 corp lito .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/18/2015 4:50:19 PM	19083 corp lito .pdf.dbp	Canceled	Admin	0	0	0	0	62		
+6/18/2015 4:46:07 PM	19083 corp lito portada .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 4:32:19 PM	19075 farma marketing.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 4:32:19 PM	19075 farma marketing.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/18/2015 4:28:43 PM	19054 SEIMA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 4:28:43 PM	19054 SEIMA.pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/18/2015 3:58:31 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/18/2015 3:58:31 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/18/2015 3:10:16 PM	19080 FINAL - Tecnico en Cocina SALVADOR (CON PRECIO).pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/18/2015 3:10:16 PM	19080 FINAL - Tecnico en Cocina SALVADOR (CON PRECIO).pdf.dbp	OK	Admin	50	0	50	25	2	12x18"	Plain
+6/18/2015 1:52:45 PM	19082 Tarjetas ACAM Final.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/18/2015 1:52:45 PM	19082 Tarjetas ACAM Final.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 1:48:27 PM	19080 FINAL - Tecnico en Cocina SALVADOR (CON PRECIO).pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/18/2015 1:27:48 PM	19072 Daniel Cartagena 45.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Embossed paper
+6/18/2015 1:27:48 PM	19072 Daniel Cartagena 45.pdf.dbp	OK	Admin	58	0	58	29	2	12x18"	Embossed paper
+6/18/2015 1:22:20 PM	19072 Daniel Cartagena 45.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Embossed paper
+6/18/2015 1:11:52 PM	19072 5-5.dbp	OK	Admin	6	0	6	6	1	13x19"	Plain
+6/18/2015 12:59:44 PM	19072 Daniel Cartagena 35.pdf.dbp	OK	Admin	18	0	18	2	9	13x19"	Plain
+6/18/2015 12:51:07 PM	19072 Daniel Cartagena 25.pdf.dbp	OK	Admin	5	0	5	1	5	13x19"	Plain
+6/18/2015 12:40:02 PM	19072 Daniel Cartagena 15.pdf.dbp	OK	Admin	15	0	15	5	3	12.00in x 19.00in	Plain
+6/18/2015 12:00:30 PM	19070 sticker 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	10	1	9	1	10	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	270	27	243	27	10	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	10	1	9	1	10	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	2	1	1	1	10	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	2	0	2	1	8	13x19"	Plain
+6/18/2015 11:12:52 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/18/2015 11:05:54 AM	19065 RGS Expansion4.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/18/2015 10:59:00 AM	19057 agropecuaria popoyan final.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/18/2015 10:54:21 AM	18817 Bercom final.pdf.dbp	OK	Admin	20	0	20	10	2	13x19"	Plain
+6/18/2015 10:54:21 AM	18817 Bercom final.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/18/2015 10:38:30 AM	19079 gafetes.pdf.dbp	OK	Admin	100	0	100	50	2	12.00in x 19.00in	Plain
+6/18/2015 10:38:30 AM	19079 gafetes.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 10:31:09 AM	19079 gafetes.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 10:23:28 AM	19071 grupo pime.pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+6/18/2015 10:23:28 AM	19071 grupo pime.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 10:16:14 AM	19063 tarjetas decoy .pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+6/18/2015 10:16:14 AM	19063 tarjetas decoy .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 10:03:07 AM	19068 diplomas CDAG.pdf.dbp	OK	Admin	24	0	24	24	1	13x19"	Plain
+6/18/2015 9:53:51 AM	19064 Menu corporacion conesco.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/18/2015 9:53:51 AM	19064 Menu corporacion conesco.pdf.dbp	OK	Admin	50	0	50	25	2	13x19"	Plain
+6/18/2015 9:46:52 AM	19040 select bendicion 2.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/18/2015 9:45:17 AM	19040 select bendicion.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/18/2015 9:41:43 AM	19040 select foyer 2.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/18/2015 9:39:43 AM	19040 select foyer 1.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/18/2015 9:39:43 AM	19040 select foyer 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 9:36:28 AM	19040 select guate 2.pdf.dbp	OK	Admin	18	0	18	9	2	12.00in x 19.00in	Plain
+6/18/2015 9:36:28 AM	19040 select guate 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 9:34:14 AM	19040 select guate 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 9:33:29 AM	19040 select guate 1.pdf.dbp	OK	Admin	32	0	32	16	2	12.00in x 19.00in	Plain
+6/18/2015 9:33:29 AM	19040 select guate 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 9:31:14 AM	19040 select guate 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/18/2015 8:52:27 AM	19070 sticker.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/18/2015 8:47:40 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/18/2015 8:43:49 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/18/2015 8:42:17 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/18/2015 8:39:53 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/18/2015 8:35:50 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/18/2015 8:32:57 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/18/2015 8:32:01 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/18/2015 8:31:49 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/18/2015 8:28:56 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/18/2015 7:58:29 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/18/2015 7:58:26 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/17/2015 5:42:54 PM	Diploma Food Dr Sampedro.pdf.dbp	OK	Admin	49	0	49	49	1	12x18"	Plain
+6/17/2015 5:42:54 PM	Diploma Food Dr Sampedro.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 5:36:31 PM	19065 RGS Expansion4.pdf.dbp	OK	Admin	8	1	7	1	8	13x19"	Plain
+6/17/2015 5:36:31 PM	19065 RGS Expansion4.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 5:33:44 PM	19065 RGS Expansion4.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 5:04:45 PM	19065 RGS Expansion.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 4:51:46 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:51:46 PM	19038 Servicio de ti2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:43:24 PM	19065 RGS Expansion.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 4:40:12 PM	19052 ingrid gordillo 4.pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/17/2015 4:30:20 PM	19052 ingrid gordillo 3.2.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/17/2015 4:30:20 PM	19052 ingrid gordillo 3.2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:14:55 PM	19065 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/17/2015 4:00:09 PM	19052 ingrid gordillo 3.1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 3:59:38 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/17/2015 3:59:37 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/17/2015 3:52:17 PM	19065 interiores.pdf.dbp	Canceled	Admin	172	0	172	43	15	13x19"	Plain
+6/17/2015 3:52:17 PM	19065 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 3:52:17 PM	19065 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 3:41:23 PM	19040 select guate 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 3:38:35 PM	19040 select guate 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 3:31:28 PM	19040 select guate 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 3:31:28 PM	19040 select guate 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 3:11:41 PM	19065 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 2:53:11 PM	18995 infomovil BARNIZ ROJO  .pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+6/17/2015 2:36:16 PM	19056 drakkar invi.pdf.dbp	OK	Admin	108	0	108	54	2	12.00in x 19.00in	Plain
+6/17/2015 2:36:16 PM	19056 drakkar invi.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 2:36:16 PM	19056 drakkar invi.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 2:36:16 PM	19056 drakkar invi.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 2:36:16 PM	19056 drakkar invi.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 2:26:33 PM	19039 Dprint .pdf.dbp	OK	Admin	64	0	64	16	4	13x19"	Plain
+6/17/2015 2:26:33 PM	19039 Dprint .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/17/2015 2:26:33 PM	19039 Dprint .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 1:53:56 PM	19020 agenda novartis 6x9 .pdf.dbp	OK	Admin	36	36	0	6	6	11x17"	Plain
+6/17/2015 1:53:00 PM	19020 agenda novartis 6x9 .pdf.dbp	OK	Admin	2	2	0	1	2	11x17"	Plain
+6/17/2015 1:51:48 PM	19020 agenda novartis 6x9 .pdf.dbp	OK	Admin	2	2	0	1	2	11x17"	Plain
+6/17/2015 1:45:39 PM	19020 agenda novartis 6x9 .pdf.dbp	Canceled	Admin	0	0	0	0	6		
+6/17/2015 1:02:45 PM	19039 Dprint .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 1:02:45 PM	19039 Dprint .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 1:02:45 PM	19039 Dprint .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 1:02:45 PM	19039 Dprint .pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/17/2015 1:02:45 PM	19039 Dprint .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 12:51:29 PM	19059 dedis.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 11:37:58 AM	19050 tigo preciadores .pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/17/2015 11:16:06 AM	19052 ingrid gordillo2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 11:16:06 AM	19052 ingrid gordillo2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 11:16:06 AM	19052 ingrid gordillo2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 11:16:06 AM	19052 ingrid gordillo2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 11:14:51 AM	19052 ingrid gordillo2.pdf	Canceled	Admin	0	0	0	0	6		
+6/17/2015 11:05:59 AM	19059 salta.pdf.dbp	OK	Admin	57	0	57	1	57	12x18"	Plain
+6/17/2015 10:53:05 AM	19059 Sigue.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 10:53:05 AM	19059 Sigue.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 10:52:19 AM	19059 dedis.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 10:50:13 AM	19059 salta.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 10:48:37 AM	19059 Super bono .pdf.dbp	OK	Admin	11	0	11	1	11	12x18"	Plain
+6/17/2015 10:48:37 AM	19059 Super bono .pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/17/2015 10:40:54 AM	19052 ingrid gordillo.pdf.dbp	Canceled	Admin	0	0	0	0	6		
+6/17/2015 10:35:24 AM	18995 infomovil .pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/17/2015 10:29:33 AM	18995 infomovil .pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/17/2015 10:29:33 AM	18995 infomovil .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:29:33 AM	18995 infomovil .pdf.dbp	OK	Admin	32	0	32	4	8	12.00in x 19.00in	Plain
+6/17/2015 10:25:14 AM	19040 selectpharma bendicion 2 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:23:23 AM	19040 selectpharma bendicion .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:21:54 AM	19040 selectpharma foyer 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:20:27 AM	19040 selectpharma foyer 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:16:52 AM	19040 selectpharma guate 2 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:16:07 AM	19040 selectpharma guate 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 10:10:15 AM	18995 infomovil foil 2 .pdf.dbp	OK	Admin	23	0	23	23	1	12.00in x 19.00in	Plain
+6/17/2015 9:52:30 AM	19026 photobook 2 .pdf.dbp	OK	Admin	20	0	20	1	20	12.00in x 19.00in	Plain
+6/17/2015 9:52:07 AM	19026 photobook 1 .pdf.dbp	OK	Admin	18	0	18	1	18	12.00in x 19.00in	Plain
+6/17/2015 9:46:35 AM	19026 port .pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/17/2015 9:44:38 AM	19026 photobook 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/17/2015 9:22:29 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:22:29 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/17/2015 9:22:29 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	8	0	8	2	4	13x19"	Plain
+6/17/2015 9:21:16 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	20	0	20	10	2	13x19"	Plain
+6/17/2015 9:20:04 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:16:38 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:16:38 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:14:39 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:14:39 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 9:11:49 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/17/2015 9:11:49 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 9:09:42 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 9:03:31 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/17/2015 9:03:31 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	18	0	18	9	2	13x19"	Plain
+6/17/2015 8:42:25 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/17/2015 8:40:58 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/17/2015 8:38:56 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/17/2015 8:36:47 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/17/2015 8:31:06 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/17/2015 8:28:20 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/17/2015 8:27:14 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 8:26:53 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 8:23:58 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/17/2015 8:23:02 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 8:22:49 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 8:21:59 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 8:21:45 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/17/2015 7:58:52 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/17/2015 7:58:49 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/16/2015 5:35:52 PM	18949 socios creativos.pdf.dbp	OK	Admin	12	0	12	3	4	13x19"	Plain
+6/16/2015 4:41:34 PM	19033 TARJETA .pdf.dbp	OK	Admin	26	0	26	13	2	13x19"	Plain
+6/16/2015 4:41:34 PM	19033 TARJETA .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 4:41:34 PM	19033 TARJETA .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 4:36:29 PM	19033 ETIQUETA .pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/16/2015 4:35:22 PM	14586 Servirecursos.pdf.dbp	OK	Admin	6	0	6	3	2	12x18"	Plain
+6/16/2015 4:33:19 PM	14586 Servirecursos.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/16/2015 4:28:02 PM	Agora 36 Oferta Calzado jul-agos 519-556.pdf.dbp	OK	Admin	20	0	20	1	20	12.00in x 19.00in	Plain
+6/16/2015 4:24:41 PM	19030 Tarj Analyt final.pdf.dbp	OK	Admin	8	0	8	8	1	12.00in x 19.00in	Plain
+6/16/2015 4:24:41 PM	19030 Tarj Analyt final.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 3:59:36 PM	19048 Casa instrumental.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 3:59:36 PM	19048 Casa instrumental.pdf.dbp	OK	Admin	105	0	105	105	1	13x19"	Plain
+6/16/2015 3:58:16 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/16/2015 3:58:16 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/16/2015 3:51:33 PM	19041 TRECSA .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 3:51:33 PM	19041 TRECSA .pdf.dbp	OK	Admin	100	0	100	50	2	13x19"	Plain
+6/16/2015 3:51:33 PM	19041 TRECSA .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 3:43:17 PM	19041 TRECSA .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 3:34:28 PM	19017 metalizadas.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/16/2015 3:34:28 PM	19017 metalizadas.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 3:33:59 PM	19017 negras.pdf.dbp	OK	Admin	2	0	2	1	18	13x19"	Plain
+6/16/2015 3:33:59 PM	19017 negras.pdf.dbp	OK	Admin	18	0	18	1	18	13x19"	Plain
+6/16/2015 3:31:24 PM	19017 blanco.pdf.dbp	OK	Admin	100	0	100	1	100	13x19"	Mixed
+6/16/2015 3:31:24 PM	19017 blanco.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 1:20:04 PM	18949 socios creativos.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/16/2015 1:20:04 PM	18949 socios creativos.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/16/2015 1:03:52 PM	19020  Sobre cuadernillo .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 1:03:52 PM	19020  Sobre cuadernillo .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 12:25:52 PM	19046 editorial santillana funda.pdf.dbp	OK	Admin	56	0	56	56	1	12.00in x 19.00in	Plain
+6/16/2015 12:22:02 PM	19002 Anexo A 52 Gimnasia.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/16/2015 12:09:55 PM	19002 Anexo A 50 Estadio Nacional Mateo Flores .pdf.dbp	OK	Admin	52	0	52	2	26	11x17"	Plain
+6/16/2015 12:05:53 PM	19046 editorial santillana invitaciones.pdf.dbp	OK	Admin	17	0	17	17	1	13x19"	Plain
+6/16/2015 12:04:34 PM	19002 ANEXO A 49 Piscina Olímpica de Chiquimula.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/16/2015 12:02:35 PM	19002 ANEXO A 51 Gimnasio de Chiquimula.pdf.dbp	OK	Admin	22	0	22	2	11	11x17"	Plain
+6/16/2015 11:58:07 AM	19002 ANEXO A 53 Villa Deportiva de San Marcos.pdf.dbp	OK	Admin	38	0	38	2	19	11x17"	Plain
+6/16/2015 11:56:22 AM	19002 ANEXO A 48 Casa del Deportista de Chiquimula.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/16/2015 11:45:28 AM	19037 editorial santillana funda.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 11:45:28 AM	19037 editorial santillana funda.pdf.dbp	OK	Admin	130	0	130	130	1	12.00in x 19.00in	Plain
+6/16/2015 11:33:24 AM	19037 editorial santillana invitaciones.pdf.dbp	OK	Admin	35	0	35	35	1	13x19"	Plain
+6/16/2015 11:33:24 AM	19037 editorial santillana invitaciones.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 11:27:46 AM	18968  victor hugo SIN NOMBRE .pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/16/2015 11:23:43 AM	18995 infomovil 2 .pdf.dbp	OK	Admin	40	0	40	5	8	12.00in x 19.00in	Plain
+6/16/2015 11:18:40 AM	18995 infomovil 2 .pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/16/2015 11:18:40 AM	18995 infomovil 2 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/16/2015 11:18:40 AM	18995 infomovil 2 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/16/2015 11:12:56 AM	19045.pdf.dbp	OK	Admin	8	0	8	8	1	13x19"	Plain
+6/16/2015 11:12:56 AM	19045.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 11:05:11 AM	19044  VOLANTE EXPOMARKETING FINAL.pdf.dbp	OK	Admin	102	0	102	51	2	12.00in x 19.00in	Plain
+6/16/2015 11:05:11 AM	19044  VOLANTE EXPOMARKETING FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/16/2015 10:39:47 AM	19029 SAUL .pdf.dbp	OK	Admin	30	0	30	1	30	12.00in x 19.00in	Plain
+6/16/2015 10:36:49 AM	19029 SAUL .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 10:20:51 AM	19008 Tarj Aseal.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/16/2015 10:20:51 AM	19008 Tarj Aseal.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/16/2015 10:10:22 AM	18995 infomovil foil 2 .pdf.dbp	OK	Admin	26	0	26	26	1	12.00in x 19.00in	Plain
+6/16/2015 9:58:52 AM	19024 Asta medica.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/16/2015 9:47:52 AM	19024 Asta medica.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/16/2015 8:54:07 AM	18995 infomovil .pdf.dbp	OK	Admin	24	0	24	3	8	12.00in x 19.00in	Plain
+6/16/2015 8:47:08 AM	19020  guardas .pdf.dbp	OK	Admin	7	0	7	7	1	13x19"	Plain
+6/16/2015 8:39:10 AM	19020  port. novatis .pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/16/2015 8:39:10 AM	19020  port. novatis .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/16/2015 8:34:48 AM	19032 mARTE BÁRCENAS.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/16/2015 8:34:05 AM	19032 Arte Amatitlán.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/16/2015 8:29:12 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/16/2015 8:25:58 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/16/2015 8:22:17 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 8:21:15 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/16/2015 8:19:06 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/16/2015 8:14:49 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 8:11:40 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/16/2015 7:58:14 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/16/2015 7:58:10 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/15/2015 6:06:51 PM	agora.pdf.dbp	OK	Admin	260	0	260	1	260	12.00in x 19.00in	Plain
+6/15/2015 6:05:21 PM	00 Portada Jul-Agos-2015.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 6:01:09 PM	agora.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 4:58:37 PM	18968  victor hugo 2  .pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/15/2015 4:58:37 PM	18968  victor hugo 2  .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 4:46:02 PM	19002 Anexo A 41 Velódromo Nacional.pdf.dbp	OK	Admin	2	0	2	2	1	11x17"	Plain
+6/15/2015 4:38:03 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/15/2015 4:38:03 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/15/2015 4:38:03 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 4:35:30 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 4:08:16 PM	18949 socios creativos.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/15/2015 4:08:16 PM	18949 socios creativos.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/15/2015 4:07:51 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/15/2015 4:07:50 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/15/2015 4:04:53 PM	18949 socios creativos.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/15/2015 4:04:53 PM	18949 socios creativos.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/15/2015 3:54:53 PM	18995 infomovil .pdf.dbp	OK	Admin	20	0	20	2	10	12.00in x 19.00in	Plain
+6/15/2015 3:52:43 PM	19018 bco promerica int.pdf.dbp	OK	Admin	42	1	41	1	42	12.00in x 19.00in	Plain
+6/15/2015 3:52:43 PM	19018 bco promerica int.pdf.dbp	OK	Admin	378	9	369	9	42	12.00in x 19.00in	Plain
+6/15/2015 3:50:27 PM	19018 portada y contra 2.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/15/2015 3:50:27 PM	19018 portada y contra 2.pdf.dbp	OK	Admin	10	0	10	10	1	12x18"	Plain
+6/15/2015 3:50:27 PM	19018 portada y contra 2.pdf.dbp	OK	Admin	9	0	9	9	1	12x18"	Plain
+6/15/2015 3:50:27 PM	19018 portada y contra 2.pdf.dbp	OK	Admin	2	0	2	2	1	12x18"	Plain
+6/15/2015 3:49:09 PM	19018 bco promerica int.pdf.dbp	OK	Admin	20	1	19	1	20	12.00in x 19.00in	Plain
+6/15/2015 3:47:54 PM	19018 bco promerica int.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 3:45:48 PM	19018 bco promerica int.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 3:22:05 PM	19003 Anexo A 52 Gimnasia-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:21:06 PM	19003 ANEXO A 53 Villa Deportiva de San Marcos-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:20:07 PM	19003 Anexo A 54  Palacio de Los Deportes-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:19:09 PM	19003 ANEXO  A 09 Casa del Deportista Jalapa-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:18:07 PM	19003 ANEXO A 06 Casa del Deportista Coban Alta Verapaz-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:17:16 PM	19003 ANEXO A 08 Complejo Deportivo de Jalapa-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:10:02 PM	19003 ANEXO A 11 Complejo Deportivo Totonicapán-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:08:58 PM	19003 ANEXO A 12 Casa del Deportista Totonicapán-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:07:57 PM	19003 ANEXO A 18 Complejo Deportivo de Santo Tomás-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:06:58 PM	19003 ANEXO A 19 Complejo Deportivo Santa Elena Petén-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:05:56 PM	19003 ANEXO A 20 Casa del Deportista Coatepeque-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:04:51 PM	19003 ANEXO A 23 Casa del Deportista Salamá-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:03:55 PM	19003 ANEXO A 24 Gimnasio Polideportivo de Chiquimula-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 3:00:47 PM	19003 ANEXO A 25 Casa del deportista Puerto Barrios-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:59:50 PM	19003 ANEXO A 26 Complejo Deportivo de Livingston-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:58:54 PM	19003 ANEXO A 29 Villa Deportiva de Huehuetenango-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:57:58 PM	19003 Anexo A 30 Polideportivo No.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:57:01 PM	19003 Anexo A 31 Polideportivo No.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 2:57:01 PM	19003 Anexo A 31 Polideportivo No.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 2:57:01 PM	19003 Anexo A 31 Polideportivo No.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:55:03 PM	19003 Anexo A 32 Coliseo Deportivo -1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:53:57 PM	19003 ANEXO A 33 Complejo Deportivo Poptún Petén-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:52:40 PM	19003 ANEXO A 34 Gimnasio Deportivo de Sololá-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:51:35 PM	19003 Anexo A 35 Domo Polideportivo -1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:48:09 PM	19003 Anexo A 36 Teodoro Palacios Flores-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:47:10 PM	19003 Anexo A 37 Albergue Ramiro De León Carpio -1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:46:02 PM	19003 ANEXO A 39 Villa Deportiva Baja Verapaz-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:44:52 PM	19003 ANEXO A 40 Piscina Semi Olimpica Quezaltepeque-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:43:51 PM	19003 Anexo A 41 Velódromo Nacional-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:42:44 PM	19003 Anexo A 42 Piscina Zona 5-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:40:55 PM	19003 Anexo A 43  Piscina Zona 15-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:39:52 PM	19034 st-r 005 t.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/15/2015 2:37:22 PM	19034 st-r 005 t.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 2:31:00 PM	19031 MENU ARCADIA .pdf.dbp	OK	Admin	8	0	8	1	8	13x19"	Plain
+6/15/2015 2:27:17 PM	19031 INSERTO ESCALADO-1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/15/2015 2:19:19 PM	19032 Arte Amatitlán.pdf.dbp	OK	Admin	9	0	9	9	1	13x19"	Plain
+6/15/2015 2:19:19 PM	19032 Arte Amatitlán.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 2:18:21 PM	19032 mARTE BÁRCENAS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 2:18:21 PM	19032 mARTE BÁRCENAS.pdf.dbp	OK	Admin	9	0	9	9	1	13x19"	Plain
+6/15/2015 2:11:12 PM	19003 Anexo A 44 Tenis de Campo-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 2:09:54 PM	19003 Anexo A 45 Gimnasio Alfonso Gordillo-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 1:58:21 PM	18995 infomovil foil  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 1:58:21 PM	18995 infomovil foil  .pdf.dbp	OK	Admin	10	0	10	10	1	12.00in x 19.00in	Plain
+6/15/2015 1:58:21 PM	18995 infomovil foil  .pdf.dbp	Canceled	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 1:58:21 PM	18995 infomovil foil  .pdf.dbp	OK	Admin	10	0	10	10	1	12.00in x 19.00in	Plain
+6/15/2015 1:52:50 PM	19025 sieca.pdf.dbp	OK	Admin	6	0	6	6	1	11.50in x 17.50in	Plain
+6/15/2015 1:01:33 PM	19003 ANEXO A 51 Gimnasio de Chiquimula-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 1:00:13 PM	19003 Anexo A 50 Estadio Nacional Mateo Flores -1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 12:59:02 PM	19003 ANEXO A 49 Piscina Olímpica de Chiquimula-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 12:52:01 PM	19003 ANEXO A 48 Casa del Deportista de Chiquimula-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 12:49:28 PM	19003 ANEXO A 19 Complejo Deportivo Santa Elena Petén-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 12:47:05 PM	19003 ANEXO A 47 Gimnasio Polideportivo de Alta Verapaz-1.pdf.dbp	OK	Admin	2	0	2	2	1	12.00in x 19.00in	Plain
+6/15/2015 12:32:18 PM	19013 Brander soluciones.pdf.dbp	OK	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+6/15/2015 12:32:18 PM	19013 Brander soluciones.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 12:26:06 PM	19012 brander soluciones.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/15/2015 12:26:06 PM	19012 brander soluciones.pdf.dbp	OK	Admin	28	0	28	14	2	12x18"	Plain
+6/15/2015 12:15:06 PM	18995 infomovil .pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/15/2015 12:10:05 PM	18995 infomovil .pdf.dbp	OK	Admin	40	0	40	4	10	12.00in x 19.00in	Plain
+6/15/2015 11:27:01 AM	19002 Anexo A 54  Palacio de Los Deportes.pdf.dbp	OK	Admin	22	0	22	2	11	11x17"	Plain
+6/15/2015 11:16:50 AM	19002 ANEXO A 26 Complejo Deportivo de Livingston.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 11:09:30 AM	19002 ANEXO  A 09 Casa del Deportista  Jalapa.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 11:07:18 AM	19002 ANEXO A 06 Casa del Deportista Coban Alta Verapaz.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 11:05:38 AM	19002 ANEXO A 08 Complejo Deportivo de Jalapa.pdf.dbp	OK	Admin	154	0	154	2	77	11x17"	Plain
+6/15/2015 11:02:44 AM	19002 ANEXO A 11 Complejo Deportivo Totonicapán.pdf.dbp	OK	Admin	14	0	14	2	7	11x17"	Plain
+6/15/2015 11:00:51 AM	19002 ANEXO A 12 Casa del Deportista Totonicapán.pdf.dbp	OK	Admin	18	0	18	2	9	11x17"	Plain
+6/15/2015 10:59:06 AM	19002 ANEXO A 18 Complejo Deportivo de Santo Tomás.pdf.dbp	OK	Admin	64	0	64	2	32	11x17"	Plain
+6/15/2015 10:57:41 AM	19002 ANEXO A 19 Complejo Deportivo Santa Elena Petén.pdf.dbp	OK	Admin	24	0	24	2	12	11x17"	Plain
+6/15/2015 10:55:40 AM	19002 ANEXO A 20 Casa del Deportista Coatepeque.pdf.dbp	OK	Admin	14	0	14	2	7	11x17"	Plain
+6/15/2015 10:53:07 AM	19002 ANEXO A 23 Casa del Deportista Salamá.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 10:52:11 AM	19002 ANEXO A 24 Gimnasio Polideportivo de Chiquimula.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 10:49:28 AM	19002 ANEXO A 25 Casa del deportista Puerto Barrios.pdf.dbp	OK	Admin	16	0	16	2	8	11x17"	Plain
+6/15/2015 10:47:42 AM	19002 ANEXO A 29 Villa Deportiva de Huehuetenango.pdf.dbp	OK	Admin	74	0	74	2	37	11x17"	Plain
+6/15/2015 10:44:59 AM	18831 en blanco.pdf.dbp	Canceled	Admin	8	0	8	8	1	13x19"	Plain
+6/15/2015 10:44:59 AM	18831 en blanco.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 10:44:59 AM	18831 en blanco.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 10:44:59 AM	18831 en blanco.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 10:41:50 AM	18856 GUARDAS.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/15/2015 10:38:10 AM	19002 Anexo A 30 Polideportivo No. 2.pdf.dbp	OK	Admin	24	0	24	2	12	11x17"	Plain
+6/15/2015 10:33:27 AM	18968  victor hugo  .pdf.dbp	Canceled	Admin	1	0	1	0	2	12.00in x 19.00in	Plain
+6/15/2015 10:33:27 AM	18968  victor hugo  .pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/15/2015 10:30:42 AM	19002 Anexo A 31 Polideportivo No. 1.pdf.dbp	OK	Admin	32	0	32	2	16	11x17"	Plain
+6/15/2015 10:28:49 AM	19002 Anexo A 32 Coliseo Deportivo .pdf.dbp	OK	Admin	34	0	34	2	17	11x17"	Plain
+6/15/2015 10:27:16 AM	19002 ANEXO A 33 Complejo Deportivo Poptún Petén.pdf.dbp	OK	Admin	30	0	30	2	15	11x17"	Plain
+6/15/2015 10:24:20 AM	19002 ANEXO A 34 Gimnasio Deportivo de Sololá.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 10:22:02 AM	19002 Anexo A 35 Domo Polideportivo .pdf.dbp	OK	Admin	32	0	32	2	16	11x17"	Plain
+6/15/2015 10:18:35 AM	19002 Anexo A 36 Teodoro Palacios Flores.pdf.dbp	OK	Admin	52	0	52	2	26	11x17"	Plain
+6/15/2015 10:17:37 AM	19002 Anexo A 37 Albergue Ramiro De León Carpio .pdf.dbp	OK	Admin	86	0	86	2	43	11x17"	Plain
+6/15/2015 10:09:47 AM	19002 ANEXO A 39 Villa Deportiva Baja Verapaz.pdf.dbp	OK	Admin	16	0	16	2	8	11x17"	Plain
+6/15/2015 10:08:40 AM	19002 ANEXO A 40 Piscina Semi Olimpica Quezaltepeque.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 10:05:05 AM	19002 Anexo A 41 Velódromo Nacional.pdf.dbp	OK	Admin	22	0	22	2	11	11x17"	Plain
+6/15/2015 10:03:20 AM	19002 ANEXO A 47 Gimnasio Polideportivo de Alta Verapaz.pdf.dbp	OK	Admin	1	0	1	1	6	11x17"	Plain
+6/15/2015 10:03:20 AM	19002 ANEXO A 47 Gimnasio Polideportivo de Alta Verapaz.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 10:00:44 AM	19002 Anexo A 45 Gimnasio Alfonso Gordillo.pdf.dbp	OK	Admin	22	0	22	2	11	11x17"	Plain
+6/15/2015 9:58:08 AM	19002 Anexo A 45 Gimnasio Alfonso Gordillo.pdf.dbp	Canceled	Admin	0	0	0	0	11		
+6/15/2015 9:56:24 AM	19002 Anexo A 44 Tenis de Campo.pdf.dbp	OK	Admin	32	0	32	2	16	11x17"	Plain
+6/15/2015 9:53:12 AM	19002 Anexo A 43  Piscina Zona 15.pdf.dbp	OK	Admin	32	0	32	2	16	11x17"	Plain
+6/15/2015 9:47:09 AM	19002 Anexo A 42 Piscina Zona 5.pdf.dbp	OK	Admin	12	0	12	2	6	11x17"	Plain
+6/15/2015 9:19:06 AM	18968  victor hugo  .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/15/2015 9:10:35 AM	18748 Digestivos 12.pdf.dbp	OK	Admin	48	0	48	24	2	13x19"	Plain
+6/15/2015 9:10:35 AM	18748 Digestivos 12.pdf.dbp	Canceled	Admin	2	0	2	1	2	13x19"	Plain
+6/15/2015 9:10:35 AM	18748 Digestivos 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/15/2015 9:08:59 AM	18748 Digestivos 12.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/15/2015 9:00:03 AM	19019 distribuidora de licores.pdf.dbp	OK	Admin	61	0	61	61	1	13x19"	Plain
+6/15/2015 9:00:03 AM	19019 distribuidora de licores.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/15/2015 8:57:25 AM	18856 interiores.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/15/2015 8:53:08 AM	18856 interiores.pdf.dbp	Canceled	Admin	0	0	0	0	40		
+6/15/2015 8:50:45 AM	18856 porta y contra.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/15/2015 8:44:52 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/15/2015 8:44:36 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/15/2015 8:42:49 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 8:41:54 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/15/2015 8:41:40 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/15/2015 8:39:59 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/15/2015 8:38:24 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 8:36:33 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/15/2015 8:35:53 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/15/2015 8:33:36 AM	Calibration Full Width Array	Canceled	Operator	1	0	1	0	18	12.00in x 19.00in	Plain
+6/15/2015 8:31:55 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/15/2015 8:29:12 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/15/2015 8:26:52 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/15/2015 8:20:01 AM	FIT101043206	OK	Administrator	0	0	0	0	0		
+6/15/2015 8:07:10 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/15/2015 8:07:00 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/13/2015 11:24:03 AM	19002 Anexo A 42 Piscina Zona 5.pdf.dbp	OK	Admin	12	0	12	2	6	13.00in x 17.00in	Plain
+6/13/2015 11:24:03 AM	19002 Anexo A 42 Piscina Zona 5.pdf.dbp	OK	Admin	12	0	12	2	6	13.00in x 17.00in	Plain
+6/13/2015 11:20:08 AM	19002 Anexo A 43  Piscina Zona 15.pdf.dbp	OK	Admin	32	0	32	2	16	13.00in x 17.00in	Plain
+6/13/2015 11:17:56 AM	19002 Anexo A 44 Tenis de Campo.pdf.dbp	OK	Admin	32	0	32	2	16	13.00in x 17.00in	Plain
+6/13/2015 11:15:58 AM	19002 Anexo A 45 Gimnasio Alfonso Gordillo.pdf.dbp	OK	Admin	22	0	22	2	11	13.00in x 17.00in	Plain
+6/13/2015 11:11:32 AM	19002 ANEXO A 47 Gimnasio Polideportivo de Alta Verapaz.pdf.dbp	OK	Admin	12	0	12	2	6	13.00in x 17.00in	Plain
+6/13/2015 11:04:19 AM	19006 Otros Gafetes path.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/13/2015 10:37:46 AM	19005 ids tarj.pdf.dbp	OK	Admin	16	0	16	8	2	11.50in x 17.50in	Embossed paper
+6/13/2015 10:37:46 AM	19005 ids tarj.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/13/2015 10:36:10 AM	19005 ids tarj.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/13/2015 10:30:26 AM	19005 ids tarj.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/13/2015 10:27:32 AM	18947 tarjetas.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/13/2015 10:23:28 AM	19023 invitacion .pdf.dbp	OK	Admin	26	0	26	13	2	13x19"	Plain
+6/13/2015 10:23:28 AM	19023 invitacion .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/13/2015 10:16:19 AM	19009 Leonor Moran.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/13/2015 10:16:19 AM	19009 Leonor Moran.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/13/2015 10:07:42 AM	19009 Leonor Moran.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/13/2015 9:21:49 AM	18982 Trade stiker corazon.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/13/2015 9:21:49 AM	18982 Trade stiker corazon.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/13/2015 8:12:02 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/13/2015 8:12:00 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/12/2015 4:04:09 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/12/2015 4:04:08 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/12/2015 3:49:48 PM	19015 4G Arte Publi.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 3:49:48 PM	19015 4G Arte Publi.pdf.dbp	OK	Admin	78	0	78	78	1	13x19"	Plain
+6/12/2015 3:47:40 PM	19016 4G Arte Publi.pdf.dbp	OK	Admin	9	0	9	9	1	12.00in x 19.00in	Plain
+6/12/2015 3:47:40 PM	19016 4G Arte Publi.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 3:45:45 PM	19016 4G Arte Publi.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 3:34:29 PM	prysi2.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/12/2015 3:34:18 PM	prysi1.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/12/2015 3:31:02 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/12/2015 3:31:02 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	12	0	12	6	2	12.00in x 19.00in	Plain
+6/12/2015 3:31:02 PM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 3:18:17 PM	19007 CORP LITO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/12/2015 3:18:17 PM	19007 CORP LITO.pdf.dbp	OK	Admin	22	0	22	11	2	13x19"	Plain
+6/12/2015 3:11:59 PM	18982 Trade caja.pdf.dbp	OK	Admin	106	0	106	106	1	12.50in x 19.00in	Plain
+6/12/2015 2:20:11 PM	19004  gabriela leal programa .pdf.dbp	OK	Admin	8	0	8	8	1	12x18"	Plain
+6/12/2015 2:18:24 PM	19004  gabriela leal invitaciones .pdf.dbp	OK	Admin	8	0	8	8	1	12x18"	Plain
+6/12/2015 2:10:59 PM	18998 tarjetas BI .pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/12/2015 2:02:28 PM	18998 tarjetas BI .pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/12/2015 2:02:28 PM	18998 tarjetas BI .pdf.dbp	OK	Admin	48	0	48	4	12	12.00in x 19.00in	Plain
+6/12/2015 2:02:28 PM	18998 tarjetas BI .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 2:02:28 PM	18998 tarjetas BI .pdf.dbp	OK	Admin	2	0	2	1	12	12.00in x 19.00in	Plain
+6/12/2015 1:54:02 PM	18765 alkemy tarj faltantes .pdf.dbp	OK	Admin	14	0	14	7	2	11.00in x 19.00in	Plain
+6/12/2015 1:54:02 PM	18765 alkemy tarj faltantes .pdf.dbp	OK	Admin	20	0	20	5	4	11.00in x 19.00in	Plain
+6/12/2015 1:50:27 PM	18765 alkemy tarj faltantes .pdf.dbp	OK	Admin	2	0	2	1	2	11.00in x 19.00in	Plain
+6/12/2015 12:23:07 PM	guatedining.pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/12/2015 12:19:13 PM	PORTADA GUATEDANING_OPA.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 12:19:13 PM	PORTADA GUATEDANING_OPA.pdf.dbp	OK	Admin	9	0	9	9	1	13x19"	Plain
+6/12/2015 11:48:27 AM	18968  victor hugo FOIL 3 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 11:39:37 AM	18996 impresines marmel .pdf.dbp	OK	Admin	60	0	60	30	2	13x19"	Plain
+6/12/2015 11:39:37 AM	18996 impresines marmel .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/12/2015 11:29:55 AM	18829 Distribuidora de Licores.pdf.dbp	OK	Admin	122	0	122	1	122	12.00in x 19.00in	Plain
+6/12/2015 11:25:25 AM	18829 Distribuidora de Licores.pdf.dbp	Canceled	Admin	4	0	4	0	3000	12.00in x 19.00in	Plain
+6/12/2015 11:25:25 AM	18829 Distribuidora de Licores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 11:19:01 AM	18997 PORTADA ATOS.pdf.dbp	OK	Admin	58	29	29	29	2	13x19"	Plain
+6/12/2015 11:14:48 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/12/2015 11:14:48 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/12/2015 11:14:48 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	50	25	25	25	2	13x19"	Plain
+6/12/2015 11:10:06 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/12/2015 11:08:49 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	2	1	1	1	2	13x19"	Plain
+6/12/2015 11:06:45 AM	18997 PORTADA ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 11:03:27 AM	18927 coel.pdf.dbp	OK	Admin	10	0	10	10	1	12.00in x 19.00in	Plain
+6/12/2015 10:54:48 AM	18988 ficohsa tarj montaje .pdf.dbp	OK	Admin	24	0	24	12	2	13x19"	Plain
+6/12/2015 10:54:48 AM	18988 ficohsa tarj montaje .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/12/2015 10:41:58 AM	18869 SACBE TARJ montaje  .pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/12/2015 10:41:58 AM	18869 SACBE TARJ montaje  .pdf.dbp	OK	Admin	56	0	56	7	8	13x19"	Plain
+6/12/2015 10:41:58 AM	18869 SACBE TARJ montaje  .pdf.dbp	OK	Admin	30	0	30	3	10	13x19"	Plain
+6/12/2015 10:41:58 AM	18869 SACBE TARJ montaje  .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/12/2015 10:38:55 AM	18869 SACBE TARJ montaje  .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/12/2015 10:30:51 AM	18978 perinola tarj .pdf.dbp	OK	Admin	28	0	28	14	2	12.00in x 19.00in	Plain
+6/12/2015 10:30:51 AM	18978 perinola tarj .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 10:18:58 AM	18978 perinola tarj .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 10:18:58 AM	18978 perinola tarj .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 10:09:41 AM	18997 PORTADA ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 10:09:23 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 10:07:14 AM	18997 respaldo ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 9:50:11 AM	18997 PORTADA ATOS.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/12/2015 9:37:26 AM	18988 ficohsa tarj abrillantador2  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 9:10:28 AM	18968  victor hugo FOIL 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 9:03:12 AM	18947 publigrafik 2.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/12/2015 8:53:25 AM	18829 Distribuidora de Licores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 8:42:47 AM	18968  victor hugo FOIL .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/12/2015 8:31:02 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/12/2015 8:27:28 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/12/2015 8:22:23 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/12/2015 8:19:36 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/12/2015 8:16:32 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 8:12:49 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 8:08:51 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/12/2015 8:04:04 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/12/2015 8:04:03 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/11/2015 6:54:26 PM	18988 ficohsa tarj abrillantador .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/11/2015 6:54:26 PM	18988 ficohsa tarj abrillantador .pdf.dbp	OK	Admin	14	0	14	14	1	12.00in x 19.00in	Plain
+6/11/2015 6:54:26 PM	18988 ficohsa tarj abrillantador .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/11/2015 4:09:10 PM	18988 ficohsa tarj.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 4:09:10 PM	18988 ficohsa tarj.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/11/2015 4:01:09 PM	18992 gafete ricardo murga.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/11/2015 4:01:09 PM	18992 gafete ricardo murga.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/11/2015 3:52:40 PM	18990 Servicios.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 3:52:40 PM	18990 Servicios.pdf.dbp	OK	Admin	52	0	52	26	2	13x19"	Plain
+6/11/2015 3:35:24 PM	18986 andrea monterroso menu .pdf.dbp	OK	Admin	34	0	34	34	1	12x18"	Plain
+6/11/2015 3:35:24 PM	18986 andrea monterroso menu .pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/11/2015 3:32:34 PM	18986 andrea monterroso menu .pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/11/2015 3:27:20 PM	18987 Brochure Latam Port 2.pdf.dbp	OK	Admin	30	0	30	15	2	12.00in x 19.00in	Plain
+6/11/2015 3:27:20 PM	18987 Brochure Latam Port 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 3:18:24 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	16	0	16	1	16	12.00in x 19.00in	Plain
+6/11/2015 3:18:24 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	80	0	80	5	16	12.00in x 19.00in	Plain
+6/11/2015 3:16:13 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	16	0	16	1	16	12.00in x 19.00in	Plain
+6/11/2015 3:13:53 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	12	0	12	1	12	12.00in x 19.00in	Plain
+6/11/2015 3:12:55 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 3:10:28 PM	18987 Brochure Latam Int 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 3:00:37 PM	18976 Viajes.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/11/2015 3:00:37 PM	18976 Viajes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 2:44:53 PM	18856 guardas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 17.00in	Plain
+6/11/2015 2:44:53 PM	18856 guardas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 17.00in	Plain
+6/11/2015 2:40:53 PM	18856 porta y contra.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 2:40:53 PM	18856 porta y contra.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 2:29:04 PM	18856 interiores.pdf.dbp	OK	Admin	40	0	40	1	40	13x19"	Plain
+6/11/2015 2:26:26 PM	18856 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 2:21:26 PM	18856 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 2:00:20 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/11/2015 2:00:19 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/11/2015 1:02:52 PM	18979 marco.pdf.dbp	OK	Admin	40	0	40	40	1	13x19"	Plain
+6/11/2015 1:02:52 PM	18979 marco.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/11/2015 12:51:53 PM	18975 Maxim.pdf.dbp	OK	Admin	28	0	28	14	2	12.00in x 19.00in	Plain
+6/11/2015 12:51:53 PM	18975 Maxim.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 12:43:02 PM	18978 perinola tarj .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 12:43:02 PM	18978 perinola tarj .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/11/2015 12:43:02 PM	18978 perinola tarj .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 12:09:01 PM	18829 Distribuidora de Licores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 12:07:43 PM	18829 Distribuidora de Licores foil.pdf.dbp	OK	Admin	67	0	67	67	1	12.00in x 19.00in	Plain
+6/11/2015 12:07:43 PM	18829 Distribuidora de Licores foil.pdf.dbp	OK	Admin	15	0	15	15	1	12.00in x 19.00in	Plain
+6/11/2015 11:41:08 AM	18919 invitacion ploter.pdf.dbp	OK	Admin	19	0	19	19	1	13x19"	Plain
+6/11/2015 11:41:08 AM	18919 invitacion ploter.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/11/2015 11:21:06 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	28	0	28	14	2	12.00in x 19.00in	Plain
+6/11/2015 11:21:06 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/11/2015 11:21:06 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 11:21:06 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 11:21:06 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 11:15:33 AM	18976 Viajes.pdf.dbp	OK	Admin	1000	0	1000	500	2	13x19"	Plain
+6/11/2015 11:15:33 AM	18976 Viajes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 11:14:09 AM	18976 Viajes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 11:11:29 AM	18976 Viajes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 10:56:39 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:50:32 AM	18981 grupo diamanrte .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:38:27 AM	18983 fs comuni.pdf.dbp	OK	Admin	86	0	86	43	2	12.00in x 19.00in	Plain
+6/11/2015 10:38:27 AM	18983 fs comuni.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:32:33 AM	prueba Media Carta Cinemark 09.06.2015-1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:26:22 AM	18969 farma erwin sosa.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/11/2015 10:23:58 AM	18969 Eduardo aguirre.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:23:58 AM	18969 Eduardo aguirre.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/11/2015 10:16:51 AM	18984 GULA-TARJETAS-excesos NEW GULA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:16:51 AM	18984 GULA-TARJETAS-excesos NEW GULA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 10:16:51 AM	18984 GULA-TARJETAS-excesos NEW GULA.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/11/2015 10:09:37 AM	18980 Rotulacion 11x7.PDF.dbp	OK	Admin	40	0	40	1	40	12.00in x 19.00in	Plain
+6/11/2015 10:09:37 AM	18980 Rotulacion 11x7.PDF.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 9:54:35 AM	18980 2B_Marcas 17.5x22.5cm UNO DE CADA UNO.pdf.dbp	OK	Admin	3	0	3	1	3	12.00in x 19.00in	Plain
+6/11/2015 9:44:58 AM	18985 tarjetaminion.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/11/2015 9:44:58 AM	18985 tarjetaminion.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/11/2015 9:34:01 AM	18984 GULA TARJETAS excesos.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 8:52:29 AM	18964 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 8:52:29 AM	18964 portada.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/11/2015 8:52:29 AM	18964 portada.pdf.dbp	OK	Admin	10	0	10	5	2	13x19"	Plain
+6/11/2015 8:52:29 AM	18964 portada.pdf.dbp	OK	Admin	8	0	8	4	2	13x19"	Plain
+6/11/2015 8:49:06 AM	18964 portada.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/11/2015 8:45:36 AM	18964 Interiores.pdf.dbp	OK	Admin	12	0	12	1	12	12.00in x 19.00in	Plain
+6/11/2015 8:43:50 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 8:42:24 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 8:40:01 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/11/2015 7:41:42 AM	17641 libro.pdf.dbp	OK	Admin	2	2	0	2	1	11.50in x 17.50in	Plain
+6/11/2015 7:41:42 AM	17641 libro.pdf.dbp	OK	Admin	1	1	0	1	1	11.50in x 17.50in	Plain
+6/11/2015 7:41:30 AM	17890 Colegio Imanol portada.pdf.dbp	OK	Admin	2	2	0	2	1	11.50in x 17.50in	Plain
+6/11/2015 6:00:09 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/11/2015 6:00:06 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/10/2015 5:11:59 PM	DH73 Horario dh .pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/10/2015 5:10:25 PM	18953 Banco Ficohsa sin exesos.pdf.dbp	OK	Admin	2	0	2	2	1	13.00in x 17.00in	Plain
+6/10/2015 5:10:25 PM	18953 Banco Ficohsa sin exesos.pdf.dbp	OK	Admin	2	0	2	2	1	13.00in x 17.00in	Plain
+6/10/2015 5:10:25 PM	18953 Banco Ficohsa sin exesos.pdf.dbp	Canceled	Admin	0	0	0	0	97		
+6/10/2015 5:07:28 PM	18953 Banco Ficohsa sin exesos.pdf.dbp	OK	Admin	47	0	47	1	47	13.00in x 17.00in	Plain
+6/10/2015 5:05:29 PM	18953 Banco Ficohsa sin exesos.pdf.dbp	OK	Admin	1	0	1	1	1	13.00in x 17.00in	Plain
+6/10/2015 4:58:36 PM	18765 Alkemy SV .pdf.dbp	OK	Admin	10	0	10	5	2	11.50in x 17.50in	Plain
+6/10/2015 4:58:36 PM	18765 Alkemy SV .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 4:36:09 PM	18971 perinola.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 4:36:09 PM	18971 perinola.pdf.dbp	OK	Admin	12	0	12	6	2	13x19"	Plain
+6/10/2015 4:35:37 PM	18972 emergencia tarj.pdf.dbp	OK	Admin	63	0	63	63	1	13x19"	Plain
+6/10/2015 4:35:37 PM	18972 emergencia tarj.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/10/2015 4:29:40 PM	18971 perinola.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 4:07:01 PM	18953 Banco Ficohsa.pdf.dbp	OK	Admin	1	0	1	1	1	13.00in x 17.00in	Plain
+6/10/2015 3:52:49 PM	18973 Ana Isabel López.pdf.dbp	Canceled	Admin	150	0	150	75	2	12.00in x 19.00in	Plain
+6/10/2015 3:52:49 PM	18973 Ana Isabel López.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:51:20 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/10/2015 3:51:19 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/10/2015 3:48:08 PM	18973 Ana Isabel López.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:45:27 PM	18974 Lima Studio.pdf.dbp	OK	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+6/10/2015 3:35:53 PM	18974 Lima Studio.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:20:16 PM	18922 ids tar AUT 2 .pdf.dbp	OK	Admin	52	0	52	26	2	11.50in x 17.50in	Embossed paper
+6/10/2015 3:20:16 PM	18922 ids tar AUT 2 .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/10/2015 3:11:33 PM	18962 selectpharma NIC2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:11:33 PM	18962 selectpharma NIC2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:11:33 PM	18962 selectpharma NIC2.pdf.dbp	OK	Admin	16	0	16	8	2	12.00in x 19.00in	Plain
+6/10/2015 3:10:01 PM	18962 selectpharma NIC1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:10:01 PM	18962 selectpharma NIC1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 3:10:01 PM	18962 selectpharma NIC1.pdf.dbp	OK	Admin	32	0	32	16	2	12.00in x 19.00in	Plain
+6/10/2015 3:07:45 PM	18972 emergencia tarj.pdf	Canceled	Admin	0	0	0	0	1		
+6/10/2015 2:43:56 PM	18962 CR 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 2:43:56 PM	18962 CR 2.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/10/2015 2:42:00 PM	18962 CR 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 2:42:00 PM	18962 CR 1.pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/10/2015 2:27:06 PM	18765 Alkemy SV .pdf.dbp	OK	Admin	220	0	220	10	22	11.50in x 17.50in	Plain
+6/10/2015 2:20:38 PM	18765 Alkemy NIC .pdf.dbp	OK	Admin	150	0	150	5	30	11.50in x 17.50in	Plain
+6/10/2015 1:03:23 PM	18765 Alkemy HON .pdf.dbp	OK	Admin	80	0	80	10	8	11.50in x 17.50in	Plain
+6/10/2015 1:01:08 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	220	0	220	10	22	11.50in x 17.50in	Plain
+6/10/2015 12:55:56 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	50	0	50	5	10	11.50in x 17.50in	Plain
+6/10/2015 12:49:27 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	20	0	20	10	2	11.50in x 17.50in	Plain
+6/10/2015 12:49:27 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	20	0	20	10	2	11.50in x 17.50in	Plain
+6/10/2015 12:49:27 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 12:47:21 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 12:26:37 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	14	0	14	7	2	11.50in x 17.50in	Plain
+6/10/2015 12:26:37 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 12:21:04 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 12:16:03 PM	18765 Alkemy GT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/10/2015 11:33:23 AM	18829 Distribuidora de Licores foil.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 11:15:46 AM	18965 novartis farmaceutica .pdf.dbp	OK	Admin	360	0	360	36	10	13x19"	Plain
+6/10/2015 11:09:50 AM	18965 novartis farmaceutica .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/10/2015 11:04:06 AM	18952 Tarj keraben.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/10/2015 11:04:06 AM	18952 Tarj keraben.pdf.dbp	OK	Admin	44	0	44	22	2	12.00in x 19.00in	Plain
+6/10/2015 11:02:22 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 11:02:22 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 11:01:16 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 10:59:06 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 10:53:53 AM	18964 Interiores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/10/2015 10:38:29 AM	18831 en blanco.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 10:38:29 AM	18831 en blanco.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/10/2015 10:38:29 AM	18831 en blanco.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 10:38:29 AM	18831 en blanco.pdf.dbp	OK	Admin	0	0	0	0	1		
+6/10/2015 10:31:54 AM	18961 AGEXPORT .pdf.dbp	OK	Admin	30	0	30	5	6	11.50in x 17.50in	Embossed paper
+6/10/2015 10:23:19 AM	18960 AGEXPORT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/10/2015 10:23:19 AM	18960 AGEXPORT .pdf.dbp	OK	Admin	10	0	10	5	2	11.50in x 17.50in	Embossed paper
+6/10/2015 10:12:34 AM	18961 AGEXPORT .pdf.dbp	OK	Admin	0	0	0	0	2		
+6/10/2015 10:10:44 AM	18960 AGEXPORT .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/10/2015 10:10:44 AM	18960 AGEXPORT .pdf.dbp	OK	Admin	0	0	0	0	2		
+6/10/2015 10:07:00 AM	18960 AGEXPORT .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/10/2015 9:57:18 AM	18835 Planificador GASTRO blanco  .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/10/2015 9:39:14 AM	18961 AGEXPORT .pdf	OK	Admin	0	0	0	0	6		
+6/10/2015 9:20:25 AM	18967 Tarjeta_Convenio_AF.pdf.dbp	OK	Admin	23	0	23	23	1	12.00in x 19.00in	Plain
+6/10/2015 9:20:25 AM	18967 Tarjeta_Convenio_AF.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/10/2015 9:20:25 AM	18967 Tarjeta_Convenio_AF.pdf.dbp	OK	Admin	0	0	0	0	1		
+6/10/2015 9:20:25 AM	18967 Tarjeta_Convenio_AF.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 8:52:30 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 8:47:45 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/10/2015 8:45:26 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 8:43:03 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/10/2015 8:41:37 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/10/2015 8:40:10 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/10/2015 8:37:18 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/10/2015 8:37:14 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	Unknown		
+6/10/2015 8:28:54 AM	FIT101043211	OK	Administrator	0	0	0	0	0		
+6/10/2015 7:57:30 AM	FIT101042130	OK	Administrator	0	0	0	0	0		
+6/10/2015 7:56:30 AM	FIT101042130	OK	Administrator	0	0	0	0	0		
+6/10/2015 7:50:20 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/10/2015 7:50:18 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/9/2015 5:02:27 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Embossed paper
+6/9/2015 5:02:27 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	18	0	18	9	2	12x18"	Embossed paper
+6/9/2015 4:22:47 PM	18957 ELISEO CARRANZA.pdf.dbp	OK	Admin	5	0	5	5	1	8.5x11" LEF	Transparency
+6/9/2015 4:22:47 PM	18957 ELISEO CARRANZA.pdf.dbp	OK	Admin	1	0	1	1	1	8.5x11" LEF	Transparency
+6/9/2015 4:19:49 PM	18957 ELISEO CARRANZA.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/9/2015 4:06:18 PM	18892 separadores.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/9/2015 4:06:18 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 4:06:18 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 4:06:18 PM	18892 separadores.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/9/2015 4:06:18 PM	18892 separadores.pdf.dbp	OK	Admin	6	0	6	1	6	13x19"	Plain
+6/9/2015 3:47:34 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	198	0	198	99	2	12.00in x 19.00in	Plain
+6/9/2015 3:47:34 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 3:46:26 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 3:44:34 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 3:40:39 PM	DH76 Prueba Asazgua.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 3:35:55 PM	18959 Edifici cambios.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 2:34:47 PM	CDAG Guia cortadora .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 2:05:46 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/9/2015 2:05:46 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/9/2015 1:32:26 PM	18892 separadores.pdf.dbp	OK	Admin	226	0	226	113	2	13x19"	Plain
+6/9/2015 1:32:26 PM	18892 separadores.pdf.dbp	OK	Admin	678	0	678	113	6	13x19"	Plain
+6/9/2015 1:29:43 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 1:28:06 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 1:21:40 PM	18852 Tarj Alianza.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 1:21:40 PM	18852 Tarj Alianza.pdf.dbp	OK	Admin	16	0	16	8	2	12x18"	Plain
+6/9/2015 1:21:40 PM	18852 Tarj Alianza.pdf.dbp	OK	Admin	10	0	10	5	2	12x18"	Plain
+6/9/2015 1:17:00 PM	18956 camara de comercio .pdf.dbp	OK	Admin	25	0	25	25	1	12.00in x 19.00in	Plain
+6/9/2015 1:13:35 PM	18947 tarjetas.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 1:13:35 PM	18947 tarjetas.pdf.dbp	OK	Admin	3	0	3	1	3	12.00in x 19.00in	Plain
+6/9/2015 1:01:17 PM	18947 tarjetas.pdf.dbp	OK	Admin	64	0	64	4	16	12.00in x 19.00in	Plain
+6/9/2015 12:59:45 PM	CARPETA BANTRAB sensefect.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/9/2015 12:59:45 PM	CARPETA BANTRAB sensefect.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/9/2015 12:47:31 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 12:47:31 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 12:44:07 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 12:41:09 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 12:33:55 PM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/9/2015 12:22:39 PM	18940 correccion.pdf.dbp	OK	Admin	12	0	12	1	12	12x18"	Plain
+6/9/2015 12:17:31 PM	18940 correccion.pdf.dbp	OK	Admin	98	0	98	49	2	12x18"	Plain
+6/9/2015 12:17:31 PM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 12:15:12 PM	18940 correccion.pdf.dbp	OK	Admin	48	0	48	24	2	12x18"	Plain
+6/9/2015 12:15:12 PM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 11:35:48 AM	18940 correccion.pdf.dbp	OK	Admin	48	0	48	24	2	12x18"	Plain
+6/9/2015 11:35:48 AM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 10:43:33 AM	18940 correccion.pdf.dbp	OK	Admin	48	0	48	24	2	12x18"	Plain
+6/9/2015 10:43:33 AM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 10:38:48 AM	18940 correccion.pdf.dbp	OK	Admin	98	0	98	49	2	12x18"	Plain
+6/9/2015 10:38:48 AM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 10:34:41 AM	18940 correccion.pdf.dbp	OK	Admin	98	0	98	49	2	12x18"	Plain
+6/9/2015 10:34:41 AM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 10:32:06 AM	18940 correccion.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/9/2015 10:24:26 AM	18945 Leonor Moran.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/9/2015 10:14:01 AM	18916 antena motivo 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 10:14:01 AM	18916 antena motivo 2.pdf.dbp	OK	Admin	74	0	74	37	2	12.00in x 19.00in	Plain
+6/9/2015 10:14:01 AM	18916 antena motivo 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 10:11:00 AM	18916 antena motivo 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 10:05:20 AM	18916  antena publicidad motivo 6nuevo .pdf.dbp	OK	Admin	72	0	72	36	2	12.00in x 19.00in	Plain
+6/9/2015 10:05:20 AM	18916  antena publicidad motivo 6nuevo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 10:05:20 AM	18916  antena publicidad motivo 6nuevo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:55:01 AM	18916  antena motivo 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:55:01 AM	18916  antena motivo 4 .pdf.dbp	OK	Admin	74	0	74	37	2	12.00in x 19.00in	Plain
+6/9/2015 9:55:01 AM	18916  antena motivo 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:45:56 AM	18916 antena publicidad.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:45:56 AM	18916 antena publicidad.pdf.dbp	OK	Admin	74	0	74	37	2	12.00in x 19.00in	Plain
+6/9/2015 9:45:56 AM	18916 antena publicidad.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:45:08 AM	18916  antena publicidad motivo 6nuevo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:44:00 AM	18916  antena motivo 5 .pdf.dbp	OK	Admin	74	0	74	37	2	12.00in x 19.00in	Plain
+6/9/2015 9:44:00 AM	18916  antena motivo 5 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:44:00 AM	18916  antena motivo 5 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:43:16 AM	18916  antena motivo 4 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:42:18 AM	18916  antena motivo 2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:33:04 AM	18916  antena motivo 1 .pdf.dbp	OK	Admin	74	0	74	37	2	12.00in x 19.00in	Plain
+6/9/2015 9:33:04 AM	18916  antena motivo 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 9:33:04 AM	18916  antena motivo 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/9/2015 8:56:07 AM	prueva juanma Book_Nu_PerfectoAmanecer_8JUNIO_Spread.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 8:28:23 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 8:26:34 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/9/2015 8:22:31 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 8:20:16 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/9/2015 8:19:23 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/9/2015 8:17:44 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/9/2015 8:10:31 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/9/2015 6:05:42 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/9/2015 6:05:40 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/8/2015 5:33:21 PM	18907 1-2 Years.pdf.dbp	OK	Admin	56	56	0	7	8	12x18"	Plain
+6/8/2015 5:33:21 PM	18907 1-2 Years.pdf.dbp	OK	Admin	56	7	49	7	8	12x18"	Plain
+6/8/2015 5:29:42 PM	18907  3-6 Months.pdf.dbp	OK	Admin	20	20	0	2	10	12x18"	Plain
+6/8/2015 5:29:42 PM	18907  3-6 Months.pdf.dbp	OK	Admin	10	1	9	1	10	12x18"	Plain
+6/8/2015 5:29:42 PM	18907  3-6 Months.pdf.dbp	OK	Admin	10	1	9	1	10	12x18"	Plain
+6/8/2015 5:24:46 PM	18907 5-6 Years.pdf.dbp	OK	Admin	24	24	0	3	8	12x18"	Plain
+6/8/2015 5:24:46 PM	18907 5-6 Years.pdf.dbp	OK	Admin	24	24	0	3	8	12x18"	Plain
+6/8/2015 5:20:17 PM	18907 5-6 Years.pdf.dbp	OK	Admin	8	0	8	1	8	12x18"	Plain
+6/8/2015 5:20:17 PM	18907 5-6 Years.pdf.dbp	OK	Admin	16	0	16	2	8	12x18"	Plain
+6/8/2015 5:14:44 PM	18907 4-5 Years.pdf.dbp	OK	Admin	72	6	66	6	12	12x18"	Plain
+6/8/2015 5:14:44 PM	18907 4-5 Years.pdf.dbp	OK	Admin	72	72	0	6	12	12x18"	Plain
+6/8/2015 5:11:19 PM	18907 4-5 Years.pdf.dbp	OK	Admin	12	1	11	1	12	12x18"	Plain
+6/8/2015 5:03:51 PM	18907 3-4 Years.pdf.dbp	OK	Admin	10	1	9	1	10	12x18"	Plain
+6/8/2015 5:03:51 PM	18907 3-4 Years.pdf.dbp	OK	Admin	10	10	0	1	10	12x18"	Plain
+6/8/2015 5:01:01 PM	18907 2-3 Years.pdf.dbp	OK	Admin	10	1	9	1	10	12x18"	Plain
+6/8/2015 5:01:01 PM	18907 2-3 Years.pdf.dbp	OK	Admin	60	6	54	6	10	12x18"	Plain
+6/8/2015 5:01:01 PM	18907 2-3 Years.pdf.dbp	OK	Admin	70	70	0	7	10	12x18"	Plain
+6/8/2015 4:54:37 PM	18907 1-2 Years.pdf.dbp	OK	Admin	48	12	36	6	8	12x18"	Plain
+6/8/2015 4:54:37 PM	18907 1-2 Years.pdf.dbp	OK	Admin	8	2	6	1	8	12x18"	Plain
+6/8/2015 4:43:55 PM	18943 Lima Studio 12.pdf.dbp	Canceled	Admin	20	0	20	10	2	11.50in x 17.50in	Embossed paper
+6/8/2015 4:40:58 PM	18943 Lima Studio 12.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/8/2015 4:36:00 PM	18943 Lima Studio 12.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/8/2015 4:30:01 PM	18943 Lima Studio 12.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/8/2015 4:22:30 PM	18943 Lima Studio 22.pdf.dbp	OK	Admin	10	0	10	5	6	12.00in x 19.00in	Plain
+6/8/2015 4:22:30 PM	18943 Lima Studio 22.pdf.dbp	Canceled	Admin	26	0	26	4	6	12.00in x 19.00in	Plain
+6/8/2015 4:22:30 PM	18943 Lima Studio 22.pdf.dbp	OK	Admin	6	0	6	1	6	12.00in x 19.00in	Plain
+6/8/2015 4:19:26 PM	18950 fastco Guatemala 33.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/8/2015 4:18:05 PM	18950 fastco Guatemala 23.pdf.dbp	OK	Admin	5	0	5	5	1	12.00in x 19.00in	Plain
+6/8/2015 4:15:01 PM	18950 fastco Guatemala 1-3.pdf.dbp	OK	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+6/8/2015 4:11:24 PM	18946 Tritech guatemala.pdf.dbp	OK	Admin	22	11	11	11	2	12.00in x 19.00in	Plain
+6/8/2015 4:11:24 PM	18946 Tritech guatemala.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+6/8/2015 4:06:03 PM	18948 fundación visión Mundial.pdf.dbp	OK	Admin	68	0	68	34	2	12.00in x 19.00in	Plain
+6/8/2015 4:06:03 PM	18948 fundación visión Mundial.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 4:00:26 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	26	0	26	13	2	12.00in x 19.00in	Plain
+6/8/2015 3:55:42 PM	18934 Tarj Mayora.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 3:50:40 PM	18855 6 jul data.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/8/2015 3:50:40 PM	18855 6 jul data.pdf.dbp	OK	Admin	30	0	30	1	30	12.00in x 19.00in	Plain
+6/8/2015 3:46:58 PM	18855 26 JUN data 2.pdf.dbp	OK	Admin	124	0	124	1	124	12.00in x 19.00in	Plain
+6/8/2015 3:38:29 PM	18855 25 JUN plantilla -1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 3:38:29 PM	18855 25 JUN plantilla -1.pdf.dbp	OK	Admin	78	0	78	1	78	12.00in x 19.00in	Plain
+6/8/2015 3:38:29 PM	18855 25 JUN plantilla -1.pdf.dbp	OK	Admin	8	0	8	1	8	12.00in x 19.00in	Plain
+6/8/2015 3:31:53 PM	18942 D'print.pdf.dbp	OK	Admin	2	1	1	1	2	12.00in x 19.00in	Plain
+6/8/2015 3:01:25 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/8/2015 3:01:24 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/8/2015 2:37:41 PM	18855 25 JUN plantilla -1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 2:28:49 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	14	0	14	7	2	12.00in x 19.00in	Plain
+6/8/2015 2:27:28 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 2:26:23 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 2:23:57 PM	18930 Matallana AUT1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 2:19:02 PM	18907 9-12 Months.pdf.dbp	OK	Admin	2	2	0	1	2	12x18"	Plain
+6/8/2015 2:19:02 PM	18907 9-12 Months.pdf.dbp	OK	Admin	16	2	14	2	8	12x18"	Plain
+6/8/2015 2:19:02 PM	18907 9-12 Months.pdf.dbp	OK	Admin	24	24	0	3	8	12x18"	Plain
+6/8/2015 2:19:02 PM	18907 9-12 Months.pdf.dbp	OK	Admin	8	1	7	1	8	12x18"	Plain
+6/8/2015 2:15:41 PM	18907 9-12 Months.pdf.dbp	OK	Admin	8	1	7	1	8	12x18"	Plain
+6/8/2015 2:10:04 PM	18814 Jovenes.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/8/2015 2:10:04 PM	18814 Jovenes.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/8/2015 2:07:55 PM	18907 9-12 Months.pdf.dbp	OK	Admin	8	1	7	1	8	12x18"	Plain
+6/8/2015 2:04:58 PM	18814 Jovenes.pdf.dbp	OK	Admin	0	0	0	0	2		
+6/8/2015 1:43:47 PM	18855 25 JUN DATA .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 1:38:56 PM	18855 25 JUN DATA .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 1:35:08 PM	18910 banco de antigua.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 1:21:30 PM	18910 banco de antigua.pdf.dbp	Canceled	Admin	0	0	0	0	7		
+6/8/2015 1:21:30 PM	18910 banco de antigua.pdf.dbp	OK	Admin	28	0	28	4	7	12.00in x 19.00in	Plain
+6/8/2015 1:17:15 PM	DIPLOMAS HHLL CS4.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 1:08:44 PM	18938 Empresa promotora.pdf.dbp	OK	Admin	167	0	167	167	1	12.00in x 17.00in	Plain
+6/8/2015 1:08:44 PM	18938 Empresa promotora.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/8/2015 1:05:16 PM	18909 banco de antigua.pdf.dbp	OK	Admin	34	0	34	17	2	12.00in x 19.00in	Plain
+6/8/2015 1:05:16 PM	18909 banco de antigua.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 1:02:48 PM	18909 banco de antigua.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 12:57:41 PM	18944 etiqueta-cafe.pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/8/2015 12:57:41 PM	18944 etiqueta-cafe.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 12:55:22 PM	18941 11x17-Afiche-TRESM-00684-Mes-Electr-GUA.pdf.dbp	OK	Admin	99	0	99	99	1	12.00in x 19.00in	Plain
+6/8/2015 12:51:52 PM	18941 11x17-Afiche-TRESM-00684-Mes-Electr-GUA.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/8/2015 12:46:38 PM	18939 lima studio.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 12:46:38 PM	18939 lima studio.pdf.dbp	OK	Admin	42	0	42	21	2	13x19"	Plain
+6/8/2015 12:46:38 PM	18939 lima studio.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 12:44:01 PM	18939 lima studio.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 12:15:10 PM	18939 lima studio.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 11:51:36 AM	18921  y Mia ploter.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 11:51:36 AM	18921  y Mia ploter.pdf.dbp	OK	Admin	79	0	79	79	1	13x19"	Plain
+6/8/2015 11:51:36 AM	18921  y Mia ploter.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 11:45:41 AM	18935 Figaly Rot Peq Miraflores.pdf.dbp	OK	Admin	6	6	0	1	6	12.00in x 19.00in	Plain
+6/8/2015 11:42:11 AM	18935 Figaly Rot Peq Miraflores.pdf.dbp	OK	Admin	6	6	0	1	6	12.00in x 19.00in	Plain
+6/8/2015 11:42:11 AM	18935 Figaly Rot Peq Miraflores.pdf.dbp	OK	Admin	10	10	0	1	10	12.00in x 19.00in	Plain
+6/8/2015 11:40:23 AM	18935 Figaly Rot Peq Miraflores.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 11:28:35 AM	18936 Figaly Rot Peq Portales.pdf.dbp	OK	Admin	10	10	0	1	10	12.00in x 19.00in	Mixed
+6/8/2015 11:28:35 AM	18936 Figaly Rot Peq Portales.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 11:26:20 AM	18936 Figaly Rot Peq Portales.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 11:01:10 AM	18935 Figaly Rot Roja 2x1 11x7.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 11:01:10 AM	18935 Figaly Rot Roja 2x1 11x7.pdf.dbp	OK	Admin	58	0	58	29	2	12.00in x 19.00in	Plain
+6/8/2015 10:56:01 AM	18935 Figaly Rot Roja 2x1 11x7.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:47:10 AM	18935 Figaly Rot Grd Miraflores.pdf.dbp	OK	Admin	48	48	0	2	24	12.00in x 19.00in	Plain
+6/8/2015 10:47:10 AM	18935 Figaly Rot Grd Miraflores.pdf.dbp	OK	Admin	8	8	0	1	8	12.00in x 19.00in	Plain
+6/8/2015 10:39:46 AM	18935 Figaly Rot Grd Portales.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:39:46 AM	18935 Figaly Rot Grd Portales.pdf.dbp	OK	Admin	18	18	0	1	18	12.00in x 19.00in	Plain
+6/8/2015 10:38:04 AM	18935 Figaly Rot Grd Portales.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:36:12 AM	18935 Figaly Rot Grd Miraflores.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:36:12 AM	18935 Figaly Rot Grd Miraflores.pdf.dbp	OK	Admin	2	2	0	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:35:57 AM	18935 Figaly Rot Grd Portales.pdf.dbp	OK	Admin	1	1	0	1	1	12.00in x 19.00in	Plain
+6/8/2015 10:14:37 AM	18918 walter tarjetas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:14:37 AM	18918 walter tarjetas.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/8/2015 10:12:08 AM	18918 walter tarjetas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:08:58 AM	18918 walter tarjetas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 10:06:43 AM	18911 MOTIVO2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/8/2015 9:58:46 AM	18919 istiker 3-3.pdf.dbp	OK	Admin	40	0	40	40	1	13x19"	Plain
+6/8/2015 9:58:46 AM	18919 istiker 3-3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 9:56:34 AM	18919 istiker 3-3.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/8/2015 9:05:09 AM	18926 tigo .pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/8/2015 9:05:09 AM	18926 tigo .pdf.dbp	Canceled	Admin	0	0	0	0	16		
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	600	0	600	300	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	1000	0	1000	500	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	636	0	636	318	2	13x19"	Plain
+6/8/2015 8:55:30 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:54:08 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:52:52 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 8:36:58 AM	18932 Claro.pdf.dbp	OK	Admin	25	0	25	25	1	13x19"	Plain
+6/8/2015 8:36:58 AM	18932 Claro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/8/2015 8:33:06 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/8/2015 8:30:46 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/8/2015 8:29:09 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/8/2015 8:23:04 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/8/2015 8:22:24 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/8/2015 8:20:00 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/8/2015 8:17:10 AM	Calibration Full Width Array	Canceled	Operator	1	0	1	0	18	12.00in x 19.00in	Plain
+6/8/2015 8:08:09 AM	18919 invitación 13.pdf.dbp	OK	Admin	367	0	367	367	1	12.00in x 19.00in	Plain
+6/8/2015 8:08:09 AM	18919 invitación 13.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/8/2015 7:19:59 AM	18919 sobre XL 23.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/8/2015 7:01:20 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/8/2015 7:01:19 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/6/2015 9:49:18 AM	18892 guardas.pdf.dbp	OK	Admin	226	0	226	113	2	13x19"	Plain
+6/6/2015 9:47:02 AM	18892 guardas.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/6/2015 9:41:05 AM	18892 guardas.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/6/2015 9:02:39 AM	18892 portada y contra.pdf.dbp	Canceled	Admin	11	0	11	11	2	13x19"	Plain
+6/6/2015 9:02:39 AM	18892 portada y contra.pdf.dbp	OK	Admin	218	0	218	218	1	13x19"	Plain
+6/6/2015 8:59:57 AM	18892 portada y contra.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/6/2015 8:44:50 AM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/6/2015 8:37:39 AM	18892 separadores.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/6/2015 8:29:19 AM	18881 asofarma 2-2.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/6/2015 8:29:19 AM	18881 asofarma 2-2.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/6/2015 8:21:23 AM	18886 Trade stiker corazon.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/6/2015 8:21:23 AM	18886 Trade stiker corazon.pdf.dbp	OK	Admin	24	0	24	24	1	13x19"	Plain
+6/6/2015 8:17:31 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/6/2015 8:13:58 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/6/2015 8:12:25 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/6/2015 8:10:47 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/6/2015 8:07:00 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/6/2015 7:52:02 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/6/2015 7:47:33 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/6/2015 7:47:25 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/5/2015 4:45:56 PM	portada bautizo.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/5/2015 4:45:56 PM	portada bautizo.pdf.dbp	OK	Admin	35	0	35	35	1	12.00in x 19.00in	Plain
+6/5/2015 4:04:45 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/5/2015 4:04:44 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/5/2015 4:02:55 PM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 4:00:08 PM	18881 asofarma 1-2.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/5/2015 3:57:15 PM	18881 asofarma 1-2.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/5/2015 3:46:19 PM	18882 tarj corp conesco .pdf.dbp	OK	Admin	42	0	42	21	2	13x19"	Plain
+6/5/2015 3:46:19 PM	18882 tarj corp conesco .pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/5/2015 3:36:39 PM	18911 MOTIVO2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:36:39 PM	18911 MOTIVO2.pdf.dbp	OK	Admin	24	0	24	1	24	12.00in x 19.00in	Plain
+6/5/2015 3:31:25 PM	18911 MOTIVO3.pdf.dbp	OK	Admin	16	0	16	1	16	12.00in x 19.00in	Plain
+6/5/2015 3:31:25 PM	18911 MOTIVO3.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:30:59 PM	18911 MOTIVO2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:27:48 PM	18911 MOTIVO1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:27:48 PM	18911 MOTIVO1.pdf.dbp	OK	Admin	82	0	82	1	82	12.00in x 19.00in	Plain
+6/5/2015 3:25:04 PM	18911 MOTIVO1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:19:23 PM	18928 NOTRE DAME FINAL (1).pdf.dbp	OK	Admin	30	0	30	15	2	12.00in x 19.00in	Plain
+6/5/2015 3:19:23 PM	18928 NOTRE DAME FINAL (1).pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:15:51 PM	18928 NOTRE DAME FINAL (1).pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:15:51 PM	18928 NOTRE DAME FINAL (1).pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:12:07 PM	18920 g&c daniel perez.pdf.dbp	OK	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+6/5/2015 3:12:07 PM	18920 g&c daniel perez.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 3:07:58 PM	18920 g&c daniel perez.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 2:57:50 PM	18929 REPRESENTANTES boleta .pdf.dbp	OK	Admin	16	0	16	1	16	11x17"	Plain
+6/5/2015 2:33:49 PM	18917 antena .pdf.dbp	OK	Admin	11	0	11	11	1	13x19"	Plain
+6/5/2015 2:29:09 PM	18929 Agencia boleta .pdf.dbp	OK	Admin	23	0	23	1	23	11x17"	Plain
+6/5/2015 2:29:09 PM	18929 Agencia boleta .pdf.dbp	OK	Admin	10	0	10	1	10	11x17"	Plain
+6/5/2015 2:20:35 PM	18915 MENU BEBIDAS.pdf.dbp	OK	Admin	50	0	50	25	2	13x19"	Plain
+6/5/2015 2:09:17 PM	18915 MENU DESAYUNOS.pdf.dbp	OK	Admin	100	0	100	25	4	13x19"	Plain
+6/5/2015 2:09:17 PM	18915 MENU DESAYUNOS.pdf.dbp	OK	Admin	2	0	2	1	4	13x19"	Plain
+6/5/2015 1:51:50 PM	18915 MENU ALMUERZO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/5/2015 1:51:50 PM	18915 MENU ALMUERZO.pdf.dbp	OK	Admin	200	0	200	25	8	13x19"	Plain
+6/5/2015 1:38:40 PM	18924 D&A hojas.pdf.dbp	OK	Admin	2	0	2	1	2	13.00in x 17.00in	Plain
+6/5/2015 1:38:40 PM	18924 D&A hojas.pdf.dbp	OK	Admin	300	0	300	1	300	13.00in x 17.00in	Plain
+6/5/2015 1:29:33 PM	18924 D&A hojas.pdf.dbp	OK	Admin	2	0	2	1	2	13.00in x 17.00in	Plain
+6/5/2015 1:24:20 PM	18925 recurso corporativo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 1:24:20 PM	18925 recurso corporativo .pdf.dbp	OK	Admin	50	0	50	25	2	12.00in x 19.00in	Plain
+6/5/2015 1:21:47 PM	18925 recurso corporativo .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 1:00:20 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 1:00:20 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	40	0	40	20	2	12.00in x 19.00in	Plain
+6/5/2015 12:56:44 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 12:54:14 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 12:51:33 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 12:47:31 PM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 12:25:44 PM	Caja Priscy2.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/5/2015 12:24:25 PM	Caja Priscy.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/5/2015 12:00:42 PM	18886 Trade caja.pdf.dbp	OK	Admin	1	0	1	1	1	12.50in x 19.00in	Plain
+6/5/2015 12:00:42 PM	18886 Trade caja.pdf.dbp	OK	Admin	1	0	1	1	1	12.50in x 19.00in	Plain
+6/5/2015 12:00:42 PM	18886 Trade caja.pdf.dbp	Canceled	Admin	330	0	330	330	1	12.50in x 19.00in	Plain
+6/5/2015 12:00:42 PM	18886 Trade caja.pdf.dbp	OK	Admin	15	0	15	15	1	12.50in x 19.00in	Plain
+6/5/2015 11:47:18 AM	18840 INDUSTRIA HOLA.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	6	0	6	3	14	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	6	0	6	3	14	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	4	0	4	2	14	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	70	0	70	5	14	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	4	0	4	1	14	13x19"	Plain
+6/5/2015 11:20:15 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	10	0	10	1	10	13x19"	Plain
+6/5/2015 11:19:05 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/5/2015 11:10:18 AM	18863 BAUTECH FINAL.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/5/2015 11:06:04 AM	18914 gabriela leal .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 11:06:04 AM	18914 gabriela leal .pdf.dbp	OK	Admin	20	0	20	10	2	12.00in x 19.00in	Plain
+6/5/2015 10:52:53 AM	18913 Embajada de Ecuador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 10:45:34 AM	18848 OFICINA SANITARIA RECLAMO.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/5/2015 10:32:21 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	96	0	96	24	4	13x19"	Plain
+6/5/2015 10:32:21 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:30:52 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:29:27 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:27:56 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:25:53 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:23:34 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:22:08 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/5/2015 10:04:48 AM	18892 portada y contra.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/5/2015 9:47:10 AM	18842 mujeres fuego.pdf.dbp	OK	Admin	20	0	20	1	20	13x19"	Embossed paper
+6/5/2015 9:28:27 AM	18842 mujerses san antonio polopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/5/2015 9:24:56 AM	18842 mujeres santa catarina palopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/5/2015 9:23:10 AM	18842 mujeres santa catarina palopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/5/2015 9:19:40 AM	18842 mujeres santa catarina palopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/5/2015 9:08:32 AM	18842 mujeres santa catarina palopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/5/2015 8:53:37 AM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	260	0	260	130	2	12.00in x 19.00in	Plain
+6/5/2015 8:48:15 AM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	38	0	38	1	38	12.00in x 19.00in	Plain
+6/5/2015 8:46:13 AM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 8:43:57 AM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/5/2015 8:41:32 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/5/2015 8:34:25 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	31	0	31	31	1	12.00in x 19.00in	Plain
+6/5/2015 8:29:10 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	24	0	24	12	2	12.00in x 19.00in	Plain
+6/5/2015 8:25:51 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	18	0	18	3	6	12.00in x 19.00in	Plain
+6/5/2015 8:22:29 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	9	0	9	9	1	12.00in x 19.00in	Plain
+6/5/2015 8:19:21 AM	18906 Johanna Lucrecia.pdf.dbp	OK	Admin	3	0	3	3	1	12.00in x 19.00in	Plain
+6/5/2015 8:04:40 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/5/2015 8:04:39 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/4/2015 6:16:58 PM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 6:13:57 PM	18887 Nico y Mia carta.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 6:05:25 PM	18893 farma marketing.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/4/2015 6:04:01 PM	18893 farma marketing.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 5:53:42 PM	18893 farma marketing.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 5:53:42 PM	18893 farma marketing.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 5:53:42 PM	18893 farma marketing.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 5:46:53 PM	18860 CATALOGO portada.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/4/2015 5:43:12 PM	18851 Wendy.pdf.dbp	OK	Admin	6	0	6	6	1	12.00in x 19.00in	Plain
+6/4/2015 5:39:13 PM	18879 Analyt.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 5:39:13 PM	18879 Analyt.pdf.dbp	OK	Admin	9	0	9	9	1	12.00in x 19.00in	Plain
+6/4/2015 5:36:02 PM	18860 CATALOGO 39-40 f.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 5:36:02 PM	18860 CATALOGO 39-40 f.pdf.dbp	OK	Admin	8	0	8	4	2	13x19"	Plain
+6/4/2015 5:32:57 PM	18864 clinicas .pdf.dbp	OK	Admin	14	0	14	14	1	13x19"	Plain
+6/4/2015 5:29:47 PM	18905 distribuidora la nueva.pdf.dbp	OK	Admin	11	0	11	11	1	13x19"	Plain
+6/4/2015 5:27:24 PM	18885 comunicaciones estrategicas.pdf.dbp	OK	Admin	52	0	52	26	2	12.00in x 19.00in	Plain
+6/4/2015 5:11:12 PM	18860 CATALOGO 39-40 alta .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/4/2015 4:58:38 PM	18860 CATALOGO CORREGIDO2.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/4/2015 4:47:51 PM	18912 Johanna Lucrecia.pdf.dbp	OK	Admin	72	0	72	24	3	13x19"	Plain
+6/4/2015 4:47:51 PM	18912 Johanna Lucrecia.pdf.dbp	OK	Admin	25	0	25	25	3	13x19"	Plain
+6/4/2015 4:47:51 PM	18912 Johanna Lucrecia.pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/4/2015 4:32:00 PM	18904 distribuidora la nueva.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 4:32:00 PM	18904 distribuidora la nueva.pdf.dbp	OK	Admin	50	0	50	25	2	12x18"	Plain
+6/4/2015 4:28:26 PM	18904 distribuidora la nueva.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 4:22:54 PM	18884  Trecsa.pdf.dbp	OK	Admin	4	0	4	2	2	12.00in x 19.00in	Plain
+6/4/2015 4:09:43 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/4/2015 4:09:42 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/4/2015 4:09:36 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 4:09:36 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 4:09:36 PM	18860 CATALOGO CORREGIDO.pdf.dbp	Canceled	Admin	0	0	0	0	44		
+6/4/2015 4:09:36 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	16	0	16	4	4	13x19"	Plain
+6/4/2015 4:09:36 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	152	0	152	4	38	13x19"	Plain
+6/4/2015 3:53:52 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 3:52:46 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 3:49:49 PM	18860 CATALOGO CORREGIDO.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 3:40:25 PM	18884  Trecsa.pdf.dbp	OK	Admin	26	0	26	13	2	12.00in x 19.00in	Plain
+6/4/2015 3:40:25 PM	18884  Trecsa.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 3:35:27 PM	18885 comunicaciones estrategicas.pdf.dbp	Canceled	Admin	40	0	40	20	12	12.00in x 19.00in	Plain
+6/4/2015 3:35:27 PM	18885 comunicaciones estrategicas.pdf.dbp	OK	Admin	10	0	10	5	2	12.00in x 19.00in	Plain
+6/4/2015 3:30:10 PM	18885 comunicaciones estrategicas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 3:29:15 PM	18842 mujeres santa catarina palopo.pdf.dbp	Canceled	Admin	0	0	0	0	16		
+6/4/2015 3:28:48 PM	18842 mujerses san antonio polopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:28:31 PM	18842 mujeres san antonio aguas calientes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:28:10 PM	18842 mujeres san pedro necta.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:27:58 PM	18842 mujeres san juan comalapa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:27:43 PM	18842 mujeres san antonio aguas calientes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:26:38 PM	18842 hombres San antonio palopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:26:24 PM	18842  hombres san antonio aguas calientes.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:26:15 PM	18885 comunicaciones estrategicas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 3:26:03 PM	18842 hombres san pedro necta.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:25:53 PM	18842 hombres san juan comalapa.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:25:39 PM	18842 hombres santa catarina polopo.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Embossed paper
+6/4/2015 3:07:08 PM	18898 Portafolio 1 - Interior.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 3:07:08 PM	18898 Portafolio 1 - Interior.pdf.dbp	OK	Admin	8	0	8	1	8	12x18"	Plain
+6/4/2015 3:07:08 PM	18898 Portafolio 1 - Interior.pdf.dbp	OK	Admin	168	0	168	21	8	12x18"	Plain
+6/4/2015 3:07:08 PM	18898 Portafolio 1 - Interior.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 3:04:58 PM	18898 Portafolio 1 - Interior.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 2:55:14 PM	18898 Portafolio 1 - Tapa.pdf.dbp	OK	Admin	38	0	38	19	2	12x18"	Plain
+6/4/2015 2:55:14 PM	18898 Portafolio 1 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 2:55:14 PM	18898 Portafolio 1 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 2:55:14 PM	18898 Portafolio 1 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 1:09:41 PM	18862 Maite medrano .pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/4/2015 1:09:41 PM	18862 Maite medrano .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/4/2015 1:07:40 PM	18862 Maite medrano .pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/4/2015 12:49:35 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	10	12x18"	Plain
+6/4/2015 12:49:35 PM	18897 inte.pdf.dbp	OK	Admin	10	0	10	1	10	12x18"	Plain
+6/4/2015 12:49:35 PM	18897 inte.pdf.dbp	OK	Admin	190	0	190	19	10	12x18"	Plain
+6/4/2015 12:49:35 PM	18897 inte.pdf.dbp	OK	Admin	10	0	10	1	10	12x18"	Plain
+6/4/2015 12:49:35 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	10	12x18"	Plain
+6/4/2015 12:46:20 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 12:43:14 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 12:31:49 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 12:31:49 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 12:31:49 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 12:28:28 PM	18897 inte.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:56:52 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:56:52 AM	18897 Portafolio 2 - Tapa.pdf.dbp	Canceled	Admin	38	0	38	19	2	12x18"	Plain
+6/4/2015 11:52:28 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:48:29 AM	18908 artevolante-cuidarcuidan.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 11:48:29 AM	18908 artevolante-cuidarcuidan.pdf.dbp	OK	Admin	25	0	25	25	1	12.00in x 19.00in	Plain
+6/4/2015 11:38:26 AM	18874 cupon 5.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 11:36:52 AM	18874 cupon 4.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 11:31:43 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:28:36 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:23:20 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:20:00 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:17:22 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:15:36 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:12:49 AM	18897 Portafolio 2 - Tapa.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 11:04:03 AM	18897 inte.pdf	Canceled	Admin	0	0	0	0	20		
+6/4/2015 10:51:14 AM	18871 publimetro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/4/2015 10:51:14 AM	18871 publimetro.pdf.dbp	OK	Admin	121	0	121	121	1	13x19"	Plain
+6/4/2015 10:44:52 AM	18900 Centro de mesa (2).pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/4/2015 10:41:43 AM	18900 Centro de mesa (1).pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/4/2015 10:37:33 AM	18903 Rotulo_3_.pdf.dbp	OK	Admin	6	0	6	6	1	13x19"	Plain
+6/4/2015 10:30:42 AM	18903 Rotulos_2.pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/4/2015 10:29:14 AM	18903 Rotulos_1.pdf.dbp	OK	Admin	3	0	3	1	3	13x19"	Plain
+6/4/2015 10:08:14 AM	DH sobre prueba 1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 10:08:14 AM	DH sobre prueba 1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 9:57:33 AM	DH invitación.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 9:57:00 AM	DH sobre prueba 2.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 9:56:47 AM	DH sobre prueba 1 parte 2.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 9:56:47 AM	DH sobre prueba 1 parte 2.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 9:50:04 AM	18466 guarda color 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/4/2015 9:50:04 AM	18466 guarda color 2.pdf.dbp	OK	Admin	16	0	16	16	1	13x19"	Plain
+6/4/2015 9:43:12 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 9:43:12 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 9:31:02 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 9:24:37 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 9:22:59 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/4/2015 9:05:51 AM	18781 Polaris Reimpresion.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/4/2015 8:53:49 AM	18896 Revista Industria Junio -SHERPAS2-.pdf.dbp	OK	Admin	18	0	18	1	18	12x18"	Plain
+6/4/2015 8:51:39 AM	18896 Revista Industria Junio -SHERPAS2-.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 8:49:43 AM	18896 Revista Industria Junio -SHERPAS2-.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/4/2015 8:41:28 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 8:39:53 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 8:38:30 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 8:37:49 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/4/2015 8:32:48 AM	Calibration Full Width Array	Canceled	Operator	0	0	0	0	18		
+6/4/2015 8:30:37 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/4/2015 8:27:29 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 8:25:51 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/4/2015 8:22:53 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/4/2015 8:20:11 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/4/2015 8:17:30 AM	18880 Super Bocinas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/4/2015 8:15:17 AM	18880 Super Bocinas.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 19.00in	Plain
+6/4/2015 8:11:09 AM	18880 Super Bocinas.pdf.dbp	OK	Admin	12	0	12	2	6	12.00in x 19.00in	Plain
+6/4/2015 8:09:33 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/4/2015 8:09:31 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/3/2015 6:17:05 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 6:17:05 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 6:15:43 PM	18880 Super Bocinas.pdf.dbp	Canceled	Admin	0	0	0	0	22		
+6/3/2015 6:09:20 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	16	0	16	2	8	12.00in x 19.00in	Plain
+6/3/2015 6:09:20 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	8	0	8	1	8	12.00in x 19.00in	Plain
+6/3/2015 6:01:53 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	24	0	24	4	6	12.00in x 19.00in	Plain
+6/3/2015 5:52:02 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 5:52:02 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/3/2015 5:49:22 PM	18880 Super Bocinas.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 5:40:47 PM	18895 AGENCIA DATA  .pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 17.00in	Plain
+6/3/2015 5:22:35 PM	18895 REPRESENTANTES DATA 2.pdf.dbp	OK	Admin	4	0	4	1	4	12.00in x 17.00in	Plain
+6/3/2015 5:21:53 PM	18895 AGENCIA DATA  .pdf.dbp	OK	Admin	8	0	8	1	8	12.00in x 17.00in	Plain
+6/3/2015 5:04:18 PM	18876 Buzz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 5:04:18 PM	18876 Buzz.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 5:02:51 PM	18876 Buzz correccion 1.pdf.dbp	Canceled	Admin	0	0	0	0	0		
+6/3/2015 5:02:13 PM	18876 Buzz.pdf.dbp	Canceled	Admin	0	0	0	0	6		
+6/3/2015 4:27:58 PM	18833 target .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 4:27:58 PM	18833 target .pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/3/2015 4:27:58 PM	18833 target .pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/3/2015 4:02:57 PM	18876 Buzz arreglo arte1 abrillantador.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 3:56:30 PM	18874 cupon 5.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/3/2015 3:54:49 PM	18874 cupon 4.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/3/2015 3:51:34 PM	18874 cupon 3.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/3/2015 3:48:39 PM	18874 cupon 2.pdf.dbp	OK	Admin	14	0	14	1	14	13x19"	Plain
+6/3/2015 3:44:46 PM	18876 Buzz arreglo arte1 fondo.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 3:33:20 PM	18874 cupon 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/3/2015 3:33:20 PM	18874 cupon 1.pdf.dbp	OK	Admin	12	0	12	1	12	13x19"	Plain
+6/3/2015 3:33:20 PM	18874 cupon 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/3/2015 3:14:33 PM	18894 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 1:59:44 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/3/2015 1:59:43 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/3/2015 1:13:08 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	38	0	38	19	2	12.00in x 19.00in	Plain
+6/3/2015 1:13:08 PM	18876 Buzz correccion 1.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 1:11:50 PM	18876 Buzz correccion 1.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/3/2015 11:58:56 AM	18888 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/3/2015 11:58:56 AM	18888 interiores.pdf.dbp	OK	Admin	42	0	42	3	14	12x18"	Plain
+6/3/2015 11:58:56 AM	18888 interiores.pdf.dbp	OK	Admin	14	0	14	1	14	12x18"	Plain
+6/3/2015 11:38:21 AM	18888 Portada y contra.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/3/2015 11:38:21 AM	18888 Portada y contra.pdf.dbp	OK	Admin	4	0	4	2	2	12x18"	Plain
+6/3/2015 11:38:21 AM	18888 Portada y contra.pdf.dbp	OK	Admin	4	0	4	2	2	12x18"	Plain
+6/3/2015 11:38:00 AM	18888 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12x18"	Plain
+6/3/2015 10:13:18 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 10:13:18 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	4	0	4	4	1	12.00in x 19.00in	Plain
+6/3/2015 10:13:18 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 10:13:18 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	OK	Admin	7	0	7	7	1	12.00in x 19.00in	Plain
+6/3/2015 10:11:18 AM	18873 LOVEINTIMATES_VALE-1.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/3/2015 10:08:44 AM	18859 tablero nico y mia.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 10:08:44 AM	18859 tablero nico y mia.pdf.dbp	OK	Admin	602	0	602	301	2	12.00in x 19.00in	Plain
+6/3/2015 10:08:44 AM	18859 tablero nico y mia.pdf.dbp	Canceled	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 9:37:43 AM	18883 diploma D&A.pdf.dbp	OK	Admin	100	0	100	100	1	12x18"	Plain
+6/3/2015 9:37:43 AM	18883 diploma D&A.pdf.dbp	OK	Admin	1	0	1	1	1	12x18"	Plain
+6/3/2015 9:26:52 AM	18870 monumento.pdf.dbp	OK	Admin	150	0	150	150	1	12.00in x 19.00in	Plain
+6/3/2015 9:26:52 AM	18870 monumento.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 9:24:14 AM	18867 luis pedro.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 9:19:06 AM	18867 luis pedro.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/3/2015 9:19:06 AM	18867 luis pedro.pdf.dbp	OK	Admin	6	0	6	3	2	12.00in x 19.00in	Plain
+6/3/2015 9:08:33 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	20	2	18	1	20	13.00in x 17.00in	Plain
+6/3/2015 9:02:43 AM	18877 Big Fashion Book_Fernando.pdf.dbp	OK	Admin	2	1	1	1	2	13.00in x 17.00in	Plain
+6/3/2015 8:50:44 AM	18765 Alkemy SV .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/3/2015 8:42:28 AM	21 Sorted Patches EFI ES-2000	OK	Administrator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/3/2015 8:39:02 AM	21 Sorted Patches EFI ES-2000	OK	Administrator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 8:38:00 AM	21 Sorted Patches EFI ES-2000	Canceled	Administrator	0	0	0	0	1		
+6/3/2015 8:37:03 AM	21 Sorted Patches EFI ES-2000	Canceled	Administrator	0	0	0	0	1		
+6/3/2015 8:35:17 AM	21 Sorted Patches EFI ES-2000	OK	Administrator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 8:33:16 AM	21 Sorted Patches EFI ES-2000	OK	Administrator	1	0	1	1	1	12x18"	Plain
+6/3/2015 8:26:40 AM	21 Sorted Patches EFI ES-2000	OK	Administrator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/3/2015 8:21:48 AM	18765 Alkemy SV .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/3/2015 5:59:40 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/3/2015 5:59:38 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/2/2015 6:02:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/2/2015 6:02:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	OK	Admin	8	0	8	4	2	11.50in x 17.50in	Embossed paper
+6/2/2015 6:02:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	OK	Admin	8	0	8	4	2	11.50in x 17.50in	Embossed paper
+6/2/2015 6:02:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Embossed paper
+6/2/2015 5:48:22 PM	18854 Andres Giron final.pdf.dbp	OK	Admin	8	0	8	4	2	12.00in x 19.00in	Plain
+6/2/2015 5:48:22 PM	18854 Andres Giron final.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 5:42:14 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	OK	Admin	4	0	4	1	4	11.50in x 17.50in	Embossed paper
+6/2/2015 5:28:51 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/2/2015 5:28:51 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	39	0	39	39	1	13x19"	Plain
+6/2/2015 5:28:51 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 5:08:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 5:08:00 PM	18731 AGEXPORT RECLAMPO.pdf.dbp	Canceled	Admin	0	0	0	0	4		
+6/2/2015 4:58:22 PM	18768 apicola .pdf.dbp	OK	Admin	48	0	48	24	2	12.00in x 19.00in	Plain
+6/2/2015 4:58:22 PM	18768 apicola .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 4:54:36 PM	18768 apicola .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 4:13:15 PM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/2/2015 4:13:15 PM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	4	4	0	4	1	13x19"	Plain
+6/2/2015 4:13:15 PM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	4	4	0	4	1	13x19"	Plain
+6/2/2015 4:13:15 PM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	3	3	0	3	1	13x19"	Plain
+6/2/2015 4:13:15 PM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	4	4	0	4	1	13x19"	Plain
+6/2/2015 3:10:13 PM	18797 sobre BARNIZ COLOR3.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 2:49:31 PM	18797 sobre BARNIZ COLORES.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	Canceled	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	OK	Admin	50	0	50	50	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	OK	Admin	50	0	50	50	1	13x19"	Plain
+6/2/2015 2:37:07 PM	18797 sobre.pdf.dbp	Canceled	Admin	14	0	14	14	1	13x19"	Plain
+6/2/2015 2:23:39 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/2/2015 2:23:38 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	151	0	151	151	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	4	0	4	4	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	45	0	45	45	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/2/2015 1:18:33 PM	18797 sobre foil grande Negro puro.pdf.dbp	OK	Admin	3	0	3	3	1	13x19"	Plain
+6/2/2015 1:14:53 PM	18768 apicola .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 1:11:14 PM	18768 apicola .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 1:08:19 PM	18797 sobre foil grande verde clear.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:08:19 PM	18797 sobre foil grande verde clear.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 1:04:28 PM	18768 apicola .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 12:48:38 PM	18797 sobre foil grande rojo clear.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:29:10 PM	18841 Afiche proyecto recibos de pago 150522.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/2/2015 12:29:10 PM	18841 Afiche proyecto recibos de pago 150522.pdf.dbp	OK	Admin	399	0	399	399	1	12.00in x 19.00in	Plain
+6/2/2015 12:20:12 PM	18749 Portada Ralik mov1 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:20:12 PM	18749 Portada Ralik mov1 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:20:12 PM	18749 Portada Ralik mov1 foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:19:23 PM	18797 GYT individual sin color en gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:19:23 PM	18797 GYT individual sin color en gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:02:56 PM	18797 GYT individual franja para foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:02:56 PM	18797 GYT individual franja para foil.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/2/2015 12:02:30 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	2	0	2	2	1	13x19"	Plain
+6/2/2015 12:02:30 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:02:30 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:02:30 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 12:02:30 PM	18797 GYT individual sin gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:52:59 AM	18797 GYT individual sin gyt.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/2/2015 11:50:47 AM	18797 GYT individual sin color en gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:50:47 AM	18797 GYT individual sin color en gyt.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:49:02 AM	18797 GYT individual plasta negra.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:42:35 AM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/2/2015 11:42:35 AM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/2/2015 11:42:35 AM	18797 GYT individual foil gyt.pdf.dbp	OK	Admin	1	1	0	1	1	13x19"	Plain
+6/2/2015 11:42:35 AM	18797 GYT individual foil gyt.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	Canceled	Admin	25	0	25	25	1	13x19"	Plain
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Mixed
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:38:05 AM	18797 sobre foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 11:34:42 AM	18797 GYT individual plasta negra.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/2/2015 11:34:24 AM	18797 GYT individual sin color en gyt.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/2/2015 11:24:03 AM	18797 GYT 2-2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 10:58:14 AM	18846trecsa 2  .pdf.dbp	OK	Admin	98	0	98	49	2	12.00in x 19.00in	Plain
+6/2/2015 10:58:14 AM	18846trecsa 2  .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:58:14 AM	18846trecsa 2  .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:55:16 AM	18846 trecsa 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:55:16 AM	18846 trecsa 1 .pdf.dbp	OK	Admin	198	0	198	99	2	12.00in x 19.00in	Plain
+6/2/2015 10:55:16 AM	18846 trecsa 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:53:06 AM	18846 trecsa 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:50:40 AM	18846 trecsa 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:44:56 AM	18846 trecsa 1 .pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 10:40:53 AM	18844 Alcart Group.pdf.dbp	OK	Admin	10	0	10	10	1	13x19"	Plain
+6/2/2015 10:40:53 AM	18844 Alcart Group.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 10:35:09 AM	18844 Alcart Group.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/2/2015 10:29:18 AM	18843 Galeria el Tunel.pdf.dbp	OK	Admin	100	0	100	50	2	13x19"	Plain
+6/2/2015 10:29:18 AM	18843 Galeria el Tunel.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/2/2015 10:19:26 AM	18843 Galeria el Tunel.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/2/2015 10:13:47 AM	18849 final.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:13:47 AM	18849 final.pdf.dbp	OK	Admin	150	0	150	75	2	12.00in x 19.00in	Plain
+6/2/2015 10:06:43 AM	18849 final.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 10:02:27 AM	18797 sobre.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/2/2015 10:02:27 AM	18797 sobre.pdf.dbp	OK	Admin	155	0	155	155	1	13x19"	Plain
+6/2/2015 9:53:57 AM	18798 separador.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/2/2015 9:51:56 AM	18798 separador.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/2/2015 9:48:54 AM	18798 separador.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:48:54 AM	18798 separador.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:48:54 AM	18798 separador.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:48:54 AM	18798 separador.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:38:41 AM	18798 contraportada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 9:26:17 AM	18798 contraportada.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:26:17 AM	18798 contraportada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 9:26:17 AM	18798 contraportada.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/2/2015 9:22:57 AM	18798 contraportada.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 9:01:50 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/2/2015 8:59:42 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/2/2015 8:57:10 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/2/2015 8:55:57 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+6/2/2015 8:55:19 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+6/2/2015 8:55:10 AM	21 Sorted Patches EFI ES-1000	Canceled	Operator	0	0	0	0	1		
+6/2/2015 8:50:41 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/2/2015 8:48:42 AM	Calibration Full Width Array	Canceled	Operator	1	0	1	0	18	12.00in x 17.00in	Plain
+6/2/2015 8:45:33 AM	21 Sorted Patches EFI ES-1000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/2/2015 8:40:27 AM	18798 interiores.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/2/2015 8:40:27 AM	18798 interiores.pdf.dbp	OK	Admin	36	0	36	1	36	12.00in x 19.00in	Plain
+6/2/2015 6:22:51 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/2/2015 6:22:49 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/1/2015 6:39:18 PM	18822 novex data 3.pdf.dbp	OK	Admin	2	0	2	1	4	13x19"	Plain
+6/1/2015 6:39:18 PM	18822 novex data 3.pdf.dbp	OK	Admin	4	0	4	1	4	13x19"	Plain
+6/1/2015 6:00:50 PM	18765 Alkemy HON .pdf.dbp	OK	Admin	2	0	2	1	2	11.50in x 17.50in	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	Canceled	Admin	3	0	3	3	1	13x19"	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	OK	Admin	25	0	25	25	1	13x19"	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	OK	Admin	25	0	25	25	1	13x19"	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 4:51:31 PM	18797 GYT Foil.pdf.dbp	OK	Admin	25	0	25	25	1	13x19"	Plain
+6/1/2015 4:44:05 PM	18837 Trecsa.pdf.dbp	OK	Admin	7	0	7	7	1	13x19"	Plain
+6/1/2015 4:44:05 PM	18837 Trecsa.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 4:39:30 PM	18836 trecsa 2  .pdf.dbp	OK	Admin	102	0	102	51	2	12.00in x 19.00in	Plain
+6/1/2015 4:39:30 PM	18836 trecsa 2  .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/1/2015 4:33:49 PM	18836 trecsa  2.pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/1/2015 4:32:59 PM	18836 trecsa 1 .pdf.dbp	OK	Admin	204	0	204	102	2	12.00in x 19.00in	Plain
+6/1/2015 4:32:59 PM	18836 trecsa 1 .pdf.dbp	OK	Admin	2	0	2	1	2	12.00in x 19.00in	Plain
+6/1/2015 4:15:38 PM	18822 novex data 1.pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 4:11:09 PM	18822 novex data 2 .pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 4:05:48 PM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/1/2015 4:05:48 PM	VerifierAssistant	OK	Admin	0	0	0	0	0		
+6/1/2015 3:51:26 PM	18841 Afiche proyecto recibos de pago 150522.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 3:40:40 PM	18841 Afiche proyecto recibos de pago 150522.pdf.dbp	OK	Admin	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 2:40:51 PM	18822 novex data 4.pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 2:37:12 PM	18822 novex data 3.pdf.dbp	OK	Admin	16	0	16	1	26	13x19"	Plain
+6/1/2015 2:37:12 PM	18822 novex data 3.pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 2:24:30 PM	18822 novex data 2 .pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 2:17:57 PM	18822 novex data 4.pdf.dbp	OK	Admin	0	0	0	0	26		
+6/1/2015 2:16:15 PM	18822 novex data 3.pdf.dbp	OK	Admin	0	0	0	0	26		
+6/1/2015 2:13:41 PM	18822 novex data 2 .pdf.dbp	OK	Admin	0	0	0	0	26		
+6/1/2015 2:12:21 PM	18822 novex data 1.pdf.dbp	OK	Admin	26	0	26	1	26	13x19"	Plain
+6/1/2015 2:09:19 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 2:06:14 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 2:04:28 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 2:02:58 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 2:00:35 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 1:58:31 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 1:28:20 PM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	20	0	20	20	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	Canceled	Admin	3	0	3	3	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	100	0	100	100	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	Canceled	Admin	0	0	0	0	1		
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:45:22 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	35	0	35	35	1	13x19"	Mixed
+6/1/2015 11:39:04 AM	18749 Portada Ralik.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:21:15 AM	18832 d print cupones 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:21:15 AM	18832 d print cupones 2.pdf.dbp	OK	Admin	125	0	125	1	125	13x19"	Plain
+6/1/2015 11:08:36 AM	18466 guarda color 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:08:36 AM	18466 guarda color 2.pdf.dbp	OK	Admin	5	0	5	5	1	13x19"	Plain
+6/1/2015 11:08:36 AM	18466 guarda color 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:04:45 AM	18466 guarda color 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 11:03:27 AM	18466 guarda color 2.pdf.dbp	OK	Admin	1	0	1	1	1	13x19"	Plain
+6/1/2015 10:18:23 AM	prueba.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/1/2015 10:18:23 AM	prueba.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 9:57:17 AM	18822 novex data 1.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 9:57:17 AM	18822 novex data 1.pdf.dbp	OK	Admin	6	0	6	3	2	13x19"	Plain
+6/1/2015 9:57:17 AM	18822 novex data 1.pdf.dbp	OK	Admin	4	0	4	2	2	13x19"	Plain
+6/1/2015 9:57:17 AM	18822 novex data 1.pdf.dbp	Canceled	Admin	0	0	0	0	2		
+6/1/2015 8:50:06 AM	18817 Bercom.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 8:50:06 AM	18817 Bercom.pdf.dbp	OK	Admin	20	0	20	10	2	13x19"	Plain
+6/1/2015 8:45:39 AM	18817 Bercom.pdf.dbp	OK	Admin	2	0	2	1	2	13x19"	Plain
+6/1/2015 8:41:58 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 8:39:32 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 8:37:24 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	11x17"	Plain
+6/1/2015 8:26:32 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12x18"	Plain
+6/1/2015 8:23:50 AM	Fiery Comparison Page	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 8:21:18 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 19.00in	Plain
+6/1/2015 8:20:44 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/1/2015 8:18:08 AM	Fiery Comparison Page	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/1/2015 8:14:17 AM	21 Sorted Patches EFI ES-2000	OK	Operator	1	0	1	1	1	12.00in x 17.00in	Plain
+6/1/2015 8:12:59 AM	21 Sorted Patches EFI ES-2000	Canceled	Operator	0	0	0	0	1		
+6/1/2015 8:05:46 AM	Color test page - CMYK	Canceled	Admin	0	0	0	0	1		
+6/1/2015 8:05:44 AM	VerifierAssistant	OK	Admin	0	0	0	0	0		
