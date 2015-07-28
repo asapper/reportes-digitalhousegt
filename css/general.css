@@ -9,16 +9,20 @@
 	#print-icon {
 		display: none;
 	}
+
+    thead {
+        display: table-header-group;
+    }
 }
 
 @page {
-    margin-right: 0mm;
-    margin-left:  0mm;
+    margin: auto 0;
 }
 
-@page :first {
+@page:first {
     margin-top: 0mm;
 }
+
 
 body {
     background-color: white;
