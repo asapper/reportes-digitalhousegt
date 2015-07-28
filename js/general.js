@@ -4,22 +4,6 @@
  * Creado:  06/30/2015
  */
 
-var nw = require('nw.gui');
-
-// load main window's menu
-if (process.platform === 'darwin') {
-    var gui = require('nw.gui');
-    var menuBar = new gui.Menu({type:"menubar"});
-    menuBar.createMacBuiltin("Reportes DH", {
-        hideEdit: true
-    });
-    
-    gui.Window.get().menu = menuBar;
-}
-else if (process.platform === 'win32') {
-    
-}
-
 // cambiar fondo y verso del dia acorde a fecha
 var dia = ( new Date().getDate() ) % 19,
     versos = [
