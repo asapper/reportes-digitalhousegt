@@ -89,7 +89,7 @@ var dia = ( new Date().getDate() ) % 18,
 $(document).ready( function () {
     // cambiar imagen de strip
     var element = document.getElementById('main-strip');
-    element.style.background = 'url(./images/backg-' + dia + '.jpg)';
+    element.style.background = 'url(/images/backg-' + dia + '.jpg)';
     
     // cambiar verso del dia
     $('#verse-body').html(versos[dia].body);
